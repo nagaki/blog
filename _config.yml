@@ -1,2 +1,5 @@
-name: Your New Jekyll Site
+name: ALLAURMONO
 pygments: true
+permalink: none
+markdown: rdiscount
+markdown_ext: markdown,md
