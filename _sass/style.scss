@@ -193,18 +193,6 @@ a {
   address {
     font-style: normal;
     padding: 0 0 0 1em;
-    a {
-      color: $bit-color;
-      &:visited {
-        color: $bit-color-visited;
-      }
-      &:active {
-        color: $bit-color-active;
-      }
-      &:hover {
-        color: $bit-color-hover;
-      }
-    }
   }
 }
 #copyright {
