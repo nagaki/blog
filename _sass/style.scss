@@ -40,17 +40,9 @@ a {
 /* container
 -------------------- */
 #container {
-  padding-top: 20px;
-  @media ( min-width: $desktop-width ) {
-    margin-right: auto;
-    margin-left: auto;
-    padding-bottom: 20px;
-    width: $desktop-width;
-  }
-  @media ( max-width: $desktop-width ) {
-    padding-right: $base-padding;
-    padding-left: $base-padding;
-  }
+  margin: 0 auto;
+  max-width: $desktop-width;
+  padding: $base-padding;
 }
 
 /* header
