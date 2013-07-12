@@ -21,14 +21,16 @@ img {
   height: auto;
 }
 a {
-  @include single-transition( all, .25s, false, false );
-  color: $sub-color;
+  color: $link-color;
   text-decoration: none;
   &:visited {
-    color: $sub-color-visited;
+    color: lighten($link-color, 10);
   }
   &:hover {
-    color: $sub-color-hover;
+    color: darken($link-color, 10);
+  }
+  &:active {
+    color: invert($link-color);
   }
 }
 .assistive {
@@ -51,23 +53,18 @@ a {
   margin: 0 0 $base-margin;
   text-align: center;
   .title {
-    margin: 0 0 10px;
+    margin: 0 0 $base-margin / 2;
     padding: $base-padding;
-    a {
-      img {
-        vertical-align: top;
-      }
+    img {
+      vertical-align: top;
     }
   }
   .description {
-    color: #777;
+    color: $light-color;
     line-height: 1em;
+    line-height: 1rem;
     margin: 0;
     padding: $base-padding / 2;
-    @media ( max-width: $phone-width ) {
-      @include font-size(1.2);
-      padding: 0;
-    }
   }
 }
 #globalnavigation {
@@ -84,28 +81,27 @@ a {
 -------------------- */
 #content {
   margin: 0 0 $base-margin;
-  .meta,
-  .date,
+  time,
   .tag {
     @include font-size(1.3);
-    color: gray;
+    color: $light-color;
     font-family: Monaco, "Courier New", monospace;
   }
   header {
-    border: {
-      color: gray;
-      style: solid;
-      width: 0 0 0 2px;
-    }
+    border-left: 2px solid $light-color;
     margin: 0 0 $base-margin;
     padding: .25em .5em 0;
     h1 {
       @include font-size(1.6);
       margin: 0;
     }
-    .meta,
-    .tags {
+    .meta {
       margin: .25em 0;
+    }
+    time {
+      &:after {
+        content: "/"
+      }
     }
   }
   .body {
@@ -113,32 +109,25 @@ a {
       @include font-size(1.6);
     }
     img {
-      background-color: #fff;
-      border: 1px solid #ddd;
-      @include border-radius(3px);
-      padding: 5px;
-    }
-    @media ( max-width: $phone-width ) {
-      img {
-        width: 96%;
-      }
+      background-color: $clear-color;
+      border-radius: $radius-out;
+      padding: 4px;
     }
   }
   .posts {
-    list-style: none;
-    padding-left: 1em;
-    li {
-      line-height: 1.8em;
+    article {
+      padding: .25em 0;
     }
-    @media ( max-width: $phone-width ) {
-      padding-left: 0;
-      .date {
-        display: block;
-      }
-      li {
-        border-top: 1px dotted #ddd;
-        line-height: normal;
-        padding: .5em;
+    h1 {
+      @include font-size(1.4);
+      //@include inline-block;
+      display: inline;
+      font-weight: normal;
+      margin: 0;
+    }
+    time {
+      &:after {
+        content: "»";
       }
     }
   }
@@ -177,18 +166,14 @@ a {
 -------------------- */
 #footer {
   @include font-size(1.3);
-  border: {
-    color: #ccc;
-    style: dashed;
-    width: 1px 0 0 ;
-  }
+  border-top: 1px dashed $clear-color;
   address {
     font-style: normal;
     padding: 0 0 0 1em;
   }
 }
 #copyright {
-  color: #777;
+  color: $light-color;
   padding: 1.5em;
   text-align: center;
 }
@@ -196,13 +181,13 @@ a {
 /* highlight
 -------------------- */
 .highlight {
-  @include border-radius;
+  border-radius: $radius-out;
   padding: .75em;
   pre {
     margin: 0;
   }
   .lineno {
-    color: $accent-color;
+    color: $oops-color;
   }
 }
 #content {
@@ -210,5 +195,77 @@ a {
   code {
     @include font-size(1.3);
     font-family: Monaco, "Courier New", monospace;
+  }
+}
+
+/* Media
+-------------------- */
+@media ( max-width: $phone-width ) {
+  #header {
+    .title {
+      padding: 0;
+      margin-bottom: $base-margin * 1.5;
+    }
+    .description {
+      @include font-size(1.2);
+      padding: 0;
+    }
+  }
+  #content {
+    .body {
+      img {
+        width: 96%;
+      }
+    }
+    .posts {
+      article {
+        border-top: 1px dashed $clear-color;
+      }
+      h1 {
+      }
+      time {
+        display: block;
+        padding: .25em 0 0;
+        &:after {
+          content: none;
+        }
+      }
+    }
+  }
+}
+@media print {
+  body {
+    background-color: #fff;
+    color: #000;
+  }
+  #header {
+    margin-bottom: 0;
+    .title {
+      background-color: #666;
+      border-radius: $radius-out;
+      padding: $base-padding / 2;
+      img {
+        width: 40%;
+      }
+    }
+  }
+  #header .description,
+  #globalnavigation {
+    display: none;
+  }
+  #content {
+    .body {
+      img {
+        background-color: #fff;
+        border-radius: 0;
+        padding: 0;
+      }
+    }
+  }
+  .highlight {
+    background-color: #fff !important;
+    border-radius: 0;
+    border-top: 1px solid #999;
+    border-bottom: 1px solid #999;
   }
 }

@@ -1,6 +1,8 @@
+@import "base";
+
 // Jekyll Syntax Coloring
 .highlight  {
-  background: #ffffff;
+  background: $clear-color;
   .c { color: #999988; font-style: italic } /* Comment */
   .err { color: #a61717; background-color: #e3d2d2 } /* Error */
   .k { font-weight: bold } /* Keyword */
