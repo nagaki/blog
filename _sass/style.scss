@@ -107,6 +107,7 @@ a {
   .body {
     h2 {
       @include font-size(1.6);
+      border-bottom: 1px dashed $clear-color;
     }
     img {
       background-color: $clear-color;
