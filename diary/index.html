@@ -1,16 +1,19 @@
 ---
 layout: default
-title: All Practices
-date: 2013-07-10 12:00
+title: Diary
+date: 2013-07-11 12:00
 ---
 
-<section id="content" class="practice">
+<section id="content" class="diary">
   <header>
     <h1>{{ page.title }}</h1>
   </header>
   <div class="body">
     <div class="posts">
-      {% for post in site.categories.practice %}
+      {% unless site.categories.diary %}
+      <p>No Posts in {{ page.title }}.</p>
+      {% endunless %}
+      {% for post in site.categories.diary %}
       <article>
         <time datetime="{{ post.date | date_to_xmlschema }}">
           {{ post.date | date_to_string }}

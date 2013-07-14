@@ -1,5 +1,5 @@
 ---
-title: このブログについて
+title: About
 layout: page
 date: 2012-06-25 12:00
 ---

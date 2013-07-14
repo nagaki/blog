@@ -38,6 +38,10 @@ a {
   clip: rect(1px, 1px, 1px, 1px);
   clip: rect(1px 1px 1px 1px);
 }
+::selection {
+  background-color: $cool-color;
+  color: #fff;
+}
 
 /* container
 -------------------- */
