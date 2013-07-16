@@ -1,6 +1,7 @@
 ---
 title: あけましておめでとうございます
 layout: post
+comments: true
 categories:
   - diary
 tags:

@@ -1,6 +1,7 @@
 ---
 title: 上林峠
 layout: post
+comments: true
 categories:
   - diary
 tags:

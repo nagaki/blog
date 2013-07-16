@@ -1,6 +1,7 @@
 ---
 title: 珈琲のはなし
 layout: post
+comments: true
 categories:
   - diary
 tags:
