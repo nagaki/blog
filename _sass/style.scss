@@ -136,6 +136,15 @@ a {
   }
 }
 
+/* comment
+-------------------- */
+#comments {
+  background-color: #fff;
+  border-radius: $radius-out;
+  margin-bottom: $base-margin;
+  padding: $base-padding $base-padding 0;
+}
+
 /* tag color
 -------------------- */
 .art {
