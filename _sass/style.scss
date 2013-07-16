@@ -16,7 +16,8 @@ body {
 
 /* element
 -------------------- */
-img {
+img,
+object[type="image/svg+xml"] {
   max-width: 100%;
   height: auto;
 }
@@ -59,9 +60,6 @@ a {
   .title {
     margin: 0 0 $base-margin / 2;
     padding: $base-padding;
-    img {
-      vertical-align: top;
-    }
   }
   .description {
     color: $light-color;

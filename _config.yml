@@ -5,3 +5,7 @@ pygments: true
 permalink: none
 markdown: rdiscount
 markdown_ext: markdown,md
+exclude:
+  - README.md
+  - s3_website.yml
+url: http://blog.nagaki.me
