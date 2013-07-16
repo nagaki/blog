@@ -1,6 +1,7 @@
 ---
 title: みかんジャム
 layout: post
+comments: true
 categories:
   - diary
 tags:
