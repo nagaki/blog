@@ -111,6 +111,21 @@ a {
       @include font-size(1.6);
       border-bottom: 1px dashed $clear-color;
     }
+    h3 {
+      border-left: 2px solid $light-color;
+      padding-left: .5em;
+    }
+    hr {
+      border: {
+        color: $light-color;
+        style: solid;
+      }
+    }
+    blockquote {
+      border-left: 2px solid $clear-color;
+      font-style: italic;
+      padding-left: .5em;
+    }
     img {
       background-color: $clear-color;
       border-radius: $radius-out;
