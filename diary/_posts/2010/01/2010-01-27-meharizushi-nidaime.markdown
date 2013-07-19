@@ -1,7 +1,7 @@
 ---
 title: 南紀熊野名物『めはり寿司二代目』
 layout: post
-comments: true
+comments: false
 categories:
   - diary
 tags:

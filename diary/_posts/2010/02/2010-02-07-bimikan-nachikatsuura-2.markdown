@@ -1,7 +1,7 @@
 ---
 title: 台湾料理『美味館』再び！
 layout: post
-comments: true
+comments: false
 categories:
   - diary
 tags:

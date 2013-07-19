@@ -1,7 +1,7 @@
 ---
 title: ラーメン・餃子『璃王』
 layout: post
-comments: true
+comments: false
 categories:
   - diary
 tags:

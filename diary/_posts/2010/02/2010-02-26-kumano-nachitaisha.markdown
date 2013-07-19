@@ -1,7 +1,7 @@
 ---
 title: 熊野那智大社
 layout: post
-comments: true
+comments: false
 categories:
   - diary
 tags:

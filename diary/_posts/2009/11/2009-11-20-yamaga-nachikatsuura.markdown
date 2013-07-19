@@ -1,7 +1,7 @@
 ---
 title: ほんまもんまぐろ丼の店『山賀』
 layout: post
-comments: true
+comments: false
 categories:
   - diary
 tags:

@@ -1,7 +1,7 @@
 ---
 title: あげいん熊野詣に参加してきました（前編）
 layout: post
-comments: true
+comments: false
 categories:
   - diary
 tags:

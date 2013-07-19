@@ -1,7 +1,7 @@
 ---
 title: 『猫楠 南方熊楠の生涯』水木しげる
 layout: post
-comments: true
+comments: false
 categories:
   - diary
 tags:

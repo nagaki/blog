@@ -1,7 +1,7 @@
 ---
 title: ちきゅう一般公開に行ってきました
 layout: post
-comments: true
+comments: false
 categories:
   - diary
 tags:

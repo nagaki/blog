@@ -1,7 +1,7 @@
 ---
 title: いまさら那智勝浦の紹介
 layout: post
-comments: true
+comments: false
 categories:
   - diary
 tags:

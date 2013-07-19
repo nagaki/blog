@@ -1,7 +1,7 @@
 ---
 title: 本州ほぼ最南端！那智勝浦にやってきました
 layout: post
-comments: true
+comments: false
 categories:
   - diary
 tags:

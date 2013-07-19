@@ -1,7 +1,7 @@
 ---
 title: 日本一短い川！ぶつぶつ川
 layout: post
-comments: true
+comments: false
 categories:
   - diary
 tags:

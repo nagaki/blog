@@ -1,7 +1,7 @@
 ---
 title: 海の湯（足湯）
 layout: post
-comments: true
+comments: false
 categories:
   - diary
 tags:

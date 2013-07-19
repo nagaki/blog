@@ -1,7 +1,7 @@
 ---
 title: 那智駅～補陀洛山寺
 layout: post
-comments: true
+comments: false
 categories:
   - diary
 tags:

@@ -1,7 +1,7 @@
 ---
 title: 滝の湯（足湯）
 layout: post
-comments: true
+comments: false
 categories:
   - diary
 tags:

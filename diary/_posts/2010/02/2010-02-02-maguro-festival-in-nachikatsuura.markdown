@@ -1,7 +1,7 @@
 ---
 title: まぐろ祭りとシンポジウム
 layout: post
-comments: true
+comments: false
 categories:
   - diary
 tags:

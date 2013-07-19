@@ -1,7 +1,7 @@
 ---
 title: 大門坂
 layout: post
-comments: true
+comments: false
 categories:
   - diary
 tags:

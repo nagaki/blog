@@ -1,7 +1,7 @@
 ---
 title: 勝浦八幡神社例大祭その２
 layout: post
-comments: true
+comments: false
 categories:
   - diary
 tags:

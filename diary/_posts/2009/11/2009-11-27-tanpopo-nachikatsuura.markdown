@@ -1,7 +1,7 @@
 ---
 title: 和歌山ラーメン『たんぽぽ』
 layout: post
-comments: true
+comments: false
 categories:
   - diary
 tags:

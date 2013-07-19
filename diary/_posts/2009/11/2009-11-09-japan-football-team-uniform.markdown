@@ -1,7 +1,7 @@
 ---
 title: サッカー日本代表新ユニフォーム
 layout: post
-comments: true
+comments: false
 categories:
   - diary
 tags:

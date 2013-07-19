@@ -1,7 +1,7 @@
 ---
 title: なんじゃこりゃ～な秘湯
 layout: post
-comments: true
+comments: false
 categories:
   - diary
 tags:

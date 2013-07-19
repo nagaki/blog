@@ -1,7 +1,7 @@
 ---
 title: 那智の滝
 layout: post
-comments: true
+comments: false
 categories:
   - diary
 tags:

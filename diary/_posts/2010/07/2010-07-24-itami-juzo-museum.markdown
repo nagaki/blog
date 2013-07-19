@@ -1,7 +1,7 @@
 ---
 title: 伊丹十三記念館
 layout: post
-comments: true
+comments: false
 categories:
   - diary
 tags:

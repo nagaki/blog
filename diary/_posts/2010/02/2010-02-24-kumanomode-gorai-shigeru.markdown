@@ -1,7 +1,7 @@
 ---
 title: 『熊野詣 三山信仰と文化』五来 重
 layout: post
-comments: true
+comments: false
 categories:
   - diary
 tags:

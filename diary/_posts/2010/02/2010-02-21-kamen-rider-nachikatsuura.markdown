@@ -1,7 +1,7 @@
 ---
 title: 吸血モスキラス対二人ライダー
 layout: post
-comments: true
+comments: false
 categories:
   - diary
 tags:

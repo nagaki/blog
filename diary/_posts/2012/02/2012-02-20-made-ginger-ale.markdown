@@ -1,7 +1,7 @@
 ---
 title: ジンジャーエール
 layout: post
-comments: true
+comments: false
 categories:
   - diary
 tags:

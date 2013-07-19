@@ -1,7 +1,7 @@
 ---
 title: Ｉターン
 layout: post
-comments: true
+comments: false
 categories:
   - diary
 tags:

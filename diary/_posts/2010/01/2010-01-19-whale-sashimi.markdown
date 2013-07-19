@@ -1,7 +1,7 @@
 ---
 title: くじらの刺身を食べました
 layout: post
-comments: true
+comments: false
 categories:
   - diary
 tags:

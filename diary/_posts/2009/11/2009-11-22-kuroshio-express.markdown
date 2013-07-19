@@ -1,7 +1,7 @@
 ---
 title: 特急くろしお＆柿の葉寿司
 layout: post
-comments: true
+comments: false
 categories:
   - diary
 tags:

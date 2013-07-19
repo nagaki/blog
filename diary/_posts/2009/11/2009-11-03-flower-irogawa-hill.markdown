@@ -1,7 +1,7 @@
 ---
 title: 山で出会った花
 layout: post
-comments: true
+comments: false
 categories:
   - diary
 tags:

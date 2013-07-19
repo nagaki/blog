@@ -1,7 +1,7 @@
 ---
 title: 色川茶
 layout: post
-comments: true
+comments: false
 categories:
   - diary
 tags:

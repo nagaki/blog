@@ -1,7 +1,7 @@
 ---
 title: 市野々王子～大門坂入口
 layout: post
-comments: true
+comments: false
 categories:
   - diary
 tags:

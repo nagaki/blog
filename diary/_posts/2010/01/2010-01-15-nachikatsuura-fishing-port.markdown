@@ -1,7 +1,7 @@
 ---
 title: まぐろ＆漁港＆市場
 layout: post
-comments: true
+comments: false
 categories:
   - diary
 tags:
