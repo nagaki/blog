@@ -213,24 +213,27 @@ a {
 
 /* highlight
 -------------------- */
-.highlight {
-  border-radius: $radius-out;
-  padding: .75em;
-  pre {
-    margin: 0;
-    word-wrap: break-word;
-  }
-  .lineno {
-    color: $oops-color;
-  }
-}
-#content {
-  pre,
-  code {
-    @include font-size(1.3);
-    font-family: Monaco, "Courier New", monospace;
+.body {
+  > .highlight {
+    background: $clear-color;
+    border-radius: $radius-out;
+    padding: .75em;
+    pre,
+    code {
+      @include font-size(1.3);
+      font-family: Monaco, "Courier New", monospace;
+    }
+    pre {
+      margin: 0;
+      word-wrap: break-word;
+    }
+    .lineno {
+      color: $oops-color;
+    }
   }
   p > code {
+    @include font-size(1.3);
+    font-family: Monaco, "Courier New", monospace;
     background-color: $clear-color;
     border-radius: $radius-in;
     margin: 0 .1em;
