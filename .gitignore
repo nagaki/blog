@@ -5,3 +5,6 @@ css/
 img/
 s3_website.yml
 robots.txt
+.bundle
+_vender/
+Gemfile.lock
