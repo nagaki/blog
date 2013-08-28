@@ -215,7 +215,7 @@ a {
 -------------------- */
 .body {
   > .highlight {
-    background: $clear-color;
+    background-color: $clear-color;
     border-radius: $radius-out;
     padding: .5em .75em;
     pre,
@@ -225,11 +225,9 @@ a {
     }
     pre {
       margin: 0;
-      word-wrap: break-word;
-      /*
+      //word-wrap: break-word;
       overflow: auto;
       word-wrap: normal;
-      */
     }
     .lineno {
       color: $oops-color;

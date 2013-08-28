@@ -8,4 +8,6 @@ markdown_ext: markdown,md
 exclude:
   - README.md
   - s3_website.yml
+  - Gemfile
+  - Gemfile.lock
 url: http://blog.nagaki.me
