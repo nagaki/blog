@@ -1,7 +1,11 @@
 ---
 title: About
 layout: page
-date: 2012-06-25 12:00
+date: 2013-06-25 12:00
+sitemap:
+  priority: 0.5
+  changefreq: yearly
+  lastmod: 2013-06-25 12:00
 ---
 ## 内容
 
