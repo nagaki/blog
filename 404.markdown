@@ -2,10 +2,6 @@
 title: "404 Not Found"
 layout: page
 date: 2013-07-12 12:00
-sitemap:
-  priority: 0.1
-  changefreq: never
-  lastmod: 2013-07-12 12:00
 ---
 申し訳ございません。リクエストされたコンテンツは（現在）ありません。
 全てのコンテンツはこのブログの[ホーム][1]から現在アクセス可能です。
