@@ -7,5 +7,5 @@ s3_website.yml
 google4b25e5f60a5c08fe.html
 robots.txt
 .bundle
-_vender/
+_vendor/
 Gemfile.lock
