@@ -170,7 +170,7 @@ a {
 -------------------- */
 #footer {
   @include font-size(1.3);
-  border-top: 1px dashed $clear-color;
+  border-top: 1px dashed $light-color;
   address {
     font-style: normal;
     padding: 0 0 0 1em;
