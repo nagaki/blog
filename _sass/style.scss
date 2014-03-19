@@ -115,7 +115,7 @@ a {
   .body {
     h2 {
       @include font-size(1.6);
-      border-bottom: 1px dashed $clear-color;
+      border-bottom: 1px dashed $light-color;
     }
     h3 {
       border-left: 2px solid $light-color;
@@ -242,7 +242,7 @@ a {
     }
     .posts {
       article {
-        border-top: 1px dashed $clear-color;
+        border-top: 1px dashed $light-color;
       }
       h1 {
       }
