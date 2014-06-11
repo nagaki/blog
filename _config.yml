@@ -1,7 +1,7 @@
 name: ALLAURMONO
 description: ひびのできごとなどをたまにかきます
 author: "Atsushi Nagaki"
-pygments: true
+highlighter: true
 permalink: none
 markdown: rdiscount
 markdown_ext: markdown,md
@@ -11,3 +11,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
 url: http://blog.nagaki.me
+sass:
+  sass_dir: _sass
+  style: :compressed
