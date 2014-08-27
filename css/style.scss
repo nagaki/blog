@@ -84,7 +84,10 @@ a {
   }
   li {
     @include inline-block;
-    margin: 0 1em;
+    margin: 0 .45em;
+  }
+  .link-text {
+    display: none;
   }
 }
 
@@ -183,6 +186,34 @@ a {
   color: $light-color;
   padding: 1.5em;
   text-align: center;
+}
+
+/* icon
+-------------------- */
+.icon {
+  background-image: url(/img/global/icon.svg);
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+  height: 32px;
+  vertical-align: middle;
+  width: 32px;
+}
+.icon-home {
+  background-position: 0 0;
+}
+.icon-pencil {
+  background-position: -32px 0;
+}
+.icon-terminal {
+  background-position: -64px 0;
+}
+.icon-profile {
+  background-position: -96px 0;
+}
+.icon:hover {
+  stroke: red;
 }
 
 /* highlight
