@@ -3,7 +3,7 @@ description: ひびのできごとなどをたまにかきます
 author: "Atsushi Nagaki"
 highlighter: pygments
 permalink: none
-markdown: rdiscount
+markdown: redcarpet
 markdown_ext: markdown,md
 exclude:
   - README.md
