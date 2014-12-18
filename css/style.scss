@@ -191,6 +191,7 @@ a {
   > .highlight {
     background-color: $clear-color;
     border-radius: $radius-out;
+    border: 1px solid darken($clear-color, 5%);
     padding: .5em .75em;
     pre,
     code {
@@ -203,7 +204,7 @@ a {
       word-wrap: normal;
     }
     .lineno {
-      color: $oops-color;
+      color: lightsteelblue;
     }
   }
   p > code {
