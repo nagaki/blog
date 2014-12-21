@@ -137,6 +137,7 @@ a {
     }
     img {
       background-color: $clear-color;
+      border: 1px solid darken($clear-color, 5%);
       border-radius: $radius-out;
       padding: 4px;
     }
