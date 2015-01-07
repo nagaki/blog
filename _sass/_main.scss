@@ -50,6 +50,9 @@ a {
 -------------------- */
 .global-header {
   padding: $base-padding 0;
+  .title {
+    @include inline-block;
+  }
   .description {
     color: $light-color;
     margin: 0;
@@ -61,7 +64,7 @@ a {
 -------------------- */
 .animate {
   fill: none;
-  stroke: white;
+  stroke: yellow;
   stroke: {
     dasharray: 5;
     dashoffset: 10;
