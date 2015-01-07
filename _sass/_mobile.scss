@@ -1,0 +1,19 @@
+/* Mobile
+-------------------- */
+@media ( max-width: $phone-width ) {
+  body {
+    -webkit-text-size-adjust: 100%;
+  }
+  .content {
+    .body {
+      img {
+        width: 96%;
+      }
+    }
+    .posts {
+      .date {
+        display: block;
+      }
+    }
+  }
+}

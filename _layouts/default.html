@@ -2,34 +2,21 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>{% if page.url != '/index.html' %}{{ page.title }} - {% endif %}{{ site.name }}</title>
     <meta name="viewport" content="width=device-width">
-    {% if page.description %}
-    <meta name="description" content="{{ page.description }}">
-    {% else %}
-    <meta name="description" content="{{ site.description }}">
-    {% endif %}
+    <title>{% if page.url != '/index.html' %}{{ page.title }} - {% endif %}{{ site.name }}</title>
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     <meta name="author" content="{{ site.author }}">
     <link rel="alternate" type="application/atom+xml" title="{{ site.name }}" href="/feed.xml">
     <link rel="stylesheet" href="/css/style.css">
-    {% if page.categories contains "practice" %}
-    <link rel="stylesheet" href="/css/syntax.css">
-    {% endif %}
-    <!--[if lte IE 8]>
-    <script src="/js/html5shiv.js"></script>
-    <![endif]-->
   </head>
   <body>
 
-    <div id="container">
-      <div id="site">
-        {% include header.html %}
-        {{ content }}
-        {% include footer.html %}
-      </div>
+    <div class="container">
+      {% include header.html %}
+      {{ content }}
+      {% include footer.html %}
     </div>
 
-    <script src="//platform.twitter.com/widgets.js" async></script>
+    <!--script src="//platform.twitter.com/widgets.js" async></script-->
   </body>
 </html>

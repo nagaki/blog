@@ -1,0 +1,201 @@
+/* main
+-------------------- */
+html {
+  font-size: 62.5%;
+}
+body {
+  @include font-size;
+  background-color: $main-color;
+  color: $font-color;
+  font-family: sans-serif;
+  margin: 0;
+}
+
+/* element
+-------------------- */
+img,
+svg {
+  max-width: 100%;
+  height: auto;
+}
+a {
+  color: $link-color;
+  text-decoration: none;
+  &:visited {
+    color: lighten($link-color, 10);
+  }
+  &:hover {
+    color: darken($link-color, 10);
+  }
+  &:active {
+    color: invert($link-color);
+  }
+}
+.oops {
+  color: $oops-color;
+}
+.cool {
+  color: $cool-color;
+}
+
+/* container
+-------------------- */
+.container {
+  margin: 0 auto;
+  max-width: $desktop-width;
+  padding: $base-padding;
+}
+
+/* header
+-------------------- */
+.global-header {
+  padding: $base-padding 0;
+  .description {
+    color: $light-color;
+    margin: 0;
+    padding: $base-padding 0;
+  }
+}
+
+/* title svg
+-------------------- */
+.animate {
+  fill: none;
+  stroke: white;
+  stroke: {
+    dasharray: 5;
+    dashoffset: 10;
+    linecap: round;
+    linejoin: round;
+    width: 1;
+  }
+  -webkit-animation: dash 1s linear forwards infinite;
+  -moz-animation: dash 1s linear forwards infinite;
+  -ms-animation: dash 1s linear forwards infinite;
+  animation: dash 1s linear forwards infinite;
+}
+@-webkit-keyframes dash {
+  to { stroke-dashoffset: 40; }
+}
+@-moz-keyframes dash {
+  to { stroke-dashoffset: 40; }
+}
+@-ms-keyframes dash {
+  to { stroke-dashoffset: 40; }
+}
+@keyframes dash {
+  to { stroke-dashoffset: 40; }
+}
+
+/* content
+-------------------- */
+.content {
+  border: 0;
+  margin: 0 0 $base-margin;
+  time,
+  .date {
+    @include font-size(1.3);
+    color: $light-color;
+    font-family: Monaco, "Courier New", monospace;
+  }
+  header {
+    margin: 0 0 $base-margin;
+    h1 {
+      @include font-size(1.6);
+      margin: 0;
+    }
+    .meta {
+      margin: .25em 0;
+    }
+  }
+  .body {
+    h2 {
+      @include font-size(1.6, 4);
+    }
+    h3 {
+      @include font-size(1.5, 3);
+    }
+    hr {
+      border: {
+        color: $light-color;
+        style: solid;
+      }
+    }
+    blockquote {
+      border-left: 2px solid $clear-color;
+      font-style: italic;
+      padding-left: .5em;
+    }
+    img {
+      background-color: $clear-color;
+      border-radius: 2px;
+      padding: 3px;
+    }
+  }
+  .posts {
+    @include font-size(1.4);
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    li {
+      padding: .25em 0;
+    }
+  }
+}
+
+/* comment
+-------------------- */
+.comments {
+  background-color: #fff;
+  border-radius: $radius-out;
+  margin-bottom: $base-margin;
+  padding: $base-padding $base-padding 0;
+}
+
+/* footer
+-------------------- */
+.global-footer {
+  @include font-size(1.2);
+  margin-bottom: $base-margin / 2;
+  padding: $base-padding 0;
+  address {
+    @include inline-block;
+    font-style: normal;
+  }
+}
+.copyright {
+  @include inline-block;
+  color: $light-color;
+  margin: 0;
+}
+
+/* highlight
+-------------------- */
+.body {
+  > .highlight {
+    background-color: $clear-color;
+    border-radius: $radius-out;
+    padding: .5em .75em;
+    pre,
+    code {
+      @include font-size(1.3);
+      font-family: Monaco, "Courier New", monospace;
+    }
+    pre {
+      margin: 0;
+      overflow: auto;
+      word-wrap: normal;
+    }
+    .lineno {
+      color: lightsteelblue;
+    }
+  }
+  p > code {
+    @include font-size(1.3);
+    font-family: Monaco, "Courier New", monospace;
+  }
+}
+.gist .gist-file .gist-data {
+  font-size: 13px !important;
+  font-size: 1.3rem !important;
+}

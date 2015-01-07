@@ -5,11 +5,11 @@ $radius-out: 4px;
 $radius-in: 2px;
 
 // coloring
-$main-color: snow;
-$link-color: steelblue;
-$font-color: slategray;
-$light-color: cadetblue;
-$clear-color: white;
+$main-color: gold;
+$link-color: seagreen;
+$font-color: saddlebrown;
+$light-color: darkgoldenrod;
+$clear-color: snow;
 $oops-color: tomato;
 $cool-color: royalblue;
 
@@ -21,8 +21,6 @@ $phone-width: 480px;
 @mixin font-size( $size: 1.4, $line: $size * 1.5 ) {
   font-size: ( $size * 10 ) + px;
   line-height: ( $line * 10 ) + px;
-  //font-size: $size + rem;
-  //line-height: $line + rem;
 }
 
 // inline-block
