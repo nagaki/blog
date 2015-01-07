@@ -158,7 +158,6 @@ a {
 /* footer
 -------------------- */
 .global-footer {
-  @include font-size(1.2);
   margin-bottom: $base-margin / 2;
   padding: $base-padding 0;
   address {
