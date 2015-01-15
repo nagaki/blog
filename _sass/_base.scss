@@ -6,7 +6,8 @@ $radius-in: 2px;
 
 // coloring
 $main-color: gold;
-$link-color: seagreen;
+//$link-color: forestgreen;
+$link-color: darkgreen;
 $font-color: saddlebrown;
 $light-color: darkgoldenrod;
 $clear-color: snow;
@@ -18,7 +19,7 @@ $desktop-width: 640px;
 $phone-width: 480px;
 
 // font-size
-@mixin font-size( $size: 1.4, $line: $size * 1.5 ) {
+@mixin font-size( $size: 1.6, $line: $size * 1.5 ) {
   font-size: ( $size * 10 ) + px;
   line-height: ( $line * 10 ) + px;
 }
