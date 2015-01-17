@@ -4,12 +4,12 @@
   body {
     -webkit-text-size-adjust: 100%;
     @include font-size(1.4);
-    padding: $base-padding * 2 $base-padding $base-padding * 3;
+    padding-top: $base-padding * 2;
   }
   .content {
     .body {
       img {
-        width: 96%;
+        width: 100%;
       }
     }
     .posts {

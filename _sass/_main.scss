@@ -9,7 +9,7 @@ body {
   color: $font-color;
   font-family: sans-serif;
   margin: 0;
-  padding: $base-padding * 3 0;
+  padding: $base-padding * 3 $base-padding;
 }
 
 /* element
@@ -19,6 +19,9 @@ svg {
   height: auto;
   max-height: 100%;
   max-width: 100%;
+}
+img {
+  box-sizing: border-box;
 }
 a {
   color: $link-color;
