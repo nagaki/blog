@@ -7,21 +7,23 @@ sitemap:
   lastmod: 2015-01-07 22:25
 ---
 
-<section class="content practice">
-  <header>
-    <h1>{{ page.title }}</h1>
-  </header>
-  <div class="body">
-    <ul class="posts">
-      {% unless site.categories.practice %}
-      <p>No Posts in {{ page.title }}.</p>
-      {% endunless %}
-      {% for post in site.categories.practice %}
-      <li>
-        <span class="date">{{ post.date | date_to_string }}</span>
-        <a href="{{ post.url }}" class="title">{{ post.title }}</a>
-      </li>
-      {% endfor %}
-    </ul>
-  </div>
-</section>
+<main class="content practice">
+  <h1>{{ page.title }}</h1>
+  <section class="posts">
+  {% for post in site.categories.practice %}
+  {% capture currentyear %}{{ post.date | date: "%Y" }}{% endcapture %}
+  {% if currentyear != year %}
+    {% unless forloop.first %}</ul>{% endunless %}
+    <h2 class="year">{{ currentyear }}</h2>
+    <ul>
+    {% capture year %}{{ currentyear }}{% endcapture %}
+  {% endif %}
+  <li>
+    <time class="date" datetime="{{ post.date | date_to_xmlschema }}">
+      {{ post.date | date: "%d %b" }}
+    </time>
+    <a href="{{ post.url }}" class="title">{{ post.title }}</a>
+  </li>
+  {% endfor %}
+  </section>
+</main>
