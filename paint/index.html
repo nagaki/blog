@@ -1,0 +1,29 @@
+---
+layout: default
+title: paint
+sitemap:
+  priority: 0.7
+  changefreq: weekly
+  lastmod: 2015-02-04 23:21
+---
+
+<main class="content paint">
+  <h1>{{ page.title }}</h1>
+  <section class="posts">
+  {% for post in site.categories.paint %}
+  {% capture currentyear %}{{ post.date | date: "%Y" }}{% endcapture %}
+  {% if currentyear != year %}
+    {% unless forloop.first %}</ul>{% endunless %}
+    <h2 class="year">{{ currentyear }}</h2>
+    <ul>
+    {% capture year %}{{ currentyear }}{% endcapture %}
+  {% endif %}
+  <li>
+    <time class="date" datetime="{{ post.date | date_to_xmlschema }}">
+      {{ post.date | date: "%d %b" }}
+    </time>
+    <a href="{{ post.url }}" class="title">{{ post.title }}</a>
+  </li>
+  {% endfor %}
+  </section>
+</main>
