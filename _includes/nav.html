@@ -1,0 +1,6 @@
+<nav class="nav">
+  <a href="/" {% if page.title == "home" %}class="active"{% endif %}>home</a>
+  {% for cat in site.categories %}
+  <a href="/{{ cat.first }}/" {% if page.title == cat.first or page.categories.first == cat.first %}class="active"{% endif %}>{{ cat.first }}</a>
+  {% endfor %}
+</nav>

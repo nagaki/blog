@@ -1,13 +1,12 @@
 ---
 layout: default
-title: Posts
+title: home
 date: 2013-07-12 12:00
 sitemap:
   priority: 1.0
   changefreq: weekly
   lastmod: 2015-01-07 22:25
 ---
-
 <main class="content home">
   <h1>{{ page.title }}</h1>
   <section class="posts">
@@ -19,7 +18,7 @@ sitemap:
     <ul>
     {% capture year %}{{ currentyear }}{% endcapture %}
   {% endif %}
-  <li>
+  <li class="{{ post.categories }}">
     <time class="date" datetime="{{ post.date | date_to_xmlschema }}">
       {{ post.date | date: "%d %b" }}
     </time>

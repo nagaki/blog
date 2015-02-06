@@ -8,3 +8,4 @@ robots.txt
 .bundle
 _vendor/
 Gemfile.lock
+.jekyll-metadata

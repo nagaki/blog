@@ -23,13 +23,3 @@ $phone-width: 480px;
   font-size: ( $size * 10 ) + px;
   line-height: ( $line * 10 ) + px;
 }
-
-// inline-block
-@mixin inline-block {
-  display: -moz-inline-stack;
-  display: inline-block;
-  vertical-align: middle;
-  *vertical-align: auto;
-  zoom: 1;
-  *display: inline;
-}

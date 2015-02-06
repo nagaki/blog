@@ -6,6 +6,13 @@
     @include font-size(1.4);
     padding-top: $base-padding * 2;
   }
+  .global-header {
+    .title,
+    .description,
+    .nav {
+      margin-bottom: $base-margin;
+    }
+  }
   .content {
     .body {
       img {
