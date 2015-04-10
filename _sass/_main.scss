@@ -86,30 +86,12 @@ a {
 -------------------- */
 .animate {
   fill: none;
-  stroke: yellow;
+  stroke: mediumseagreen;
   stroke: {
-    dasharray: 5;
-    dashoffset: 10;
     linecap: round;
     linejoin: round;
-    width: 1;
+    width: .5;
   }
-  -webkit-animation: dash 1s linear forwards infinite;
-  -moz-animation: dash 1s linear forwards infinite;
-  -ms-animation: dash 1s linear forwards infinite;
-  animation: dash 1s linear forwards infinite;
-}
-@-webkit-keyframes dash {
-  to { stroke-dashoffset: 40; }
-}
-@-moz-keyframes dash {
-  to { stroke-dashoffset: 40; }
-}
-@-ms-keyframes dash {
-  to { stroke-dashoffset: 40; }
-}
-@keyframes dash {
-  to { stroke-dashoffset: 40; }
 }
 
 /* content
@@ -173,6 +155,9 @@ a {
       padding: .25em 0;
     }
   }
+  .adsense {
+    padding: $base-padding 0;
+  }
 }
 
 /* comment
@@ -210,7 +195,7 @@ a {
     font-family: Monaco, "Courier New", monospace;
   }
   > .highlight {
-    background-color: $clear-color;
+    background-color: white;
     border-radius: $radius-out;
     padding: .5em .75em;
     pre {
