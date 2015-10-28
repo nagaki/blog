@@ -197,6 +197,7 @@ a {
   > .highlight {
     background-color: white;
     border-radius: $radius-out;
+    margin: 0;
     padding: .5em .75em;
     pre {
       margin: 0;
@@ -205,6 +206,7 @@ a {
     }
     .lineno {
       color: lightsteelblue;
+      margin-right: .5em;
     }
   }
 }

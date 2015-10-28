@@ -1,7 +1,7 @@
 name: ALLAURMONO
 description: ひびのできごとなどをたまにかきます
 author: "Atsushi Nagaki"
-highlighter: pygments
+highlighter: rouge
 permalink: none
 markdown: redcarpet
 markdown_ext: markdown,md
@@ -16,3 +16,4 @@ sass:
   style: :compressed
 gems:
   - jekyll-sitemap
+  - jekyll-gist
