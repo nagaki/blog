@@ -3,7 +3,17 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    <title>{% if page.url != '/index.html' %}{% if page.title == 'diary' or page.title == 'paint' or page.title == 'practice' %}{{ page.title | capitalize }}{% else %}{{ page.title }}{% endif %} - {% endif %}{{ site.name }}</title>
+    <title>
+      {% if page.path != 'index.html' %}
+        {% if page.title == 'diary' or page.title == 'paint' or page.title == 'practice' %}
+          {{ page.title | capitalize }}
+        {% else %}
+          {{ page.title }}
+        {% endif %}
+       -
+      {% endif %}
+      {{ site.name }}
+    </title>
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     <meta name="author" content="{{ site.author }}">
     <link rel="alternate" type="application/atom+xml" title="{{ site.name }}" href="/feed.xml">
