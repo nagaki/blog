@@ -16,6 +16,6 @@ tags:
 
 今日撮った写真です。
 
-{% youtube TBdpENj25A8 %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TBdpENj25A8" frameborder="0" allowfullscreen></iframe>
 
 船のスタッフに聞いた話や詳しいレポートはまた追って紹介します。

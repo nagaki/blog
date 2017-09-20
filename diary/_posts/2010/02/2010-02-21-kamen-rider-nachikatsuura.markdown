@@ -11,7 +11,7 @@ Youtubeをだらだら見ていました。
 
 適当にいろんな動画を見ていて、リクルートの少し前のＣＭに行きついたときのこと…
 
-{% youtube 35Kc4jM2Sew %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/35Kc4jM2Sew?start=75" frameborder="0" allowfullscreen></iframe>
 
 やっぱリクルートのＣＭはおもろいな～とぼ～っと見ていたら、
 1:15辺り、ショッカーが、港で船の上のドラム缶から出てきたあとに

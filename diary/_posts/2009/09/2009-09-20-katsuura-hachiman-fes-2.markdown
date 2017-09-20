@@ -26,7 +26,7 @@ tags:
 
 櫂伝馬というこの行事は、伝統的な漁港の男衆の力強さが象徴されていて、圧巻です。
 
-{% youtube iaVRd_eTNgg %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iaVRd_eTNgg" frameborder="0" allowfullscreen></iframe>
 
 行事が終盤に差し掛かる頃、満を持して！のタイミングで神輿を担いだ男衆が港に現れました。
 

@@ -52,7 +52,7 @@ tags:
 
 なので、動画を撮ってみました。
 
-{% youtube R8oVLqlbGMg %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R8oVLqlbGMg" frameborder="0" allowfullscreen></iframe>
 
 …写真よりは伝わるような気がします。
 
