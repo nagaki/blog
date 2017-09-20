@@ -14,12 +14,15 @@ body {
 
 /* element
 -------------------- */
+img,
 iframe,
+svg {
+  max-height: 100%;
+  max-width: 100%;
+}
 img,
 svg {
   height: auto;
-  max-height: 100%;
-  max-width: 100%;
 }
 img {
   box-sizing: border-box;
