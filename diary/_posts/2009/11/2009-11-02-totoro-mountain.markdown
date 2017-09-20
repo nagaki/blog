@@ -27,7 +27,7 @@ tags:
 
 で、さつきとメイの家っぽい家。赤い屋根と緑のコントラストが美しいです。
 
-![どんぐりの実が落ちてきそうな天井][4]
+<img src="/img/uploads/2009/11/totoro-mountain-4.jpg" width="480" />
 
 天井からどんぐりの実が落ちてきそうです。
 
@@ -39,7 +39,7 @@ tags:
 
 ネコバスが駆け抜けて行きそうなカーブ。
 
-![メイちゃんが座っていそうな階段][7]
+<img src="/img/uploads/2009/11/totoro-mountain-7.jpg" width="480" />
 
 お墓前の階段にメイちゃん座ってそうです。
 
@@ -54,7 +54,5 @@ tags:
  [1]: /img/uploads/2009/11/totoro-mountain-1.jpg
  [2]: /img/uploads/2009/11/totoro-mountain-2.jpg
  [3]: /img/uploads/2009/11/totoro-mountain-3.jpg
- [4]: /img/uploads/2009/11/totoro-mountain-4.jpg
  [5]: /img/uploads/2009/11/totoro-mountain-5.jpg
  [6]: /img/uploads/2009/11/totoro-mountain-6.jpg
- [7]: /img/uploads/2009/11/totoro-mountain-7.jpg

@@ -13,11 +13,11 @@ tags:
 
 その写真について、簡単に解説したいと思います。
 
-![ちきゅう階段][1]
+<img src="/img/uploads/2009/10/chikyu-jamstec-report-1.jpg" width="480" />
 
 百貨店の階段みたいになってました。9階ぐらいあるそうです。
 
-![ちきゅうデリック][2]
+<img src="/img/uploads/2009/10/chikyu-jamstec-report-2.jpg" width="480" />
 
 このデリックの頂上にはあがれませんでした。
 
@@ -49,16 +49,13 @@ tags:
 このＴシャツをデザインしたのはgroovisionsという有名なデザイン集団だそうです。
 すごくかわいいデザインだったので、記念に1枚買いました。
 
-![ちきゅうＴシャツ][7]
+<img src="/img/uploads/2009/10/chikyu-jamstec-report-7.jpg" width="480" />
 
 この辺りは決して都会ではなく、不便なことも多いですが、
 こういう世界最先端の研究に触れることができるのは素晴らしいことですね。
 
 
- [1]: /img/uploads/2009/10/chikyu-jamstec-report-1.jpg
- [2]: /img/uploads/2009/10/chikyu-jamstec-report-2.jpg
  [3]: /img/uploads/2009/10/chikyu-jamstec-report-3.jpg
  [4]: /img/uploads/2009/10/chikyu-jamstec-report-4.jpg
  [5]: /img/uploads/2009/10/chikyu-jamstec-report-5.jpg
  [6]: /img/uploads/2009/10/chikyu-jamstec-report-6.jpg
- [7]: /img/uploads/2009/10/chikyu-jamstec-report-7.jpg

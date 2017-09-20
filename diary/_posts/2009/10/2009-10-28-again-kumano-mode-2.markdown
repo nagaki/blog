@@ -36,7 +36,7 @@ tags:
 
 草鞋を履いていた足の疲労はピークに達しました
 
-![那智滝][5]
+<img src="/img/uploads/2009/10/again-kumano-mode-2-4.jpg" width="480" />
 
 無事に最後の目的地、那智の滝を拝むことができました！
 
@@ -60,5 +60,4 @@ tags:
  [2]: /img/uploads/2009/10/again-kumano-mode-2-1.jpg
  [3]: /img/uploads/2009/10/again-kumano-mode-2-2.jpg
  [4]: /img/uploads/2009/10/again-kumano-mode-2-3.jpg
- [5]: /img/uploads/2009/10/again-kumano-mode-2-4.jpg
  [6]: /img/uploads/2009/10/again-kumano-mode-2-5.jpg

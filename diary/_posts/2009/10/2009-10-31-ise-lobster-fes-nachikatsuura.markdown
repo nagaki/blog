@@ -21,7 +21,7 @@ tags:
 
 オープニングは迫力満点の「熊野水軍太鼓」です。太鼓の響きが漁港内にこだましてました。
 
-![熊野水軍太鼓][3]
+<img src="/img/uploads/2009/10/ise-lobster-fes-nachikatsuura-3.jpg" width="480" />
 
 いせえび汁の前には３０分前から長蛇の列ができてます。
 
@@ -58,7 +58,6 @@ tags:
 
  [1]: /img/uploads/2009/10/ise-lobster-fes-nachikatsuura-1.jpg
  [2]: /img/uploads/2009/10/ise-lobster-fes-nachikatsuura-2.jpg
- [3]: /img/uploads/2009/10/ise-lobster-fes-nachikatsuura-3.jpg
  [4]: /img/uploads/2009/10/ise-lobster-fes-nachikatsuura-4.jpg
  [5]: /img/uploads/2009/10/ise-lobster-fes-nachikatsuura-5.jpg
  [6]: /img/uploads/2009/10/ise-lobster-fes-nachikatsuura-6.jpg

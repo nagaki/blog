@@ -42,7 +42,7 @@ tags:
 黄色以外にも赤色、白色の法被を着た男の子たちがずらり、
 神社の境内では、獅子神楽が行われていました。
 
-![獅子舞][4]
+<img src="/img/uploads/2009/09/katsuura-hachiman-fes-1-4.jpg" width="480" />
 
 少し緊張感が漂っています。
 
@@ -64,6 +64,5 @@ tags:
  [1]: /img/uploads/2009/09/katsuura-hachiman-fes-1-1.jpg
  [2]: /img/uploads/2009/09/katsuura-hachiman-fes-1-2.jpg
  [3]: /img/uploads/2009/09/katsuura-hachiman-fes-1-3.jpg
- [4]: /img/uploads/2009/09/katsuura-hachiman-fes-1-4.jpg
  [5]: /img/uploads/2009/09/katsuura-hachiman-fes-1-5.jpg
  [6]: /diary/katsuura-hachiman-fes-2.html "勝浦八幡神社例大祭その２"

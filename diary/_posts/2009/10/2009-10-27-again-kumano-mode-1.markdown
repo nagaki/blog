@@ -47,7 +47,7 @@ tags:
 
 入口に鳥居があって、そこから向こう側が熊野那智大社の境内（？）らしく、お祓いを受けた上で進みます。
 
-![大門坂とあげいん熊野詣][6]
+<img src="/img/uploads/2009/10/again-kumano-mode-1-6.jpg" width="480" />
 
 大門坂の石畳と平安衣装。平安時代にタイムスリップしてます。
 
@@ -85,7 +85,6 @@ tags:
  [3]: /img/uploads/2009/10/again-kumano-mode-1-3.jpg
  [4]: /img/uploads/2009/10/again-kumano-mode-1-4.jpg
  [5]: /img/uploads/2009/10/again-kumano-mode-1-5.jpg
- [6]: /img/uploads/2009/10/again-kumano-mode-1-6.jpg
  [7]: /img/uploads/2009/10/again-kumano-mode-1-7.jpg
  [8]: /img/uploads/2009/10/again-kumano-mode-1-8.jpg
  [9]: /img/uploads/2009/10/again-kumano-mode-1-9.jpg
