@@ -37,8 +37,8 @@ $ cp -R eccube-bootstrap/.* ~/path/to/eccube/ #Gitファイルコピー
 Gitで管理する場合はDBに直接レコードを追加する方法が楽です。
 MySQLコマンド等を使用してデータベーステーブル`dtb_templates`にレコードを追加します。
 
-{% highlight mysql %}
-> INSERT INTO dtb_templates VALUES ("bootstrap", 10, "bootstrap", now(), now());
+{% highlight sql %}
+INSERT INTO dtb_templates VALUES ("bootstrap", 10, "bootstrap", now(), now());
 {% endhighlight %}
 
 管理画面のメニューにあるデザイン管理>PC>テンプレート設定ページで
@@ -47,7 +47,9 @@ bootstrapを選択してテンプレートを変更します。
 レスポンシブデザインを利用する場合は、`data/class/SC_Display.php`
 にあるスマートフォン判定のコードを削除することで使用できます。
 
-{% highlight php startinline %}
+{% highlight php %}
+<?php
+
 // data/class/SC_Display.php:141
 function detectDevice() {
   $nu = new Net_UserAgent_Mobile();

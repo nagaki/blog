@@ -7,7 +7,7 @@ tags:
 スマートフォンでtoggleするメニュー等の開閉ボタンをタッチした時、適用している`:hover`スタイルが、
 タッチ後にも適用されたままになってしまい、不恰好です。
 
-[調べてみる][1]と、jQueryの`.bind()`を使ってオブジェクトのイベントを取得して
+[調べてみる][1] と、jQueryの`.bind()`を使ってオブジェクトのイベントを取得して
 クラスを追加する方法で、タッチしたときにスタイルを変更することができることがわかりました。
 
 <script src="https://gist.github.com/nagaki/6102880.js"></script>
@@ -18,7 +18,7 @@ tags:
 
 cssに`:touch`があればいいのに。
 
-[.bind() | jQuery API Documentation][1]
+[.bind() \| jQuery API Documentation][1]
 
 
  [1]: http://api.jquery.com/bind/
