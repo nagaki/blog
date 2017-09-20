@@ -9,7 +9,7 @@ exclude:
   - s3_website.yml
   - Gemfile
   - Gemfile.lock
-url: http://blog.nagaki.me
+url: https://blog.nagaki.me
 sass:
   sass_dir: _sass
   style: :compressed
