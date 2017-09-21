@@ -9,23 +9,23 @@ tags:
 
 僕は和歌山生まれ和歌山育ちかっていうぐらい自称和歌山にキモ詳しい割りに、生まれ育った松山のことを知らなさすぎてここのところ暇を持て余しています。本当は松山市ダーツのポタリングをして街の良いトコを見つけていきたいけど、面倒くさいので、故きを温ねて新しきを知る、まずは松山の成り立ちから学ぶために、丘の上にあるひなびた博物館『松山市考古館』へ行ってきました。
 
-![温故知新][1]
+<amp-img src="/img/uploads/2010/10/matsuyama-archeological-center-1.jpg" alt="温故知新" width="600" height="448" layout="responsive"></amp-img>
 
 歴史から学ぶことは本当にたくさんあります。
 
 なんかまったりした空気が流れる貯水池のほとりにある高床式倉庫。
 
-![高床式倉庫][2]
+<amp-img src="/img/uploads/2010/10/matsuyama-archeological-center-2.jpg" alt="高床式倉庫" width="600" height="448" layout="responsive"></amp-img>
 
 考古館には縄文時代から平安時代まで（たぶん）の資料がありました。
 
-![古代米][3]
+<amp-img src="/img/uploads/2010/10/matsuyama-archeological-center-3.jpg" alt="古代米" width="600" height="448" layout="responsive"></amp-img>
 
 古代米っぽい稲が植えられていました。
 
 入館料はたったの１００円です。
 
-![松山市考古館][4]
+<amp-img src="/img/uploads/2010/10/matsuyama-archeological-center-4.jpg" alt="松山市考古館" width="600" height="448" layout="responsive"></amp-img>
 
 東京国立博物館里帰り展とかいってすごい貴重そうな資料（銅鏡とか）が特別展示されていました。
 

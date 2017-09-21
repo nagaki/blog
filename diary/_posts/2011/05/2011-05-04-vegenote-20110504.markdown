@@ -11,25 +11,25 @@ tags:
 
 冬はラディッシュオンリーでスペースを持て余していました。
 
-![トウモロコシ][1]
+<amp-img src="/img/uploads/2011/05/vegenote-20110504-1.jpg" alt="トウモロコシ" width="600" height="448" layout="responsive"></amp-img>
 
 去年、ゴーヤーを植えたところにはトウモロコシを植えてみました。
 
 十株以上で植え付けしないと歯抜けになるそうです。４株です。
 
-![九条ネギ][2]
+<amp-img src="/img/uploads/2011/05/vegenote-20110504-2.jpg" alt="九条ネギ" width="600" height="448" layout="responsive"></amp-img>
 
 あと、ちょっと前に九条ネギを植えました。ネギは簡単。
 
 ネギ坊主を摘み取る日々です。
 
-![チマサンチュ][3]
+<amp-img src="/img/uploads/2011/05/vegenote-20110504-3.jpg" alt="チマサンチュ" width="600" height="448" layout="responsive"></amp-img>
 
 チマサンチュは間引きせず、適当に育ててみています。
 
 夏には七輪で焼肉をしたい！に向けて植えました。
 
-![クレソン・大葉][4]
+<amp-img src="/img/uploads/2011/05/vegenote-20110504-4.jpg" alt="クレソン・大葉" width="600" height="448" layout="responsive"></amp-img>
 
 あとは大葉とクレソンを鉢に植えました。
 

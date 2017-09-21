@@ -19,17 +19,17 @@ tags:
 
 材料は、皮を剥いたみかん500gに、グラニュー糖が300cc、レモンの代わりにこれも実家でもらってきた「じゃばら」という果物の汁を一個分。（実はこの「じゃばら」は、和歌山県の北山村というところでしか栽培されていない柑橘類です。それがなんでここにあるのかは全然わかりません。わかりませんが、この「じゃばら」、めちゃくちゃ酸っぱい。あと、母さん曰く、花粉症に効くということです。
 
-![][3]
+<amp-img src="/img/uploads/2012/02/made-orange-jam-1.jpg" alt="" width="600" height="450" layout="responsive"></amp-img>
 
 まず最初にみかんを横に二等分してからミキサーにかけます。
 
-![][4]
+<amp-img class="v-img" src="/img/uploads/2012/02/made-orange-jam-2.jpg" alt="" width="450" height="600" layout="responsive"></amp-img>
 
 それを約30分、弱火でコトコト煮込んだら、
 
 再度、ミキサーにかけてから鍋に戻します。
 
-![][5]
+<amp-img src="/img/uploads/2012/02/made-orange-jam-3.jpg" alt="" width="600" height="450" layout="responsive"></amp-img>
 
 グラニュー糖とジャバラ汁を加えて、
 
@@ -37,13 +37,13 @@ tags:
 
 ジャム作りは地味ですね。
 
-![][6]
+<amp-img src="/img/uploads/2012/02/made-orange-jam-4.jpg" alt="" width="600" height="450" layout="responsive"></amp-img>
 
 とろみが付いたらできあがりです。
 
 冷えるとかたくなるのでびんに詰めます。
 
-![][7]
+<amp-img src="/img/uploads/2012/02/made-orange-jam-5.jpg" alt="" width="600" height="450" layout="responsive"></amp-img>
 
 結構な量ができました。
 
@@ -57,7 +57,7 @@ tags:
 
 結構大量にできたので、つくるとしたら来年か、もしなんかしらの果物が多く手に入ったらそれを使ってジャムを作ってみたいと思います。それから、このジャムを作っている途中に、こんなに大量にみかんがあるんやったら生搾りジュース作ったらいいってことに気が付きました。毎年大量のみかんを貰って、最後のほうは腐らせたりすっかすかになったりしてたけど、これからはそうなる前にジュースにします。
 
-![][8]
+<amp-img src="/img/uploads/2012/02/made-orange-jam-6.jpg" alt="" width="600" height="449" layout="responsive"></amp-img>
 
 もうこれがめちゃうま。
 

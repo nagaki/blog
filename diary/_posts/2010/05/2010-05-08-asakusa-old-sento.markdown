@@ -13,7 +13,7 @@ tags:
 
 花やしきからがーっとアーケードを抜けた先にあるこの「曙湯」に入りたかった。しかし
 
-![浅草曙の湯][1]
+<amp-img class="v-img" src="/img/uploads/2010/05/asakusa-old-sento-1.jpg" alt="浅草曙の湯" width="450" height="600" layout="responsive"></amp-img>
 
 ３０分ぐらい前でぼ～っとしながら待ってたけど開かへん。
 
@@ -25,13 +25,13 @@ tags:
 
 「武の湯」っていうらしいんだけど、さっきのとこと比べると見劣りするけど、
 
-![浅草武の湯][2]
+<amp-img class="v-img" src="/img/uploads/2010/05/asakusa-old-sento-2.jpg" alt="浅草武の湯" width="450" height="600" layout="responsive"></amp-img>
 
 開いてなかった。バカヤロウ。お～いお～いそりゃないってマジ嫌な感じ～。
 
 え～？そんなこったねー！だったらもっと北行ってみてな～、
 
-![浅草から見えたスカイツリー][3]
+<amp-img src="/img/uploads/2010/05/asakusa-old-sento-3.jpg" alt="浅草から見えたスカイツリー" width="600" height="450" layout="responsive"></amp-img>
 
 スカイツリーって下町から生えてるってミヤネ屋で言ってたけどほんとにそうなんやね。
 
@@ -39,13 +39,13 @@ tags:
 
 ついに開いている「鶴の湯」なる銭湯に出会うことが出来て本当に僕は幸せ者です。
 
-![浅草鶴の湯][4]
+<amp-img src="/img/uploads/2010/05/asakusa-old-sento-4.jpg" alt="浅草鶴の湯" width="600" height="450" layout="responsive"></amp-img>
 
 天井が高かったよ。おっちゃんがたくさんいたよ。いろんな浴槽があったヨ！
 
 め～～～～っちゃ良かった。
 
-![銭湯のロッカーの鍵がディンプルキー][5]
+<amp-img src="/img/uploads/2010/05/asakusa-old-sento-5.jpg" alt="銭湯のロッカーの鍵がディンプルキー" width="600" height="450" layout="responsive"></amp-img>
 
 この鍵は別の銭湯（門前仲町付近）のやつなんだけど、ほかのとこもやったけど、ディンプルキー！さすが東京やな！万全やな！ねえ。
 

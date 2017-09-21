@@ -11,35 +11,35 @@ tags:
 
 天気は曇り、重信川は濁流、自転車道は草茫々。
 
-![重信自転車道][1]
+<amp-img src="/img/uploads/2010/06/kanbayashi-pass-1.jpg" alt="重信自転車道" width="600" height="450" layout="responsive"></amp-img>
 
 重信川自転車道。ほとんど人おらん。道に車が多いから自転車道は便利。
 
-![上林峠ふもと][2]
+<amp-img src="/img/uploads/2010/06/kanbayashi-pass-2.jpg" alt="上林峠ふもと" width="600" height="450" layout="responsive"></amp-img>
 
 むこうの山のてっぺんまで行きます。この時点で道の傾斜おかしい。
 
-![上林皿ヶ嶺登山口バス停][3]
+<amp-img src="/img/uploads/2010/06/kanbayashi-pass-3.jpg" alt="上林皿ヶ嶺登山口バス停" width="600" height="450" layout="responsive"></amp-img>
 
 こんなバス停で１時間ぐらいバス待っていたい。青春！
 
 このあと死ぬほど登った。ちゃりってこんなにしんどかったっけ？
 
-![皿ヶ嶺の湧水][4]
+<amp-img src="/img/uploads/2010/06/kanbayashi-pass-4.jpg" alt="皿ヶ嶺の湧水" width="600" height="450" layout="responsive"></amp-img>
 
 湧き水。車で汲みに来ている人がいた。マックスで潤う！
 
-![上林峠頂上目印の木][5]
+<amp-img class="v-img" src="/img/uploads/2010/06/kanbayashi-pass-5.jpg" alt="上林峠頂上目印の木" width="450" height="600" layout="responsive"></amp-img>
 
 この木に会うのは４年ぶり！感動した！
 
-![上林トンネル][6]
+<amp-img src="/img/uploads/2010/06/kanbayashi-pass-6.jpg" alt="上林トンネル" width="600" height="450" layout="responsive"></amp-img>
 
 トンネル。このトンネルを抜けると「久万高原町」。高原に来ましたよ・・・
 
 頂上からの景色はとても良くて瀬戸内海まで見えるけどちょっと霞んでて見晴らしはあまり良くなかった。
 
-![上林峠頂上からの景色][7]
+<amp-img src="/img/uploads/2010/06/kanbayashi-pass-7.jpg" alt="上林峠頂上からの景色" width="600" height="450" layout="responsive"></amp-img>
 
 久々に、森の香り、水場の涼しさ、湧き水の潤い、太陽の近さ、汗の多さ、そのほか！を感じれて最高。
 

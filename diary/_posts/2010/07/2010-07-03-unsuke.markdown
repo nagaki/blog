@@ -17,7 +17,7 @@ tags:
 
 ご自由にお持ち帰りください、がいよいよあやしい。
 
-![うんすけ][1]
+<amp-img src="/img/uploads/2010/07/unsuke.jpg" alt="うんすけ" width="600" height="450" layout="responsive"></amp-img>
 
 と思って激写してきたんだけど
 

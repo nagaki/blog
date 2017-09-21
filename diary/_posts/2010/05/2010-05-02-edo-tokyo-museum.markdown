@@ -11,17 +11,17 @@ tags:
 
 道が全然わからなかったので交番で聞いた。
 
-![浅草橋近辺の交番][1]
+<amp-img src="/img/uploads/2010/05/edo-tokyo-museum-1.jpg" alt="浅草橋近辺の交番" width="600" height="450" layout="responsive"></amp-img>
 
 （既に東京のコンクリートジャングルっぷりをひしひしと感じる街並みにそぐわぬ小ささ）
 
 優しい警察官が教えてくれた道の途中、隅田川に架かる蔵前橋にはお相撲さんのレリーフが。おお～さすが両国。
 
-![相撲取りのレリーフがある蔵前橋の高欄][2]
+<amp-img class="v-img" src="/img/uploads/2010/05/edo-tokyo-museum-2.jpg" alt="相撲取りのレリーフがある蔵前橋の高欄" width="450" height="600" layout="responsive"></amp-img>
 
 橋の上で何枚か写真を撮っていてあとで気付いたら、『スカイツリー』が写ってる写真があった。
 
-![蔵前橋から見える東京スカイツリー][3]
+<amp-img src="/img/uploads/2010/05/edo-tokyo-museum-3.jpg" alt="蔵前橋から見える東京スカイツリー" width="600" height="450" layout="responsive"></amp-img>
 
 バベルの塔か！
 
@@ -29,13 +29,13 @@ tags:
 
 いやあびびるちびるばびる参ったねこのスケール感には。
 
-![両国駅から見た江戸東京博物館][4]
+<amp-img src="/img/uploads/2010/05/edo-tokyo-museum-4.jpg" alt="両国駅から見た江戸東京博物館" width="600" height="450" layout="responsive"></amp-img>
 
 すごいデカいし、無駄に（無駄かどうかは知らないけど）デカいし、「オレがなんか悪いことした？」みたいな、とても態度がデカい感じだ。
 
 国技館の隣にあるし、相撲の土俵の上の屋根みたいな家みたいなあれ風にしてんのかな。
 
-![江戸東京博物館のエスカレータ][5]
+<amp-img src="/img/uploads/2010/05/edo-tokyo-museum-5.jpg" alt="江戸東京博物館のエスカレータ" width="600" height="450" layout="responsive"></amp-img>
 
 だとしてもこれはなんだこの意味不明な赤い物体は・・・
 

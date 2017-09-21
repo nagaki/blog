@@ -17,36 +17,36 @@ tags:
 
 そういうわけで、スカスカになる前にマーマレードにしてしまいます。
 
-![いよかんの皮][1]
+<amp-img src="/img/uploads/2012/05/iyokan-marmalade-1.jpg" alt="いよかんの皮" width="600" height="450" layout="responsive"></amp-img>
 
 マーマレードなので皮が主役です。傷が入っている部分は取り除きます。
 
-![いよかんの皮を切った後][2]
+<amp-img src="/img/uploads/2012/05/iyokan-marmalade-2.jpg" alt="いよかんの皮を切った後" width="600" height="450" layout="responsive"></amp-img>
 
 できるだけ薄く千切りにします。
 
 右はスライサーを使ったもの、左は包丁で切ったものです。
 贅沢に別々の鍋で作ることにしました。
 
-![いよかんの実と種][3]
+<amp-img src="/img/uploads/2012/05/iyokan-marmalade-3.jpg" alt="いよかんの実と種" width="600" height="450" layout="responsive"></amp-img>
 
 皮を剥いた実と種です。実は濾して使います。種からはペクチンというものが取れるらしいのでとっておきます。
 
-![いよかんマーマレードの材料][4]
+<amp-img src="/img/uploads/2012/05/iyokan-marmalade-4.jpg" alt="いよかんマーマレードの材料" width="600" height="450" layout="responsive"></amp-img>
 
 砂糖は家にあるけど使い道がない三温糖を使います。
 
 あとは良い感じになるまで煮詰めます。
 
-![いよかんマーマレード種投入][5]
+<amp-img src="/img/uploads/2012/05/iyokan-marmalade-5.jpg" alt="いよかんマーマレード種投入" width="600" height="450" layout="responsive"></amp-img>
 
 途中で種を投入します。ペクチンが入っているので凝固作用的なものが発生して良い感じになります。（たぶん）
 
-![マーマレード完成][6]
+<amp-img src="/img/uploads/2012/05/iyokan-marmalade-6.jpg" alt="マーマレード完成" width="600" height="450" layout="responsive"></amp-img>
 
 水分がまあまあ無くなったら完成です。
 
-![いよかんマーマレード瓶詰め][7]
+<amp-img src="/img/uploads/2012/05/iyokan-marmalade-7.jpg" alt="いよかんマーマレード瓶詰め" width="600" height="450" layout="responsive"></amp-img>
 
 それぞれ瓶に詰めました。
 

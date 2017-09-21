@@ -25,14 +25,14 @@ Wikipediaによると、握り飯を高菜で包んだ「おにぎり」だそ�
 
 ということで、行ってきたのが紀伊勝浦駅近くにある『めはり寿司二代目』というお店です。
 
-![めはり寿司二代目看板][1]
+<amp-img class="v-img" src="/img/uploads/2010/01/meharizushi-nidaime-1.jpg" alt="めはり寿司二代目看板" width="300" height="400" layout="responsive"></amp-img>
 
 どどーんとデカい看板が掲げられていて、目を張れる期待大です！
 
 梅と、じゃこと、あとなにかが入った4種の「めはり寿司」という魅力的なメニューは売り切れていたので、
 スタンダードな高菜入りの「めはり寿司」を注文しました。
 
-![めはり寿司][2]
+<amp-img src="/img/uploads/2010/01/meharizushi-nidaime-2.jpg" alt="めはり寿司" width="400" height="300" layout="responsive"></amp-img>
 
 で、でかい！！かな～？…でかくはないです。食べやすさに配慮してるのかもしれません。
 
@@ -50,7 +50,7 @@ Wikipediaによると、握り飯を高菜で包んだ「おにぎり」だそ�
 
 「めはり寿司」だけじゃ物足りないので、もう一品注文しました。
 
-![まぐろのたたき][3]
+<amp-img src="/img/uploads/2010/01/meharizushi-nidaime-3.jpg" alt="まぐろのたたき" width="400" height="300" layout="responsive"></amp-img>
 
 「まぐろのタタキ」です。
 

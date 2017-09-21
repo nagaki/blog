@@ -10,7 +10,7 @@ tags:
 [前回の記事][a1]で書いた、那智熊野大社のすぐとなりにあるのが、
 『那智山青岸渡寺』です。読み方は（せいがんとじ）と読みます。
 
-![][1]
+<amp-img src="/img/uploads/2010/03/seigantoji-temple-1.jpg" alt="" width="400" height="300" layout="responsive"></amp-img>
 
 かなりぴったり隣に建てられているお寺なのですが、これは「神仏習合」の名残だそうです。
 
@@ -18,7 +18,7 @@ tags:
 
 実は、この『那智山青岸渡寺』は「西国三十三箇所霊場」の一番札所です。
 
-![][2]
+<amp-img src="/img/uploads/2010/03/seigantoji-temple-2.jpg" alt="" width="400" height="300" layout="responsive"></amp-img>
 
 「西国三十三箇所」は簡単に言うと「四国八十八箇所」みたいなもんです。
 
@@ -27,7 +27,7 @@ tags:
 
 （ちなみに職場のいるある年配の方は、夫婦で周ったことがあるそうです。すごい！）
 
-![][3]
+<amp-img src="/img/uploads/2010/03/seigantoji-temple-3.jpg" alt="" width="400" height="300" layout="responsive"></amp-img>
 
 寺なので、那智大社のキレイな外観とか朱塗りの柱と違って、
 京都の西本願寺や東京の浅草寺みたいに、ぺたぺた名札が貼ってあって、
@@ -35,7 +35,7 @@ tags:
 
 『青岸渡寺』は「比叡山延暦寺」と同様に、織田信長によって焼き打ちされた歴史があります。
 
-![][4]
+<amp-img src="/img/uploads/2010/03/seigantoji-temple-4.jpg" alt="" width="400" height="300" layout="responsive"></amp-img>
 
 で、それを再建したのが…豊臣秀吉なんです。
 
@@ -45,7 +45,7 @@ tags:
 
 この建物から山の方へ向かって、階段を少し降りたところに三重塔があります。
 
-![][5]
+<amp-img src="/img/uploads/2010/03/seigantoji-temple-5.jpg" alt="" width="400" height="300" layout="responsive"></amp-img>
 
 京都の「清水寺」にも似たような三重塔がありますね～。
 

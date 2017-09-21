@@ -10,9 +10,9 @@ layout: default
       </time>
     </footer>
     <div class="body">
-      <div class="flex-container">
+      <div class="paints">
         {% for image in page.images %}
-        <object class="flex-item" data="/img/uploads/{{page.directory}}/{{image}}"></object>
+        <amp-img class="paint" src="/img/uploads/{{page.directory}}/{{image}}" layout="responsive" width="240" height="240"></amp-img>
         {% endfor %}
       </div>
       {{ content }}

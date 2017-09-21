@@ -12,7 +12,7 @@ tags:
 その足を温泉効果で温めて健康になろうと、
 足に特化した手軽な『足湯』が、ここ数年は全国の温泉地にでき、人気を博しています。
 
-<img src="/img/uploads/2009/09/foot-spa.jpg" width="480" />
+<amp-img class="v-img" src="/img/uploads/2009/09/foot-spa.jpg" alt="" width="1200" height="1200" layout="responsive"></amp-img>
 
 僕は、道後温泉で有名な愛媛の松山市の出身なのですが、
 道後温泉の近くには公共の足湯や旅館が運営する足湯がいくつかあり、

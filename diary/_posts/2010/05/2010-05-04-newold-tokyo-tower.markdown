@@ -11,7 +11,7 @@ tags:
 
 浅草の駅の近くの橋の上から見える対岸のビル群の間に新しい仲間が増えていて、たくさんの人たちがカメラを向けていたのだった。晴天ではっきりと見えた。
 
-![浅草吾妻橋から見えるアサヒビール本社ビルと東京スカイツリー][1]
+<amp-img src="/img/uploads/2010/05/newold-tokyo-tower-1.jpg" alt="浅草吾妻橋から見えるアサヒビール本社ビルと東京スカイツリー" width="600" height="450" layout="responsive"></amp-img>
 
 東京スカイツリー、600メートルも伸びるんだってね。
 
@@ -19,7 +19,7 @@ tags:
 
 駅から南にず～っと歩いていたときおもしろい張り紙を見つけた。
 
-![鞄で有名なエース株式会社前の張り紙][2]
+<amp-img class="v-img" src="/img/uploads/2010/05/newold-tokyo-tower-2.jpg" alt="鞄で有名なエース株式会社前の張り紙" width="450" height="600" layout="responsive"></amp-img>
 
 えっこれって東京やったら普通なん？ていうかここ「エース」やん。
 
@@ -27,13 +27,13 @@ tags:
 
 もっと先に行ったら、バンダイ。僕らなんかがっつりたまごっち世代だから、
 
-![浅草バンダイ本社の前にあるたまごっち像][3]
+<amp-img class="v-img" src="/img/uploads/2010/05/newold-tokyo-tower-3.jpg" alt="浅草バンダイ本社の前にあるたまごっち像" width="450" height="600" layout="responsive"></amp-img>
 
 激写してしまいます。やっぱまめっち優等生だからな。
 
 ほかアンパンマン、ガンダムなど。激写したあとは駅に戻って東京タワーへ、
 
-![東京タワー][4]
+<amp-img class="v-img" src="/img/uploads/2010/05/newold-tokyo-tower-4.jpg" alt="東京タワー" width="450" height="600" layout="responsive"></amp-img>
 
 夕暮れ時で日が落ちて夜景がじわ～ってなるまで上でぐるぐる。
 
@@ -43,7 +43,7 @@ tags:
 
 下界へと降りてくると夜、ライトアップが綺麗。
 
-![ライトアップに映える東京タワー][5]
+<amp-img src="/img/uploads/2010/05/newold-tokyo-tower-5.jpg" alt="ライトアップに映える東京タワー" width="600" height="450" layout="responsive"></amp-img>
 
 この日は刀削麺食って寝ました。かなり歩いた。東京はちゃりがいると思った。
 

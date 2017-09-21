@@ -15,7 +15,7 @@ tags:
 
 今日は、先日行った色川地区のことについて書きたいと思います。
 
-![色川][1]
+<amp-img src="/img/uploads/2009/11/i-turn-irogawa-1.jpg" alt="色川" width="400" height="300" layout="responsive"></amp-img>
 
 
 色川には、平家の落人として平維盛という人が隠居していたと言い伝えられているそうで、
@@ -26,7 +26,7 @@ tags:
 そして、平安時代から鉱山開発の歴史があるそうなのですが、
 鉱山開発のピーク時には、色川には3000人ほどが暮らしていたそうです。
 
-![色川遠景][2]
+<amp-img src="/img/uploads/2009/11/i-turn-irogawa-2.jpg" alt="色川遠景" width="400" height="300" layout="responsive"></amp-img>
 
 この場所に3000人もいたとは驚きです。なんと、当時は映画館があったそうです！
 
@@ -35,7 +35,7 @@ tags:
 
 昔はすごく活躍したんだろうな～と思われる郵便局もありました。
 
-![色川の郵便局][3]
+<amp-img src="/img/uploads/2009/11/i-turn-irogawa-3.jpg" alt="色川の郵便局" width="400" height="300" layout="responsive"></amp-img>
 
 そして現在、色川地区の人口は360人しかいません。しかし驚くことに、
 
@@ -43,7 +43,7 @@ tags:
 
 農業などで生計を立てながら暮らしているようです。
 
-![Dr.コロコロの家][4]
+<amp-img src="/img/uploads/2009/11/i-turn-irogawa-4.jpg" alt="Dr.コロコロの家" width="400" height="300" layout="responsive"></amp-img>
 
 ちなみに上の写真はこの日のウォーキングに同行して下さっていた「ドクターコロコロ」の家です。
 
@@ -58,7 +58,7 @@ tags:
 また、杉・檜だらけで里山としての景観を損なっているこの辺りの森を憂い、
 自身の家の前にある山を買い、雑木林に戻す試みをされています。
 
-![Dr.コロコロ][5]
+<amp-img src="/img/uploads/2009/11/i-turn-irogawa-5.jpg" alt="Dr.コロコロ" width="400" height="300" layout="responsive"></amp-img>
 
 切り株の上に立って里山の話をする「ドクターコロコロ」です。すごくおもしろい方です。
 
@@ -66,7 +66,7 @@ tags:
 
 「木が余るんで、勝手にバーベキューして減らしてください！」て言ってました。おもしろい方です。
 
-![色川の販売所][6]
+<amp-img src="/img/uploads/2009/11/i-turn-irogawa-6.jpg" alt="色川の販売所" width="400" height="300" layout="responsive"></amp-img>
 
 また、移住してこられた若い方たちによる販売所のようなところが山の上にあります。
 

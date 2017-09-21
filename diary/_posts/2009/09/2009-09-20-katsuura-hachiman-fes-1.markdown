@@ -20,7 +20,7 @@ tags:
 そうは言っても、一体どこでどんな祭りが催されるのか検討もつかないので、
 町内をうろうろ歩いていると、発見しました。
 
-![山伏][1]
+<amp-img src="/img/uploads/2009/09/katsuura-hachiman-fes-1-1.jpg" alt="山伏" width="1200" height="900" layout="responsive"></amp-img>
 
 これは『山伏問答』という修験者を試す問答の一幕らしいです。
 
@@ -29,7 +29,7 @@ tags:
 
 続いて威勢の良い声のする漁港方面へ向かうと、
 
-![神輿１][2]
+<amp-img src="/img/uploads/2009/09/katsuura-hachiman-fes-1-2.jpg" alt="神輿１" width="1200" height="900" layout="responsive"></amp-img>
 
 神輿を担ぐ男たちに水をぶっかけています。
 
@@ -37,18 +37,18 @@ tags:
 
 後を追うと神社の前が凄い盛り上がっていました。
 
-![黄色組][3]
+<amp-img src="/img/uploads/2009/09/katsuura-hachiman-fes-1-3.jpg" alt="黄色組" width="1200" height="900" layout="responsive"></amp-img>
 
 黄色以外にも赤色、白色の法被を着た男の子たちがずらり、
 神社の境内では、獅子神楽が行われていました。
 
-<img src="/img/uploads/2009/09/katsuura-hachiman-fes-1-4.jpg" width="480" />
+<amp-img class="v-img" src="/img/uploads/2009/09/katsuura-hachiman-fes-1-4.jpg" alt="" width="900" height="1200" layout="responsive"></amp-img>
 
 少し緊張感が漂っています。
 
 獅子神楽が終わると、女の子たちの踊りが始まりました。
 
-![子供手踊][5]
+<amp-img src="/img/uploads/2009/09/katsuura-hachiman-fes-1-5.jpg" alt="子供手踊" width="1200" height="900" layout="responsive"></amp-img>
 
 鮮やかな花笠と踊りで緊張感が和らいできます。
 

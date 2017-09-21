@@ -9,25 +9,25 @@ tags:
 
 歩いて行ける場所に「東京都現代美術館」なるものがあったので行った。
 
-![フセイン・チャラヤン作品展][1]
+<amp-img src="/img/uploads/2010/05/mot-art-museum-1.jpg" alt="フセイン・チャラヤン作品展" width="600" height="450" layout="responsive"></amp-img>
 
 フセイン・チャラヤンという名のファッション界のカリスマ的な人の作品展とかプラスチックメモリーズとかいう･･･プラスチックなメモリーな作品展とか。これだけは明確、井上雄彦の巨大な武蔵の画があった。これだけは明確。
 
 近辺では名物だそう「深川めし」なるものを食べて銀座へ移動。
 
-![２０１０年の銀座フラワーカーペット][2]
+<amp-img class="v-img" src="/img/uploads/2010/05/mot-art-museum-2.jpg" alt="２０１０年の銀座フラワーカーペット" width="450" height="600" layout="responsive"></amp-img>
 
 「銀座フラワーカーペット」ドンピシャで開催中。ごった返し。
 
 ベビーカーの家族連れなど。都会ってスゲーって思った。スゲーって。
 
-![銀座にある月光荘の玄関][3]
+<amp-img class="v-img" src="/img/uploads/2010/05/mot-art-museum-3.jpg" alt="銀座にある月光荘の玄関" width="450" height="600" layout="responsive"></amp-img>
 
 うろうろしてたら「月光荘」発見。改めて都会ってスゲーって。入らなかったけどね。
 
 銀座に来たからには絶対に行っておきたかった場所に行けた。
 
-![銀座にある老舗喫茶店カフェ・ド・ランブル][4]
+<amp-img src="/img/uploads/2010/05/mot-art-museum-4.jpg" alt="銀座にある老舗喫茶店カフェ・ド・ランブル" width="600" height="450" layout="responsive"></amp-img>
 
 カフェ・ド・ランブル。コーヒー好きとしての念願叶う。
 
@@ -37,7 +37,7 @@ tags:
 
 コーヒーを飲んで浅草へ移動。
 
-![浅草・花やしき][5]
+<amp-img src="/img/uploads/2010/05/mot-art-museum-5.jpg" alt="浅草・花やしき" width="600" height="450" layout="responsive"></amp-img>
 
 浅草寺が改修工事中で東本願寺状態に。花やしきの賑わいがスゲー。
 

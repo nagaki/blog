@@ -18,7 +18,7 @@ tags:
 
 買った本はタイトル通り、『熊野詣 三山信仰と文化』(五来 重 著)です。
 
-![熊野詣 三山信仰と文化][1]
+<amp-img src="/img/uploads/2010/02/kumanomode-gorai-shigeru.jpg" alt="熊野詣 三山信仰と文化" width="450" height="300" layout="responsive"></amp-img>
 
 なんでも、
 

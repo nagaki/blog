@@ -11,7 +11,7 @@ tags:
 
 日本橋なんか見る影もないよねどげんかせんといかんっ！！って小泉か誰かが言ってたよね。
 
-![首都高速の下の川に浮かぶ屋形船][1]
+<amp-img src="/img/uploads/2010/05/teien-art-museum-1.jpg" alt="首都高速の下の川に浮かぶ屋形船" width="600" height="450" layout="responsive"></amp-img>
 
 屋形船が首都高の下でお昼寝しよった。
 
@@ -19,7 +19,7 @@ tags:
 
 屋形船やさんの近くでかき揚げ丼を食べた。東京は味が濃い目？タレが？濃い目。
 
-![芝にある天麩羅店・あみ熊のかき揚げ丼][2]
+<amp-img src="/img/uploads/2010/05/teien-art-museum-2.jpg" alt="芝にある天麩羅店・あみ熊のかき揚げ丼" width="600" height="450" layout="responsive"></amp-img>
 
 で、山手線に乗って目黒へ。地下鉄ばっかやったから新鮮。
 
@@ -27,7 +27,7 @@ tags:
 
 庭園美術館（ここがまた上品（庭園が都会のオアシス！（親子で行きたいねって感じ！）））行った。
 
-![東京都庭園美術館][3]
+<amp-img src="/img/uploads/2010/05/teien-art-museum-3.jpg" alt="東京都庭園美術館" width="600" height="450" layout="responsive"></amp-img>
 
 ロシア構成主義の展覧会。最高。ビンビン。ガッツリいただきました。
 
@@ -35,7 +35,7 @@ tags:
 
 コルビジェさんが作った（よねー確か？ピロティあるしねー。一応いろんな角度から見ておこ。）
 
-![国立西洋美術館][4]
+<amp-img src="/img/uploads/2010/05/teien-art-museum-4.jpg" alt="国立西洋美術館" width="600" height="450" layout="responsive"></amp-img>
 
 国立西洋美術館。
 
@@ -43,7 +43,7 @@ tags:
 
 さらに奥には国立科学博物館。
 
-![国立科学博物館][5]
+<amp-img class="v-img" src="/img/uploads/2010/05/teien-art-museum-5.jpg" alt="国立科学博物館" width="450" height="600" layout="responsive"></amp-img>
 
 上野公園どんだけ広いねん。めっちゃ巨大な国立博物館それから東京都美術館と上野の森美術館と東京文化会館と、あと池。こち亀によく出てくる池。平和公園みたいになってるとこもあるし（そこでホームレス無気力状態やし）アメ横に行った。ごった返してた。チャイニーズがたくさんいた。活気があった。
 

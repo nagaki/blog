@@ -3,6 +3,7 @@ layout: post
 title: "jQueryでtouchイベントをbindする"
 tags:
 - jQuery
+gist: true
 ---
 スマートフォンでtoggleするメニュー等の開閉ボタンをタッチした時、適用している`:hover`スタイルが、
 タッチ後にも適用されたままになってしまい、不恰好です。
@@ -10,7 +11,11 @@ tags:
 [調べてみる][1] と、jQueryの`.bind()`を使ってオブジェクトのイベントを取得して
 クラスを追加する方法で、タッチしたときにスタイルを変更することができることがわかりました。
 
-<script src="https://gist.github.com/nagaki/6102880.js"></script>
+<amp-gist
+    data-gistid="6102880"
+    layout="fixed-height"
+    height="225">
+</amp-gist>
 
 でもこのやり方だと、`:hover`と`touch`の共存ができないので
 （bindに`mouseenter`を記述すると`:hover`の時と同じ挙動になる）

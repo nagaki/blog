@@ -16,7 +16,7 @@ tags:
 
 先日、初めて行ってきて、すごく良い場所だったので、今日は紹介したいと思います。
 
-![本州最南端の碑][1]
+<amp-img src="/img/uploads/2010/01/shionomisaki-1.jpg" alt="本州最南端の碑" width="400" height="300" layout="responsive"></amp-img>
 
 「ババーン！」と来た感たっぷりの碑が出迎えてくれます。
 
@@ -24,7 +24,7 @@ tags:
 
 見どころその１は『潮岬タワー』です。
 
-![潮岬観光タワー][2]
+<amp-img src="/img/uploads/2010/01/shionomisaki-2.jpg" alt="潮岬観光タワー" width="400" height="300" layout="responsive"></amp-img>
 
 円いです。かなり高い場所にあるので、陸地、海面をパノラマ展望できることは確実です。
 
@@ -34,7 +34,7 @@ tags:
 
 見どころその２は『草原』です。
 
-![潮岬野原][3]
+<amp-img src="/img/uploads/2010/01/shionomisaki-3.jpg" alt="潮岬野原" width="400" height="300" layout="responsive"></amp-img>
 
 『潮岬タワー』前の道から、最南端碑の間に、ちょっとした草原が広がっているのですが、
 
@@ -44,7 +44,7 @@ tags:
 
 見どころその３は『やっぱり最端』なところです。
 
-![潮岬南端][4]
+<amp-img src="/img/uploads/2010/01/shionomisaki-4.jpg" alt="潮岬南端" width="400" height="300" layout="responsive"></amp-img>
 
 この岩の先っちょが本州の最南端であって、この南はずーっとなんにもない海です。
 
@@ -55,7 +55,7 @@ tags:
 
 見どころその４は『陽が昇る場所』なところです。
 
-![潮岬から見えた空][5]
+<amp-img src="/img/uploads/2010/01/shionomisaki-5.jpg" alt="潮岬から見えた空" width="400" height="300" layout="responsive"></amp-img>
 
 わたがしのように途切れた雲に隠れた朝陽と水平線に浮かぶ船、
 海も空もただ広くどこまでも続いていて、それをさえぎるものはなにもありません。

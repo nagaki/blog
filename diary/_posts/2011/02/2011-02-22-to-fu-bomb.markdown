@@ -9,7 +9,7 @@ tag:
 
 CD-Rを開いたら学生時代の懐かしい写真がたくさん出てきたのですが、その中にとても思い出に残っている一枚がありました。これが「豆腐の爆弾」の写真です。
 
-![豆腐の爆弾の写真][1]
+<amp-img src="/img/uploads/2011/02/to-fu-bomb.jpg" alt="豆腐の爆弾の写真" width="512" height="384" layout="responsive"></amp-img>
 
 この前夜感、もめん、水滴。
 

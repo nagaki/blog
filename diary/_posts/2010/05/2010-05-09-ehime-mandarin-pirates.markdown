@@ -11,11 +11,11 @@ tags:
 
 姉ちゃんが招待券をゲットしてきたというので四国ＩＬ（アイランドリーグ）の試合を見に行ってきた。
 
-![坊ちゃんスタジアムその１][1]
+<amp-img src="/img/uploads/2010/05/ehime-mandarin-pirates-1.jpg" alt="坊ちゃんスタジアムその１" width="600" height="450" layout="responsive"></amp-img>
 
 プロ野球公式戦から少年野球の試合まで広く使われている「坊っちゃんスタジアム」は、もともと堀端にあった市営球場・競輪場・市営プールが老朽化（その他土地有効利用etc..）した為、何年か前（高校ときぐらい）にまとめてどーんと郊外（といっても市中心部から２キロぐらい）から移設された。
 
-![愛媛マンダリンパイレーツキャラクターのマッピー][2]
+<amp-img src="/img/uploads/2010/05/ehime-mandarin-pirates-2.jpg" alt="愛媛マンダリンパイレーツキャラクターのマッピー" width="600" height="450" layout="responsive"></amp-img>
 
 彼の名前は「マッピー」君と言うそう。（マンダリンパイレーツだから）
 
@@ -29,7 +29,7 @@ tags:
 
 って鼻息荒く言いながら作ったプロ野球リーグなんですよね～（ちょっと違う（けっこう違う））
 
-![マンダリンパイレーツ円陣][3]
+<amp-img src="/img/uploads/2010/05/ehime-mandarin-pirates-3.jpg" alt="マンダリンパイレーツ円陣" width="600" height="450" layout="responsive"></amp-img>
 
 でそんな四国県民同士の意地とプライドのぶつかり合いが楽しめる四国ＩＬ（アイランドリーグ）ですが、本日の相手は、長崎セインツです。
 
@@ -37,7 +37,7 @@ tags:
 
 まあ、なんでやねんって思いましたけどね。
 
-![愛媛マンダリンパイレーツの試合の観客][4]
+<amp-img src="/img/uploads/2010/05/ehime-mandarin-pirates-4.jpg" alt="愛媛マンダリンパイレーツの試合の観客" width="600" height="450" layout="responsive"></amp-img>
 
 もちろん人気はまだまだなので応援に来ているも少ないけど、ラッキーセブンには風船もあって楽しめる。
 
@@ -45,7 +45,7 @@ tags:
 
 雰囲気を味わいにくるだけでもかなり良い。家から近いし。
 
-![愛媛マンダリンパイレーツ勝利][5]
+<amp-img class="v-img" src="/img/uploads/2010/05/ehime-mandarin-pirates-5.jpg" alt="愛媛マンダリンパイレーツ勝利" width="450" height="600" layout="responsive"></amp-img>
 
 試合は２回裏までに９点とって優位に立った愛媛マンダリンパイレーツが逃げ切り勝利。（MP 11-6 St）
 

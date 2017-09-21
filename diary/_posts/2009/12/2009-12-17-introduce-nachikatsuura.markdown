@@ -16,7 +16,7 @@ tags:
 
 そもそも和歌山県の場所をちゃんと言える人って悲しいことに少ないです…。なので地図で説明すると…
 
-![日本地図][1]
+<amp-img src="/img/uploads/2009/12/introduce-nachikatsuura-1.jpg" alt="日本地図" width="399" height="300" layout="responsive"></amp-img>
 
 この地図の赤い部分が『和歌山県』です！実は本州で一番南にある県なんですよ！
 
@@ -24,7 +24,7 @@ tags:
 
 で、和歌山県レベルで地図を拡大してみます…
 
-![和歌山県写真地図][2]
+<amp-img src="/img/uploads/2009/12/introduce-nachikatsuura-2.jpg" alt="和歌山県写真地図" width="399" height="298" layout="responsive"></amp-img>
 
 衛星写真の地図で見てもらうと、那智勝浦町がどんな場所にあるかわかりやすいと思います。
 
@@ -40,7 +40,7 @@ tags:
 
 那智勝浦町の中心ともいえる紀伊勝浦駅＆勝浦漁港周辺はこんな感じです。
 
-![那智勝浦漁港周辺風景][3]
+<amp-img src="/img/uploads/2009/12/introduce-nachikatsuura-3.jpg" alt="那智勝浦漁港周辺風景" width="400" height="300" layout="responsive"></amp-img>
 
 なかなか良い雰囲気ですよね？そして意外に、田舎過ぎって感じでもないですよね。
 
@@ -52,7 +52,7 @@ tags:
 
 漁港から海側を撮った写真です。天然の良港っぷりがわかると思います。常に穏やかです。
 
-![那智勝浦漁港入江][4]
+<amp-img src="/img/uploads/2009/12/introduce-nachikatsuura-4.jpg" alt="那智勝浦漁港入江" width="400" height="300" layout="responsive"></amp-img>
 
 外海が全く見えません。ちなみに左側が『狼煙半島』で右側が『中ノ島』です。
 
@@ -64,13 +64,13 @@ tags:
 
 で、実はこの『狼煙半島』から、日本一の落差を誇る『那智の滝』が（かすかに）見えます。
 
-![狼煙半島から見る那智の滝][5]
+<amp-img src="/img/uploads/2009/12/introduce-nachikatsuura-5.jpg" alt="狼煙半島から見る那智の滝" width="400" height="300" layout="responsive"></amp-img>
 
 真ん中のほう、すっごくかすかですが…確かに見えるんです。上の方だけ。周りの山と比べて下さい。でかいです。
 
 で、この視点から１８０°振り向くと、太平洋が広がっています。
 
-![狼煙半島から見る太平洋][6]
+<amp-img src="/img/uploads/2009/12/introduce-nachikatsuura-6.jpg" alt="狼煙半島から見る太平洋" width="400" height="300" layout="responsive"></amp-img>
 
 穏やかです。ど～んと広がっています。でも波打ち際はやっぱり太平洋、ザッバーンって感じです。
 
@@ -80,7 +80,7 @@ tags:
 
 市場＆冷凍庫も併設されていて、現在は新しい市場が建設中のようです。
 
-![紀の松島めぐり観光船][7]
+<amp-img src="/img/uploads/2009/12/introduce-nachikatsuura-7.jpg" alt="紀の松島めぐり観光船" width="400" height="300" layout="responsive"></amp-img>
 
 タイミングよく漁港の前ですれ違う２隻の船…この船は漁船じゃありません。
 
@@ -90,7 +90,7 @@ tags:
 
 この辺りも「松島」周辺と同じリアス式海岸になっていて、大小様々の島の景勝を見ることができます。
 
-![山成島][8]
+<amp-img src="/img/uploads/2009/12/introduce-nachikatsuura-8.jpg" alt="山成島" width="400" height="300" layout="responsive"></amp-img>
 
 この島も紀の松島の一つで、名前は『山成島』といいます。
 
@@ -104,7 +104,7 @@ tags:
 
 最後に勝浦湾に浮かぶ勝浦の夜景です。
 
-![那智勝浦の夜景][9]
+<amp-img src="/img/uploads/2009/12/introduce-nachikatsuura-9.jpg" alt="那智勝浦の夜景" width="400" height="300" layout="responsive"></amp-img>
 
 最後までお読み頂きありがとうございました。
 

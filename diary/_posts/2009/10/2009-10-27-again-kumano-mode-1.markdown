@@ -13,17 +13,17 @@ tags:
 この日は、今にも雨が降り出しそうなどんよりとした空でしたが、
 雨でもイベントは行われるので、上司の方の車に乗って集合場所の小学校に出発しました。
 
-![曇り空][1]
+<amp-img src="/img/uploads/2009/10/again-kumano-mode-1-1.jpg" alt="曇り空" width="1200" height="900" layout="responsive"></amp-img>
 
 小学校に着いて、受付を済ませて、体育館で着付けを待ちます。
 
-![平安衣装に着替え][2]
+<amp-img src="/img/uploads/2009/10/again-kumano-mode-1-2.jpg" alt="平安衣装に着替え" width="1200" height="900" layout="responsive"></amp-img>
 
 僕は左の人と同じ格好の平安衣装です。役柄は『従僕』というそうです。家来みたいな感じです。
 
 着付けを終えて待機している間、続々と参加者の方たちが到着。
 
-![受付][3]
+<amp-img src="/img/uploads/2009/10/again-kumano-mode-1-3.jpg" alt="受付" width="1200" height="900" layout="responsive"></amp-img>
 
 県外ナンバーの車が結構います。意外と若い女の子が多いのにびっくり。
 
@@ -33,13 +33,13 @@ tags:
 
 駐車場で待っている間、語り部さんによる『那智参詣曼荼羅図』の絵解きがありました。
 
-![語り部さんトーク][4]
+<amp-img src="/img/uploads/2009/10/again-kumano-mode-1-4.jpg" alt="語り部さんトーク" width="1200" height="900" layout="responsive"></amp-img>
 
 絵に描かれた人々の仕草や情景などから、当時の文化や社寺・道の有様を解説してくれます。
 
 那智山に対する知識を深めたところで、開会式、そして出発です。
 
-![山伏出陣][5]
+<amp-img src="/img/uploads/2009/10/again-kumano-mode-1-5.jpg" alt="山伏出陣" width="1200" height="900" layout="responsive"></amp-img>
 
 山伏の方たちの法螺貝、「ブウゥ～ゥ～～♪」ってけっこう迫力があります。
 
@@ -47,13 +47,13 @@ tags:
 
 入口に鳥居があって、そこから向こう側が熊野那智大社の境内（？）らしく、お祓いを受けた上で進みます。
 
-<img src="/img/uploads/2009/10/again-kumano-mode-1-6.jpg" width="480" />
+<amp-img class="v-img" src="/img/uploads/2009/10/again-kumano-mode-1-6.jpg" alt="" width="900" height="1200" layout="responsive"></amp-img>
 
 大門坂の石畳と平安衣装。平安時代にタイムスリップしてます。
 
 ちなみに、右にいる横を向いている女性の方は、着付けスタッフです。草履や笠が緩むと素早く直してもらえます。
 
-![大門坂駐車場で休憩][7]
+<amp-img src="/img/uploads/2009/10/again-kumano-mode-1-7.jpg" alt="大門坂駐車場で休憩" width="1200" height="900" layout="responsive"></amp-img>
 
 大門坂をあがって駐車場で休憩、お茶を用意してくれていました！尼の方や衛士の方も写っています。
 
@@ -61,7 +61,7 @@ tags:
 
 参加者の女性の方は「まだあるの！？」と驚いていました。結構のぼるんです！
 
-![那智大社階段][8]
+<amp-img src="/img/uploads/2009/10/again-kumano-mode-1-8.jpg" alt="那智大社階段" width="1200" height="900" layout="responsive"></amp-img>
 
 最後の階段には凄く多くのカメラマンがいました。激写していました。
 
@@ -71,7 +71,7 @@ tags:
 
 宮司さんから熊野那智大社が祀る神様についての解説がありました。
 
-![那智大社玉垣内][9]
+<amp-img src="/img/uploads/2009/10/again-kumano-mode-1-9.jpg" alt="那智大社玉垣内" width="1200" height="900" layout="responsive"></amp-img>
 
 厳かです。かっこいいです。
 
