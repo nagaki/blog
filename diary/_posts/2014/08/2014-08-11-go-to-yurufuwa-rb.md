@@ -51,7 +51,7 @@ tag:
 
 これからも参加し続けたいし、色々と貢献できるように実力を高めたいです。
 
-[ゆるふわ.rb | Doorkeeper][yuru-url]
+[ゆるふわ.rb \| Doorkeeper][yuru-url]
 
 [ruby-warrior]: https://www.bloc.io/ruby-warrior/#/
 [pc-ko]: http://web-ext.u-aizu.ac.jp/pc-concours/
