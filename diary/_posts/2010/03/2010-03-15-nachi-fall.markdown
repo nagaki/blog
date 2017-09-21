@@ -6,13 +6,14 @@ categories:
   - diary
 tags:
   - history
+youtube: true
 ---
 今日は『那智の滝』を紹介したいと思います。
 
 那智の滝は世界遺産熊野那智大社の入り口にある滝で、
 一段の滝としては落差日本1位の133mを誇っているそうです。
 
-![通天閣][1]
+<amp-img class="v-img" src="/img/uploads/2010/03/nachi-fall-1.jpg" alt="通天閣" width="300" height="400" layout="responsive"></amp-img>
 
 &#169; Wikipedia
 
@@ -20,19 +21,19 @@ tags:
 
 [前回の記事][a1]の『青岸渡寺』から滝まではまたまた険しい道が続きます。
 
-![青岸渡寺から那智滝までの徒歩道][2]
+<amp-img src="/img/uploads/2010/03/nachi-fall-2.jpg" alt="青岸渡寺から那智滝までの徒歩道" width="400" height="300" layout="responsive"></amp-img>
 
 この道も、大門坂と同じく歴史のある石段の道（大門坂よりもかなり険しい）です。
 
 階段をひたすら下って行くと、滝が開けて見えるようになります。
 
-![那智滝1][3]
+<amp-img class="v-img" src="/img/uploads/2010/03/nachi-fall-3.jpg" alt="那智滝1" width="300" height="400" layout="responsive"></amp-img>
 
 どど～ん！…高え！かなり上から落ちてきています。
 
 ここだと左右に木が茂っていて、前に鳥居があって、見え辛いので…
 
-![那智滝ゲート][4]
+<amp-img src="/img/uploads/2010/03/nachi-fall-4.jpg" alt="那智滝ゲート" width="400" height="300" layout="responsive"></amp-img>
 
 この有料ゾーン入口からさらに近くへと行ってみました。（大人３００円）
 
@@ -40,19 +41,19 @@ tags:
 
 徒歩２分（これまた階段）進むと滝を拝める台みたいな場所へとたどり着きます。
 
-![那智滝2][5]
+<amp-img src="/img/uploads/2010/03/nachi-fall-5.jpg" alt="那智滝2" width="400" height="300" layout="responsive"></amp-img>
 
 こ～んな近いです。「マイナスイオンが～！」って騒ぎたい気持ちを抑えます。
 
 上はかなり上です。ホントに通天閣より高いのでしょうか！でも高いです。
 
-![那智滝3][6]
+<amp-img class="v-img" src="/img/uploads/2010/03/nachi-fall-6.jpg" alt="那智滝3" width="300" height="400" layout="responsive"></amp-img>
 
 ギリギリ写真に入りました。ん～迫力がいまいち伝わらなさそうな感じです。
 
 なので、動画を撮ってみました。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R8oVLqlbGMg" frameborder="0" allowfullscreen></iframe>
+<amp-youtube data-videoid="R8oVLqlbGMg" layout="responsive" width="480" height="270"></amp-youtube>
 
 …写真よりは伝わるような気がします。
 
@@ -64,7 +65,7 @@ tags:
 
 滝から駐車場・バス乗り場まで階段を戻ります。最後までひたすら階段です…
 
-![那智滝階段][7]
+<amp-img src="/img/uploads/2010/03/nachi-fall-7.jpg" alt="那智滝階段" width="400" height="300" layout="responsive"></amp-img>
 
 …那智山はどこもすご～く険しいことがよくわかります…。
 

@@ -15,13 +15,13 @@ tags:
 
 途中に、くじら・いるか漁で有名な太地町を通過します。
 
-![くじら風力発電][1]
+<amp-img src="/img/uploads/2009/10/butsubutsu-stream-1.jpg" alt="くじら風力発電" width="1200" height="900" layout="responsive"></amp-img>
 
 交差点で、くじらをモチーフにデザインされた風力発電機を見つけました。
 
 ＪＲ下里駅というところから少し行った海のそばにぶつぶつ川はあります。
 
-![ぶつぶつ川看板][2]
+<amp-img src="/img/uploads/2009/10/butsubutsu-stream-2.jpg" alt="ぶつぶつ川看板" width="1200" height="900" layout="responsive"></amp-img>
 
 ちゃんと「二級河川」と書かれた看板があります。
 
@@ -29,11 +29,11 @@ tags:
 
 わずかこれだけの長さです！その距離、**13.5m**です！！
 
-![ぶつぶつ川全体][3]
+<amp-img src="/img/uploads/2009/10/butsubutsu-stream-3.jpg" alt="ぶつぶつ川全体" width="1200" height="900" layout="responsive"></amp-img>
 
 この「ぶつぶつ川」と書かれた木の板の下の石の隙間から水が出ています。
 
-![ぶつぶつ川源流][4]
+<amp-img src="/img/uploads/2009/10/butsubutsu-stream-4.jpg" alt="ぶつぶつ川源流" width="1200" height="900" layout="responsive"></amp-img>
 
 もちろん湧水なので、とてもきれいです。水を汲んで帰る人用に柄杓と漏斗が備えられています。
 
@@ -45,7 +45,7 @@ tags:
 
 近くには「玉の浦海水浴場」というとても眺めの良い海があります。
 
-![玉の浦][5]
+<amp-img src="/img/uploads/2009/10/butsubutsu-stream-5.jpg" alt="玉の浦" width="1200" height="900" layout="responsive"></amp-img>
 
 夏の海水浴のついでに訪れてみるのも良いかもしれませんね！
 

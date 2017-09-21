@@ -20,7 +20,7 @@ tag:
 やっぱり最高にかっこいい。他のどの橋よりも圧倒的にセクシー、シュッとしてる。
 いつまでも見とれていたい気持ちを抑え、物心ついてからは訪れていない大山祗神社へ向かいました。
 
-![oyamazumi][]
+<amp-img src="/img/uploads/2014/12/oyamazumi-shrine.jpg" alt="" width="1200" height="800" layout="responsive"></amp-img>
 
 多々羅大橋と同様に「シュッとしてる」そして神々しい、威厳ある神社でした。
 ただ、来るつもりはなかったというか軽い気持ちで来ていたので、何というか、
@@ -29,7 +29,7 @@ tag:
 
 そして完全に自分の趣味で、[今治市伊東豊雄建築ミュージアム][ito-museum]に行ってみました。
 
-![toyo][]
+<amp-img src="/img/uploads/2014/12/ito-toyo-museum.jpg" alt="" width="1200" height="800" layout="responsive"></amp-img>
 
 すとーんと海に落ちていくような景色が気持ちのよい場所。
 そこにスティールハットという黒い多面体の建物、それと、
@@ -42,11 +42,11 @@ tag:
 展示されていました。僕は、こういう活動が行われていることを全く知らなかったので、
 驚き、大三島への興味が湧いてきて、面白く見ることができました。
 
-![view][]
+<amp-img src="/img/uploads/2014/12/sea-view-from-ito-toyo-museum.jpg" alt="" width="1200" height="800" layout="responsive"></amp-img>
 
 ミュージアムからの眺め。The瀬戸内海。
 
-<img src="/img/uploads/2014/12/steel-hut.jpg" width="480" />
+<amp-img class="v-img" src="/img/uploads/2014/12/steel-hut.jpg" alt="" width="800" height="1200" layout="responsive"></amp-img>
 
 この黒く不思議な物体の中には、若く、力強いアイデアと実践の記録が、詰まっていました。
 
@@ -65,7 +65,7 @@ tag:
 このお店のオリジナル商品で、砥部焼で作られた陶製のものがありました。アツすぎます。
 即買いしました。あと超格好いいイタリア製のタペストリーを衝動買いしました。
 
-<img src="/img/uploads/2014/12/limone-squeezer-tobe-yaki.jpg" width="480" />
+<amp-img class="v-img" src="/img/uploads/2014/12/limone-squeezer-tobe-yaki.jpg" alt="" width="800" height="1200" layout="responsive"></amp-img>
 
 店主の方に、「家でレモン育ててるんですよ〜」とレモン大好きアピールをしたのが
 よかったのかどうかはわかりませんが、無農薬で栽培されたレモンを4個も!!

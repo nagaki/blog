@@ -12,34 +12,34 @@ tags:
 自分の色川の第一印象は「原風景」だな～と思ったのですが、
 実際に『にほんの里１００選』にも選ばれているらしく、名実ともに「原風景」です。
 
-![色川地区][1]
+<amp-img src="/img/uploads/2009/11/totoro-mountain-1.jpg" alt="色川地区" width="1200" height="900" layout="responsive"></amp-img>
 
 僕はスタジオジブリの映画『となりのトトロ』が好きなのですが、
 この色川にはトトロがいそうな風景がたくさんありました。
 
 なので今日はそんな風景を紹介したいと思います。
 
-![さつきとメイの家の前にある小川と橋みたい][2]
+<amp-img src="/img/uploads/2009/11/totoro-mountain-2.jpg" alt="さつきとメイの家の前にある小川と橋みたい" width="1200" height="900" layout="responsive"></amp-img>
 
 さつきとメイの家の前にある小川と橋みたいでした。
 
-![さつきとメイの家っぽい家][3]
+<amp-img src="/img/uploads/2009/11/totoro-mountain-3.jpg" alt="さつきとメイの家っぽい家" width="1200" height="900" layout="responsive"></amp-img>
 
 で、さつきとメイの家っぽい家。赤い屋根と緑のコントラストが美しいです。
 
-<img src="/img/uploads/2009/11/totoro-mountain-4.jpg" width="480" />
+<amp-img class="v-img" src="/img/uploads/2009/11/totoro-mountain-4.jpg" alt="" width="900" height="1200" layout="responsive"></amp-img>
 
 天井からどんぐりの実が落ちてきそうです。
 
-![小トトロが歩いてそうな苔道][5]
+<amp-img src="/img/uploads/2009/11/totoro-mountain-5.jpg" alt="小トトロが歩いてそうな苔道" width="1200" height="900" layout="responsive"></amp-img>
 
 小トトロが歩いてそうな苔道。トトロの家もこんな苔っぽいですよね。
 
-![ネコバスが駆け抜けて行きそうなカーブ][6]
+<amp-img src="/img/uploads/2009/11/totoro-mountain-6.jpg" alt="ネコバスが駆け抜けて行きそうなカーブ" width="1200" height="900" layout="responsive"></amp-img>
 
 ネコバスが駆け抜けて行きそうなカーブ。
 
-<img src="/img/uploads/2009/11/totoro-mountain-7.jpg" width="480" />
+<amp-img class="v-img" src="/img/uploads/2009/11/totoro-mountain-7.jpg" alt="" width="900" height="1200" layout="responsive"></amp-img>
 
 お墓前の階段にメイちゃん座ってそうです。
 

@@ -14,19 +14,19 @@ tags:
 
 超初心者向け入門野菜のラディッシュの種が何者か（変な虫共）によって食い潰され全滅、まくわ瓜が茎の根本から腐る初期不良に見舞われましたが、
 
-![トマトの花][1]
+<amp-img src="/img/uploads/2010/05/vegenote-20100508-1.jpg" alt="トマトの花" width="600" height="450" layout="responsive"></amp-img>
 
 現在、その他の野菜が順調です。特にトマトが良い。
 
 日に日に茎そして葉が成長していくのを実感します。
 
-![大葉][2]
+<amp-img src="/img/uploads/2010/05/vegenote-20100508-2.jpg" alt="大葉" width="600" height="450" layout="responsive"></amp-img>
 
 東京に行く前日に種を播いたせいでやっと最近発芽した大葉。
 
 トマトのすぐ南側に植えてコンパニオンプランツとしての活躍を期待します。
 
-![ししとうと枝豆][3]
+<amp-img class="v-img" src="/img/uploads/2010/05/vegenote-20100508-3.jpg" alt="ししとうと枝豆" width="450" height="600" layout="responsive"></amp-img>
 
 僕の中でなすよりもきゅうりよりもゴーヤよりも、ししとうが夏野菜の中で鉄板です。
 

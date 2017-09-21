@@ -21,11 +21,11 @@ SHIMANOの特売はあるけど、Daiwaがない。
 
 なんとなく、佐藤可士和のウェブサイトに行った。
 
-![佐藤可士和ウェブサイト画像][1]
+<amp-img src="/img/uploads/2010/04/daiwa-redesigned-by-kashiwa-sato-1.jpg" alt="佐藤可士和ウェブサイト画像" width="512" height="311" layout="responsive"></amp-img>
 
 ついに絵本を書いていたり、お米のブランディングをしていたり、
 
-![佐藤可士和のウェブサイト画像２][2]
+<amp-img src="/img/uploads/2010/04/daiwa-redesigned-by-kashiwa-sato-2.jpg" alt="佐藤可士和のウェブサイト画像２" width="512" height="311" layout="responsive"></amp-img>
 
 てっきりダイワハウチュとか大和証券と思ってスルーしかけたこのDAIWAがまさか、
 
@@ -33,11 +33,11 @@ SHIMANOの特売はあるけど、Daiwaがない。
 
 少し前まで、
 
-![ダイワ精工旧ロゴタイプ][3]
+<amp-img src="/img/uploads/2010/04/daiwa-redesigned-by-kashiwa-sato-3.jpg" alt="ダイワ精工旧ロゴタイプ" width="512" height="293" layout="responsive"></amp-img>
 
 だったはずが、
 
-![ダイワ精工新ロゴタイプ][4]
+<amp-img src="/img/uploads/2010/04/daiwa-redesigned-by-kashiwa-sato-4.jpg" alt="ダイワ精工新ロゴタイプ" width="512" height="311" layout="responsive"></amp-img>
 
 こんなことに…。これ広告に載ってた謎のメーカーのマークだ。
 
@@ -51,7 +51,7 @@ SHIMANOの特売はあるけど、Daiwaがない。
 
 とりあえず、佐藤可士和が既に『時代のアイコン』になっていることは確か。
 
-![佐藤可士和モザイク][5]
+<amp-img class="v-img" src="/img/uploads/2010/04/daiwa-redesigned-by-kashiwa-sato-5.jpg" alt="佐藤可士和モザイク" width="300" height="400" layout="responsive"></amp-img>
 
 いずれこのロゴ入りのリールやロッドが眩しくなる日がくるだろう。
 

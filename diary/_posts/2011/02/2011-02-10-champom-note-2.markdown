@@ -11,57 +11,57 @@ tags:
 
 と言い切る長崎が産んだベースボーラーちゃんぽんさんは、自身の見識を広げるため、商店街や名所、まちづくりに関連する場所を見に訪れている。なんかやたら[全国の商店街に行きまくって][1]いて、その写真だけで展覧会が開けそうな勢いなので、松山を代表する商店街「銀天街・大街道」もコレクションに加えてもらうため、案内した。
 
-![][2]
+<amp-img src="/img/uploads/2011/02/champom-note-2-1.jpg" alt="" width="600" height="448" layout="responsive"></amp-img>
 
 前の日から名物が食べたいと言って憚らないので「鍋焼きうどん」を食べに行った。僕も初めて行ったこの「ことり」というお店は、映画のロケでも使われた由緒正しき松山ソウルフードショップらしい。ちなみに（上）で行ったひなびたバッティングセンターも映画のロケで使われたことがある。（って書いてた）
 
-![][3]
+<amp-img src="/img/uploads/2011/02/champom-note-2-2.jpg" alt="" width="600" height="448" layout="responsive"></amp-img>
 
 食べる前にお金を払うのに驚いた。あと、メニューが「鍋焼き」と「いなり」しかない。
 
-![][4]
+<amp-img src="/img/uploads/2011/02/champom-note-2-3.jpg" alt="" width="600" height="448" layout="responsive"></amp-img>
 
 上の写真は、大街道の愛媛の作家さんの作品を売ってる店へ寄り、手漉きの名刺用和紙（3000円100枚入）を買い、お姉さまと談笑するちゃんぽんさん。有名な書道家の紫舟さんという人が使っている和紙と、お姉さまのセールストーク。
 
-![][5]
+<amp-img src="/img/uploads/2011/02/champom-note-2-4.jpg" alt="" width="600" height="448" layout="responsive"></amp-img>
 
 一応、坂の上の雲ミュージアムにも寄った。
 
 ほんで、リフトに乗って松山城へ。
 
-![][6]
+<amp-img src="/img/uploads/2011/02/champom-note-2-5.jpg" alt="" width="600" height="448" layout="responsive"></amp-img>
 
 今年いちばんの寒さのなか、ちゃんと天守閣も拝観しに行った。
 
-![][7]
+<amp-img class="v-img" src="/img/uploads/2011/02/champom-note-2-6.jpg" alt="" width="448" height="600" layout="responsive"></amp-img>
 
 ちゃんぽんさん直伝の「お城を上手に撮影する方法」を用いるとこんな綺麗にとれる。
 
 しかし、噂には聞いていたけどさすが九州が産んだ嵐を呼ぶ男。芯から冷えた体を癒す手段はひとつしかないので道後へ。
 
-![][8]
+<amp-img class="v-img" src="/img/uploads/2011/02/champom-note-2-7.jpg" alt="" width="448" height="600" layout="responsive"></amp-img>
 
 ジャストタイームで夕暮れのからくりタイムへ遭遇。
 
-![][9]
+<amp-img src="/img/uploads/2011/02/champom-note-2-8.jpg" alt="" width="600" height="448" layout="responsive"></amp-img>
 
 可士和プロデュース今治タオルのショップでバスタオルを買うか買わないかで迷ったあと、町家カフェに無理矢理連れて行き、長崎ランタンの写真を見せてもらったり長崎のおもろい話を聞いたりしながらコーヒーを飲んで
 
-![][10]
+<amp-img src="/img/uploads/2011/02/champom-note-2-9.jpg" alt="" width="600" height="448" layout="responsive"></amp-img>
 
 遂に道後温泉に入湯！！！！しかも神ノ湯二階席！！！！浴衣着た！！！！せんべい食べた！！！！日曜の夕方ということもあって、がらがらだった。そんなことよりここのサービスというかホスピタリティが半端ない。８００円でこんな丁重に案内してくれるんだ！とふたりで驚いた。ここは地元のひとでも是非行ってみて欲しい。三階にある夏目漱石がよく利用した（と云われている）坊ちゃんの間も見学できる。
 
-![][11]
+<amp-img src="/img/uploads/2011/02/champom-note-2-10.jpg" alt="" width="600" height="448" layout="responsive"></amp-img>
 
 そんな坊ちゃんの間の欄干から見下ろせる「道後 麦酒館」でラスト飯。
 
-![][12]
+<amp-img class="v-img" src="/img/uploads/2011/02/champom-note-2-11.jpg" alt="" width="400" height="400" layout="responsive"></amp-img>
 
 地ビール。これはマドンナビールというらしく、あと黒いのと普通のの三種類があった。
 
 それから、さすが道後。鯛飯もあった。釜のほうじゃなく刺身の鯛飯。美味い。
 
-![][13]
+<amp-img src="/img/uploads/2011/02/champom-note-2-12.jpg" alt="" width="600" height="448" layout="responsive"></amp-img>
 
 こんな感じで短い滞在期間の割には松山を堪能したちゃんぽんさんは、バスの時間ギリギリまでしゃべり倒し、道後の商店街を全力疾走し、無事フェリーで帰られた。
 

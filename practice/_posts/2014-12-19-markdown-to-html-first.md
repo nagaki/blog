@@ -4,6 +4,7 @@ title: Redcarpetを使ってMarkdownをHTMLに変換するその1
 description: RubyのライブラリRedcarpetを使ってMarkdownからHTMLを作る簡単なスクリプトを作る話
 tags:
 - Ruby
+gist: true
 ---
 
 ## きっかけ
@@ -62,7 +63,7 @@ markdown.render("This is *bongos*, indeed.")
 
 Markdownの読み込みとHTMLの書き込み、HTMLタグを追加すると、
 
-{% highlight ruby linenos %}
+{% highlight ruby %}
 # coding: utf-8
 require "rubygems"
 require "bundler/setup"
@@ -126,7 +127,11 @@ puts "<style>#{Pygments.css('.highlight', style: 'monokai')}</style>"
 
 CSSとか更新日とかナビゲーションを追加しました。
 
-{% gist nagaki/d1efcf8364c673257235 %}
+<amp-gist
+    data-gistid="d1efcf8364c673257235"
+    layout="fixed-height"
+    height="225">
+</amp-gist>
 
 確かに動いてはいるのですが、もう少し良くしたいという思いがあります。
 

@@ -18,7 +18,7 @@ tags:
 3度目の正直でやっとブログに載せることができる『璃王』、
 お腹が減っている方は、見たらヤバいですあとダイエット中の方も。
 
-![璃王看板][1]
+<amp-img src="/img/uploads/2010/02/rio-nachikatuura-1.jpg" alt="璃王看板" width="400" height="300" layout="responsive"></amp-img>
 
 仕事が終わって、夜の（紀伊勝浦）駅前。
 
@@ -28,7 +28,7 @@ tags:
 
 上から3番目、下から2番目、『チャー玉丼』。
 
-![璃王立看板][2]
+<amp-img src="/img/uploads/2010/02/rio-nachikatuura-2.jpg" alt="璃王立看板" width="400" height="300" layout="responsive"></amp-img>
 
 この、『チャー玉丼』がめっちゃ美味いらしいんですよ。（過去進行）
 
@@ -48,7 +48,7 @@ tags:
 
 お待たせしました～！ラーメンです。
 
-![全部のせラーメン][3]
+<amp-img src="/img/uploads/2010/02/rio-nachikatuura-3.jpg" alt="全部のせラーメン" width="400" height="300" layout="responsive"></amp-img>
 
 キムチ・わかめ・もやし・たまご・チャーシュー…あとたぶんネギ多め。
 
@@ -60,7 +60,7 @@ tags:
 
 お、おいしそ～過ぎ！！たので手ぶれ。
 
-![チャー玉丼][4]
+<amp-img src="/img/uploads/2010/02/rio-nachikatuura-4.jpg" alt="チャー玉丼" width="400" height="300" layout="responsive"></amp-img>
 
 これ、生卵じゃなくて、目玉焼きなんです。とろっと部分ちょっと残しの。
 

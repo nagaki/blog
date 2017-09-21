@@ -19,19 +19,19 @@ tags:
 それが、**紋寿の湯**です。
 とりあえず写真を見てください。
 
-![紋寿の湯][1]
+<amp-img src="/img/uploads/2009/11/monju-foot-spa-1.jpg" alt="紋寿の湯" width="400" height="300" layout="responsive"></amp-img>
 
 他の足湯と比べて、異様なほどの個性を放っています。
 
 屋根もありません、靴脱ぐとこも、温泉成分表もありません。
 
-![紋寿の湯湯船][2]
+<amp-img src="/img/uploads/2009/11/monju-foot-spa-2.jpg" alt="紋寿の湯湯船" width="400" height="300" layout="responsive"></amp-img>
 
 でも、ちゃんと「紋寿の湯」と印されています。
 
 （ガードレールに）背もたれだってあります。
 
-![紋寿の湯背もたれ][3]
+<amp-img src="/img/uploads/2009/11/monju-foot-spa-3.jpg" alt="紋寿の湯背もたれ" width="400" height="300" layout="responsive"></amp-img>
 
 温泉成分表はなくても、もちろん温泉です！ただ、源泉をどこからひいているのかは謎です。
 
@@ -39,7 +39,7 @@ tags:
 
 温度調節はセルフのようです。ただ、水はどこからでるのかわかりません。
 
-![紋寿の湯の横にあるポスト][4]
+<amp-img src="/img/uploads/2009/11/monju-foot-spa-4.jpg" alt="紋寿の湯の横にあるポスト" width="400" height="300" layout="responsive"></amp-img>
 
 昔っぽいデザインのポストも良い雰囲気です。
 

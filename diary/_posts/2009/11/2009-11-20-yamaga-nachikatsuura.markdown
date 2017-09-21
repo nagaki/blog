@@ -19,7 +19,7 @@ tags:
 
 そんな記念すべき第一回目に登場する料理店はこちら、
 
-![山賀][1]
+<amp-img src="/img/uploads/2009/11/yamaga-nachikatsuura-1.jpg" alt="山賀" width="400" height="300" layout="responsive"></amp-img>
 
 ほんまもんまぐろ丼の店『山賀』です。
 
@@ -33,7 +33,7 @@ tags:
 
 メニューはこんな感じです。
 
-![山賀メニュー][2]
+<amp-img src="/img/uploads/2009/11/yamaga-nachikatsuura-2.jpg" alt="山賀メニュー" width="400" height="300" layout="responsive"></amp-img>
 
 「まぐろ丼の店」の看板の通り、まぐろ丼オンリーです。
 
@@ -49,7 +49,7 @@ tags:
 
 「お待たせしました～ミックス丼になります！」
 
-![山賀ミックス丼][3]
+<amp-img src="/img/uploads/2009/11/yamaga-nachikatsuura-3.jpg" alt="山賀ミックス丼" width="400" height="300" layout="responsive"></amp-img>
 
 おぉ～～！いろんなまぐろ（となぜかイカ）が入ってます。
 
@@ -63,7 +63,7 @@ tags:
 
 てことで…
 
-![ミックス丼完食][4]
+<amp-img src="/img/uploads/2009/11/yamaga-nachikatsuura-4.jpg" alt="ミックス丼完食" width="400" height="300" layout="responsive"></amp-img>
 
 あっという間に、完食しました。
 

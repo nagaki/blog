@@ -9,23 +9,23 @@ tags:
 
 クルマで愛媛県の某市山中のハイパーマイナーロードを通っていたときに、道のそばに明らかな違和感を覚えたので目を向けるとひつじがいました。
 
-![羊1][1]
+<amp-img src="/img/uploads/2011/02/sheep-farm-1.jpg" alt="羊1" width="600" height="450" layout="responsive"></amp-img>
 
 かわいい。
 
 北海道のどデカい牧場にいるような傲慢そうな牛たちとは違います。
 
-![羊2][2]
+<amp-img src="/img/uploads/2011/02/sheep-farm-2.jpg" alt="羊2" width="600" height="450" layout="responsive"></amp-img>
 
 ４ひきしかいません。
 
 みんな微妙に顔が違っています。
 
-![羊3][3]
+<amp-img src="/img/uploads/2011/02/sheep-farm-3.jpg" alt="羊3" width="600" height="450" layout="responsive"></amp-img>
 
 このちいさな牧場についてGoogle先生に伺ってみたのですが全く情報を手に入れることができませんでした。
 
-![羊4][4]
+<amp-img src="/img/uploads/2011/02/sheep-farm-4.jpg" alt="羊4" width="600" height="450" layout="responsive"></amp-img>
 
 なので僕も詳しいことは書かないでおこうと思います。
 

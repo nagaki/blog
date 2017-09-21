@@ -11,7 +11,7 @@ tags:
 
 前回の[『いせえび祭り』][1]と同じようにして、まぐろ汁の無料配布を行っていて、
 
-![まぐろ祭り無料配布][2]
+<amp-img src="/img/uploads/2010/02/maguro-festival-nachikatsuura-1.jpg" alt="まぐろ祭り無料配布" width="400" height="300" layout="responsive"></amp-img>
 
 自分は、列の最後尾はここですよ～って言う係でした…
 それはそれは、多くのお客さんが来られました。
@@ -19,7 +19,7 @@ tags:
 あっちにも行列、こっちにも行列、向こうには人だかり、質問の嵐…
 カブト焼きや一頭造り、まぐろ汁の無料配布が終わるとけっこう人が減ったのですが、
 
-![まぐろ祭りステージ前][3]
+<amp-img src="/img/uploads/2010/02/maguro-festival-nachikatsuura-2.jpg" alt="まぐろ祭りステージ前" width="400" height="300" layout="responsive"></amp-img>
 
 ステージ前でビンゴ大会をやっていて、かな～り盛り上がっていました。
 
@@ -29,7 +29,7 @@ tags:
 
 で、お昼の13時半から、漁港の2階でシンポジウムがあったので見てきました。
 
-![まぐろ祭りシンポジウム][4]
+<amp-img src="/img/uploads/2010/02/maguro-festival-nachikatsuura-3.jpg" alt="まぐろ祭りシンポジウム" width="400" height="300" layout="responsive"></amp-img>
 
 内容は、国際熊野学会熊野総会「日本の食文化と海の幸」と、
 いかにも堅そうな難しそうな名前ですが、個人的にはかな～り為になりました。
@@ -56,7 +56,7 @@ tags:
 水産組合の方や地元の制作会社の方が観光や街に対する危機意識を語っていて、
 多くの方が問題解決に取りくんでいることが聞けて良かったです。
 
-![片づけ後の那智勝浦漁港][5]
+<amp-img src="/img/uploads/2010/02/maguro-festival-nachikatsuura-4.jpg" alt="片づけ後の那智勝浦漁港" width="400" height="300" layout="responsive"></amp-img>
 
 そして、シンポジウムも終わって漁港もきれいさっぱり普段の漁港に戻っていました。
 

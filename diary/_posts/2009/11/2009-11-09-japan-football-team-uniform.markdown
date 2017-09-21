@@ -11,7 +11,7 @@ tags:
 
 なんでこのことをいちいちブログに書くかと言いますと、僕がサッカー好きだからです！
 
-![日本代表][1]
+<amp-img src="/img/uploads/2009/11/japan-football-team-uniform-1.jpg" alt="日本代表" width="400" height="300" layout="responsive"></amp-img>
 
 &#169; 電子チケットぴあニュース
 
@@ -23,7 +23,7 @@ tags:
 
 羽？？なんの羽根でしょうか？？それは、日本代表のエンブレムにいるこいつです！
 
-![日本代表エンブレム][2]
+<amp-img src="/img/uploads/2009/11/japan-football-team-uniform-2.jpg" alt="日本代表エンブレム" width="400" height="300" layout="responsive"></amp-img>
 
 カラスです、でもただのカラスじゃないです。足が３本あります！！
 
@@ -33,7 +33,7 @@ tags:
 
 下の写真は那智熊野大社で撮ったものです。
 
-![那智大社八咫烏像][3]
+<amp-img src="/img/uploads/2009/11/japan-football-team-uniform-3.jpg" alt="那智大社八咫烏像" width="400" height="300" layout="responsive"></amp-img>
 
 八咫烏の像があります。なんで那智熊野大社に八咫烏がいるのかというと大昔の神話のはなしになります。
 
@@ -51,7 +51,7 @@ tags:
 
 神々しい神武天皇と八咫烏の貴重なツーショットもあります。
 
-![神武天皇と八咫烏][4]
+<amp-img class="v-img" src="/img/uploads/2009/11/japan-football-team-uniform-4.jpg" alt="神武天皇と八咫烏" width="260" height="400" layout="responsive"></amp-img>
 
 &#169; Wikipedia
 

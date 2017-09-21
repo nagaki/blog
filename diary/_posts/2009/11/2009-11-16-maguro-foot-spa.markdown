@@ -11,11 +11,11 @@ tags:
 
 その『海の湯』から道をはさんであるもうひとつの足湯が、『鮪の湯』です。
 
-![鮪の湯看板][2]
+<amp-img src="/img/uploads/2009/11/maguro-foot-spa-1.jpg" alt="鮪の湯看板" width="400" height="300" layout="responsive"></amp-img>
 
 勝浦の足湯おなじみの看板はここでも健在です。
 
-![鮪の湯から見た海の湯][3]
+<amp-img src="/img/uploads/2009/11/maguro-foot-spa-2.jpg" alt="鮪の湯から見た海の湯" width="400" height="300" layout="responsive"></amp-img>
 
 道の向こうの青い屋根が『海の湯』です。こんなに近くにあるんです。でも『海の湯』より先輩です。
 
@@ -29,17 +29,17 @@ tags:
 
 なので、誰も入っていない『鮪の湯』はすごくレアです！！
 
-![鮪の湯][4]
+<amp-img src="/img/uploads/2009/11/maguro-foot-spa-3.jpg" alt="鮪の湯" width="400" height="300" layout="responsive"></amp-img>
 
 この、こぢんまりとした佇まいが良いです。
 
 座る場所も広くて、後ろに手を置いて気持ちよ～く体を伸ばすこともできます！
 
-![鮪の湯お湯][5]
+<amp-img src="/img/uploads/2009/11/maguro-foot-spa-4.jpg" alt="鮪の湯お湯" width="400" height="300" layout="responsive"></amp-img>
 
 真後ろにある源泉タンクや、この打ちっ放しのコンクリートが潔いです。
 
-![鮪の湯かけ流し][6]
+<amp-img src="/img/uploads/2009/11/maguro-foot-spa-5.jpg" alt="鮪の湯かけ流し" width="400" height="300" layout="responsive"></amp-img>
 
 吸い込まれていく温泉…当然のように、かけ流しです。
 

@@ -11,7 +11,7 @@ tags:
 
 お昼に大阪集合だったので…眠い目をこすりながら、特急に乗って大阪へ向かいました。
 
-![特急くろしお][1]
+<amp-img src="/img/uploads/2009/11/kuroshio-express-1.jpg" alt="特急くろしお" width="400" height="300" layout="responsive"></amp-img>
 
 僕が乗ったのは京都・新大阪から和歌山の白浜・新宮を結ぶ列車『特急くろしお』です。
 
@@ -21,7 +21,7 @@ tags:
 
 ちなみにこの『特急くろしお』なんですが、
 
-![パンダ列車][2]
+<amp-img src="/img/uploads/2009/11/kuroshio-express-2.jpg" alt="パンダ列車" width="400" height="300" layout="responsive"></amp-img>
 
 パンダ列車なんです！！
 
@@ -37,15 +37,15 @@ tags:
 
 そんな車窓から撮った写真を何枚かのせたいとおもいます。
 
-![くろしお車窓からの紀伊大島][3]
+<amp-img src="/img/uploads/2009/11/kuroshio-express-3.jpg" alt="くろしお車窓からの紀伊大島" width="400" height="300" layout="responsive"></amp-img>
 
 本州最南端の串本にある紀伊大島が見えます！
 
-![くろしお車窓からのすさみ][4]
+<amp-img src="/img/uploads/2009/11/kuroshio-express-4.jpg" alt="くろしお車窓からのすさみ" width="400" height="300" layout="responsive"></amp-img>
 
 これは多分、すさみの辺りですちなみにすさみは『イノブタ』が有名です。
 
-![くろしお車窓から][5]
+<amp-img src="/img/uploads/2009/11/kuroshio-express-5.jpg" alt="くろしお車窓から" width="400" height="300" layout="responsive"></amp-img>
 
 これは…わかりません。
 
@@ -55,7 +55,7 @@ tags:
 
 車内販売で数種類ある中から僕が選んだのは、こちら。
 
-![くろしお車内販売の柿の葉すし][6]
+<amp-img src="/img/uploads/2009/11/kuroshio-express-6.jpg" alt="くろしお車内販売の柿の葉すし" width="400" height="300" layout="responsive"></amp-img>
 
 『柿の葉寿司』（とサンドイッチ）です！
 
@@ -63,11 +63,11 @@ tags:
 
 手に取るとこれくらいの大きさです。ひとくちサイズで食べやすい感じです。
 
-![柿の葉すし][7]
+<amp-img src="/img/uploads/2009/11/kuroshio-express-7.jpg" alt="柿の葉すし" width="400" height="300" layout="responsive"></amp-img>
 
 ほんのりと柿の葉の香りもして、手も汚れなくて良いです！
 
-![柿の葉すし中身][8]
+<amp-img src="/img/uploads/2009/11/kuroshio-express-8.jpg" alt="柿の葉すし中身" width="400" height="300" layout="responsive"></amp-img>
 
 柿の葉をはがすと、でました！鯖です！
 

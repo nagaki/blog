@@ -15,19 +15,19 @@ tags:
 
 那智山が世界遺産に指定されてから、道も少しづつ整備されてアクセスしやすくなっているようです
 
-![那智山新道][2]
+<amp-img src="/img/uploads/2009/12/ichinono-oji-to-daimonsaka-gate-1.jpg" alt="那智山新道" width="400" height="300" layout="responsive"></amp-img>
 
 観光バスも多く通るためゆったりとしていて、かなりきれいな道です。
 
 熊野古道は旧道から入れるようになっていて、民家と田畑に挟まれた細い道を進むと『市野々王子』を見つけました。
 
-![市野々王子外観][3]
+<amp-img src="/img/uploads/2009/12/ichinono-oji-to-daimonsaka-gate-2.jpg" alt="市野々王子外観" width="400" height="300" layout="responsive"></amp-img>
 
 浜の宮王子社跡と同じような鳥居があります。となりに小さい駐車場もあるので車で訪れることも可能です。
 
 熊野古道沿いのおもな史跡には下の写真のような案内板があり、その歴史や成り立ちを知ることができます。
 
-![市野々王子案内板][4]
+<amp-img src="/img/uploads/2009/12/ichinono-oji-to-daimonsaka-gate-3.jpg" alt="市野々王子案内板" width="400" height="300" layout="responsive"></amp-img>
 
 「1109年に藤原宗忠が、浜の宮王子を訪れた後、一野王子社を奉幣しています。」とか、
 
@@ -35,11 +35,11 @@ tags:
 
 昔は、呼び方が違っていたみたいです。
 
-![市野々王子の境内に流れる小川][5]
+<amp-img src="/img/uploads/2009/12/ichinono-oji-to-daimonsaka-gate-4.jpg" alt="市野々王子の境内に流れる小川" width="400" height="300" layout="responsive"></amp-img>
 
 境内に流れる小川を見ていると、少しノスタルジックな気持ちにもなってきます。
 
-![市野々王子社殿][6]
+<amp-img src="/img/uploads/2009/12/ichinono-oji-to-daimonsaka-gate-5.jpg" alt="市野々王子社殿" width="400" height="300" layout="responsive"></amp-img>
 
 社殿は小さいながらも風格があり、取り囲むように生えた大きな杉の木が歴史を感じさせます。
 
@@ -51,7 +51,7 @@ tags:
 
 その『市野々王子』から旧道を進み新道と合流する地点から少し進むと、『大門坂』の入口が見えてきます。
 
-![大門坂入口][7]
+<amp-img src="/img/uploads/2009/12/ichinono-oji-to-daimonsaka-gate-6.jpg" alt="大門坂入口" width="400" height="300" layout="responsive"></amp-img>
 
 さすが、熊野古道の中でも最もメジャーな道のひとつだけあって、目印の気合いが半端ないです。
 
@@ -59,7 +59,7 @@ tags:
 
 「大門坂入口」というバス停もあるので、上りで疲れてしまったり、時間が合わなくても安心で便利ですね。
 
-![大門坂鳥居][8]
+<amp-img src="/img/uploads/2009/12/ichinono-oji-to-daimonsaka-gate-7.jpg" alt="大門坂鳥居" width="400" height="300" layout="responsive"></amp-img>
 
 この鳥居から向こう側が、熊野那智大社の境内です。橋が架けられた小川の前にあって神聖な感じが伝わってきます。
 

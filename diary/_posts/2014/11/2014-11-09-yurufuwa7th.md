@@ -4,16 +4,17 @@ title: ゆるふわ.rb in 大洲 〜やってみようスクレイピング〜�
 description: 第六回ゆるふわ.rbに参加しました。スクレイピング入門みたいな内容で勉強になりました。
 tag:
 - Ruby
+gist: true
 ---
 
 先週の土曜日、ゆるふわ.rbに行ってきました。
 いつものようにアンパンマン列車に乗って行きました。たったの30分で大洲に行けるのはほんとに便利です。
 
-![アンパンマン列車][anpan]
+<amp-img src="/img/uploads/2014/11/anpanman-train.jpg" alt="アンパンマン列車" width="1200" height="900" layout="responsive"></amp-img>
 
 大洲駅に着くとちょうど駅前を大名行列らしき集団が歩いていました。
 
-![大名行列][fes]
+<amp-img src="/img/uploads/2014/11/fes-in-front-of-sta-ozu.jpg" alt="大名行列" width="1200" height="900" layout="responsive"></amp-img>
 
 そんな行列を横目に、いつもどおり歩いて（約15分）大洲城下の大洲市民会館（調理室）に到着しました。
 
@@ -28,13 +29,17 @@ tag:
 
 すごい簡単に書けて驚きました。Nokogiriすごい便利ですね。
 
-{% gist nagaki/8ffd8cb3bd30416972ea %}
+<amp-gist
+    data-gistid="8ffd8cb3bd30416972ea"
+    layout="fixed-height"
+    height="225">
+</amp-gist>
 
 コードを書きつつ、ゆるふわ恒例の刺し身を食べながら、いろいろと話しをしました。
 今回はアジ・鯛に加えてふぐしゃぶもあり、寒くなってきたこの季節にぴったりで、
 とても美味しくいただきました。
 
-![懇親会][dinner]
+<amp-img src="/img/uploads/2014/11/dinner.jpg" alt="懇親会" width="1200" height="900" layout="responsive"></amp-img>
 
 その後、駅前に繰り出して懇親会へ。しかし、何軒かあるお店の明かりが点いてなくて、
 嫌な予感が。開いていたお店に入って話を聞くと、「今日はお祭りだからどこも開いてないんじゃない？」
@@ -45,7 +50,7 @@ tag:
 
 帰りは参加者の方に家の近所まで車で送っていただきました。ありがたい...。
 
-![枕][egg]
+<amp-img src="/img/uploads/2014/11/big-rolled-egg.jpg" alt="枕" width="1200" height="900" layout="responsive"></amp-img>
 
 今回のハイライトは卵10個使用しただし巻き卵『枕』。大洲駅近くの居酒屋ひろで食べられます。
 
