@@ -10,6 +10,8 @@ body {
   font-family: sans-serif;
   margin: 0;
   padding: $base-padding * 3 $base-padding;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 /* element
@@ -89,7 +91,7 @@ a {
 -------------------- */
 .animate {
   fill: none;
-  stroke: mediumseagreen;
+  stroke: #466b57;
   stroke: {
     linecap: round;
     linejoin: round;
