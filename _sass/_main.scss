@@ -159,7 +159,9 @@ a {
     }
   }
   .adsense {
+    max-width: 100%;
     padding: $base-padding 0;
+    width: 300px;
   }
 }
 
