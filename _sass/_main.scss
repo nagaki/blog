@@ -1,13 +1,28 @@
+@font-face {
+    font-family: 'MyHiragino';
+    font-weight: normal;
+    src: local("Hiragino Sans"), local("ヒラギノ角ゴ ProN W3"), local("Hiragino Kaku Gothic ProN");
+}
+
+@font-face {
+    font-family: 'MyHiragino';
+    font-weight: bold;
+    src: local("Hiragino Sans"), local("ヒラギノ角ゴ ProN W6"), local("Hiragino Kaku Gothic ProN W6");
+}
+
+
 /* main
 -------------------- */
 html {
   font-size: 62.5%;
 }
 body {
-  @include font-size;
+  @include font-size(1.6, 2.8);
   background-color: $main-color;
   color: $font-color;
-  font-family: sans-serif;
+  font-family: 'MyHiragino', sans-serif;
+  font-feature-settings: 'palt' 1;
+  letter-spacing: .04rem;
   margin: 0;
   padding: $base-padding * 3 $base-padding;
   -webkit-font-smoothing: antialiased;
@@ -114,19 +129,19 @@ a {
   }
   h1 {
     font-size: 110%;
-    margin: $base-margin 0;
-  }
-  .meta {
-    margin: .25em 0;
+    margin: 0;
   }
   .body {
     text-align: justify;
     text-justify: inter-ideograph;
+    padding-top: 2rem;
     h2 {
       font-size: 110%;
+      margin: 3rem 0;
     }
     h3 {
       font-size: 100%;
+      margin: 3rem 0;
     }
     hr {
       border: {
@@ -142,6 +157,9 @@ a {
     }
     img {
       border-radius: 2px;
+    }
+    p {
+      margin: 2rem 0;
     }
   }
   .posts {
@@ -200,6 +218,7 @@ a {
   p > code {
     @include font-size(1.3);
     font-family: Monaco, "Courier New", monospace;
+    letter-spacing: 0;
   }
   > .highlight {
     background-color: white;
