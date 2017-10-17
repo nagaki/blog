@@ -8,9 +8,8 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+  - vendor
 url: https://blog.nagaki.me
 sass:
   sass_dir: _sass
   style: :compressed
-gems:
-  - jekyll-gist
