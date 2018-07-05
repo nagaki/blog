@@ -1,15 +1,16 @@
 @font-face {
-    font-family: 'MyHiragino';
-    font-weight: normal;
-    src: local("Hiragino Sans"), local("ヒラギノ角ゴ ProN W3"), local("Hiragino Kaku Gothic ProN");
+  font-family: "MyHiragino";
+  font-weight: normal;
+  src: local("Hiragino Sans"), local("ヒラギノ角ゴ ProN W3"),
+    local("Hiragino Kaku Gothic ProN");
 }
 
 @font-face {
-    font-family: 'MyHiragino';
-    font-weight: bold;
-    src: local("Hiragino Sans"), local("ヒラギノ角ゴ ProN W6"), local("Hiragino Kaku Gothic ProN W6");
+  font-family: "MyHiragino";
+  font-weight: bold;
+  src: local("Hiragino Sans"), local("ヒラギノ角ゴ ProN W6"),
+    local("Hiragino Kaku Gothic ProN W6");
 }
-
 
 /* main
 -------------------- */
@@ -18,11 +19,9 @@ html {
 }
 body {
   @include font-size(1.6, 2.8);
-  background-color: $main-color;
-  color: $font-color;
-  font-family: 'MyHiragino', sans-serif;
-  font-feature-settings: 'palt' 1;
-  letter-spacing: .04rem;
+  font-family: "MyHiragino", sans-serif;
+  font-feature-settings: "palt" 1;
+  letter-spacing: 0.04rem;
   margin: 0;
   padding: $base-padding * 3 $base-padding;
   -webkit-font-smoothing: antialiased;
@@ -45,17 +44,7 @@ img {
   box-sizing: border-box;
 }
 a {
-  color: $link-color;
   text-decoration: none;
-  &:visited {
-    color: lighten($link-color, 4);
-  }
-  &:hover {
-    color: darken($link-color, 8);
-  }
-  &:active {
-    color: invert($link-color);
-  }
 }
 .oops {
   color: $oops-color;
@@ -84,20 +73,17 @@ a {
   .title {
     display: inline-block;
   }
-  .description {
-    color: $light-color;
-  }
   .nav {
     a {
       display: inline-block;
-      margin: .25em;
+      margin: 0.25em;
       text-transform: capitalize;
       &:first-child {
         margin-left: 0;
       }
     }
     .active {
-      border-bottom: 2px solid $light-color;
+      border-bottom: 2px solid;
     }
   }
 }
@@ -106,12 +92,15 @@ a {
 -------------------- */
 .animate {
   fill: none;
-  stroke: #466b57;
+  stroke: #0000ee;
   stroke: {
     linecap: round;
     linejoin: round;
-    width: .5;
+    width: 0.5;
   }
+}
+.title:visited .animate {
+  stroke: #551a8b;
 }
 
 /* content
@@ -120,7 +109,6 @@ a {
   margin-bottom: $base-margin * 2;
   time,
   .date {
-    color: $light-color;
     font-family: Monaco, "Courier New", monospace;
     font-size: 95%;
   }
@@ -145,15 +133,14 @@ a {
     }
     hr {
       border: {
-        color: $light-color;
         style: solid;
       }
     }
     blockquote {
-      border-left: 2px solid $clear-color;
+      border-left: 2px solid;
       font-style: italic;
       margin: $base-margin;
-      padding-left: .5em;
+      padding-left: 0.5em;
     }
     img {
       border-radius: 2px;
@@ -165,7 +152,6 @@ a {
   .posts {
     .year {
       font-size: 95%;
-      color: $light-color;
       font-family: Monaco, "Courier New", monospace;
       font-weight: normal;
     }
@@ -175,7 +161,7 @@ a {
       padding: 0;
     }
     li {
-      padding: .25em 0;
+      padding: 0.25em 0;
     }
   }
   .adsense {
@@ -202,7 +188,6 @@ a {
     display: inline-block;
   }
   .copyright {
-    color: $light-color;
     margin: 0;
   }
   address {
@@ -222,9 +207,10 @@ a {
   }
   > .highlight {
     background-color: white;
+    border: 1px solid #ddd;
     border-radius: $radius-out;
     margin: 0;
-    padding: .5em .75em;
+    padding: 0.5em 0.75em;
     pre {
       margin: 0;
       overflow: auto;
@@ -232,7 +218,7 @@ a {
     }
     .lineno {
       color: lightsteelblue;
-      margin-right: .5em;
+      margin-right: 0.5em;
     }
   }
 }
