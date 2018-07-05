@@ -15,7 +15,7 @@ tags:
 
 美味い塩ラーメンを食べたあと、実家で母さんと３人でアジアカップ決勝を見た。３人で絶叫したあと、３時くらいに寝た。
 
-##２日目
+## ２日目
 
 近所に「坊ちゃんスタジアム」があるよ。と僕が言うと、野球場が好きだから是非見に行きたい。と彼が言うので見に行った。シニアリーグの試合をやっていたので中に入ることが出来たので、１階席にも２階席にも入ってスケール感を全身で浴びた。
 
@@ -27,7 +27,7 @@ tags:
 
 <amp-img class="v-img" src="/img/uploads/2011/02/champom-note-1-3.jpg" alt="バッセン" width="448" height="600" layout="responsive"></amp-img>
 
-僕が一球も当てられない115k（実際もっと速いと思う）の剛速球をカンカン打っていた。
+僕が一球も当てられない 115k（実際もっと速いと思う）の剛速球をカンカン打っていた。
 
 それより、彼は「街を見にきた」のにまだ野球しかしてない。
 
@@ -35,10 +35,9 @@ tags:
 
 [（続きます）][6]
 
-
- [1]: http://nullproject.blog31.fc2.com/ "長崎都市・景観研究所"
- [2]: /diary/car-license.html "合宿免許"
- [3]: /img/uploads/2011/02/champom-note-1-1.jpg
- [4]: /img/uploads/2011/02/champom-note-1-2.jpg
- [5]: /img/uploads/2011/02/champom-note-1-3.jpg
- [6]: /diary/champom-note-2.html
+[1]: http://nullproject.blog31.fc2.com/ "長崎都市・景観研究所"
+[2]: /diary/car-license.html "合宿免許"
+[3]: /img/uploads/2011/02/champom-note-1-1.jpg
+[4]: /img/uploads/2011/02/champom-note-1-2.jpg
+[5]: /img/uploads/2011/02/champom-note-1-3.jpg
+[6]: /diary/champom-note-2.html
