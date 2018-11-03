@@ -6,19 +6,21 @@ $radius-in: 2px;
 
 // coloring
 $main-color: #fffaf1;
-$link-color: #466b57;
-$font-color: #6f4937;
+$link-color: #4d5254;
+$font-color: #3a3b3c;
 $light-color: darken(tan, 15%);
 $clear-color: snow;
-$oops-color: tomato;
-$cool-color: royalblue;
+$oops-color: #ecb2d1;
+$cool-color: #6899b9;
+
+$mono-font-family: Monaco, "Courier New", monospace;
 
 // base-width
 $desktop-width: 640px;
 $phone-width: 480px;
 
 // font-size
-@mixin font-size( $size: 1.6, $line: $size * 1.5 ) {
-  font-size: ( $size * 10 ) + px;
-  line-height: ( $line * 10 ) + px;
+@mixin font-size($size: 1.6, $line: $size * 1.5) {
+  font-size: ($size * 10) + px;
+  line-height: ($line * 10) + px;
 }
