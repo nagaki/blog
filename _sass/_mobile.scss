@@ -2,14 +2,12 @@
 -------------------- */
 @media ( max-width: $phone-width ) {
   body {
-    -webkit-text-size-adjust: 100%;
     @include font-size(1.4);
     padding-top: $base-padding * 2;
   }
   .global-header {
     .title,
-    .description,
-    .nav {
+    .description {
       margin-bottom: $base-margin;
     }
   }
