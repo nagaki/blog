@@ -28,14 +28,14 @@ tags:
 
 紀伊勝浦駅を降りたすぐ目の前には、
 
-<amp-img src="/img/uploads/2009/09/maguro-1.jpg" alt="海産物センター" width="1200" height="900" layout="responsive"></amp-img>
+![海産物センター][1]
 
 迫力があります。実物大なのかもしれません。
 
 そして、那智勝浦といえば**温泉**でもあるのですが、
 勝浦漁港に隣接する足湯『海乃湯』には、
 
-<amp-img src="/img/uploads/2009/09/maguro-2.jpg" alt="タイル2" width="1200" height="900" layout="responsive"></amp-img>
+![タイル2][2]
 
 白波とまぐろをあしらった模様が美しいタイルです。
 

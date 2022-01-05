@@ -17,7 +17,7 @@ tags:
 
 よろしくおねがいします。
 
-<amp-img src="/img/uploads/2009/09/coming-nachikatsuura-town.jpg" alt="那智勝浦から見た水平線" width="1200" height="900" layout="responsive"></amp-img>
+![那智勝浦から見た水平線][1]
 
 
  [1]: /img/uploads/2009/09/coming-nachikatsuura-town.jpg

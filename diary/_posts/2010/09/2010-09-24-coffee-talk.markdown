@@ -12,7 +12,7 @@ tags:
 
 そう思い始めて少し経って、±0からコーヒーメーカーが発売されました。それまでは夜更かしのお供にずっとインスタントコーヒーを飲んでいたのですが、ひとつ上の男、違いのわかる男になるで！と意気込み、僕は大阪まで出掛けました。そして買いました。
 
-<amp-img class="v-img" src="/img/uploads/2010/09/coffee-talk-1.jpg" alt="KONO式ドリッパー＆ポット" width="450" height="600" layout="responsive"></amp-img>
+![KONO式ドリッパー＆ポット][1]
 
 いやあ、焦りました。
 
@@ -24,11 +24,11 @@ tags:
 
 でしたが、涼しくなって体の奥に眠っていた情熱が夏眠から目が覚めたんでしょうか。
 
-<amp-img class="v-img" src="/img/uploads/2010/09/coffee-talk-2.jpg" alt="バールコーヒーミル" width="450" height="600" layout="responsive"></amp-img>
+![バールコーヒーミル][2]
 
 気がついたらコーヒーミルを買っていました。バールコーヒーミルというイケメンなコーヒーミルを買っていました。寒い冬に向けて楽しみがひとつ増えました。
 
-<amp-img src="/img/uploads/2010/09/coffee-talk-3.jpg" alt="コーヒーミルとドリッパー" width="600" height="450" layout="responsive"></amp-img>
+![コーヒーミルとドリッパー][3]
 
 松山のいい豆やさんをまだ知らないので、美味しい豆が買える場所を見つけたらブログで紹介しようと思います。
 

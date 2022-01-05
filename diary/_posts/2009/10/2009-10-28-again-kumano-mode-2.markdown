@@ -18,25 +18,25 @@ tags:
 
 再び集まり、青岸渡寺の三重塔で行われる『護摩祈祷』へと向かいます。
 
-<amp-img src="/img/uploads/2009/10/again-kumano-mode-2-1.jpg" alt="護摩祈祷" width="1200" height="900" layout="responsive"></amp-img>
+![護摩祈祷][2]
 
 山伏の方たちによって祈祷がはじまりました。参加者は座って見守ります。
 
 左奥の岩肌に見える白い線のようなものは「那智の滝」です。
 
-<amp-img src="/img/uploads/2009/10/again-kumano-mode-2-2.jpg" alt="青岸渡寺三重塔" width="1200" height="900" layout="responsive"></amp-img>
+![青岸渡寺三重塔][3]
 
 護摩木が燃える合間、ずっとお経を唱え続けていました。（20分ぐらい）
 
 護摩祈祷を終え、那智の滝へと向かいました。
 
-<amp-img src="/img/uploads/2009/10/again-kumano-mode-2-3.jpg" alt="青岸渡寺から那智滝への道" width="1200" height="900" layout="responsive"></amp-img>
+![青岸渡寺から那智滝への道][4]
 
 三重の塔から那智の滝への道は石段がかなり急です。
 
 草鞋を履いていた足の疲労はピークに達しました
 
-<amp-img class="v-img" src="/img/uploads/2009/10/again-kumano-mode-2-4.jpg" alt="" width="900" height="1200" layout="responsive"></amp-img>
+<img src="/img/uploads/2009/10/again-kumano-mode-2-4.jpg" width="480" />
 
 無事に最後の目的地、那智の滝を拝むことができました！
 
@@ -46,7 +46,7 @@ tags:
 
 記念品として大門坂通行証の札・絵葉書５枚・巾着袋を頂きました。
 
-<amp-img src="/img/uploads/2009/10/again-kumano-mode-2-5.jpg" alt="あげいん熊野詣参加記念品" width="1200" height="900" layout="responsive"></amp-img>
+![あげいん熊野詣参加記念品][6]
 
 驚いたのがこの巾着袋、大門坂のそばにある茶屋をやっている方が手作りしてくれたそうです！凄く嬉しいです。
 

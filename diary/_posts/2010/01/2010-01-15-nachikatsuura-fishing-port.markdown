@@ -23,13 +23,13 @@ tags:
 
 今回は特別に、その作業を見させていただくことになりました。
 
-<amp-img class="v-img" src="/img/uploads/2010/01/nachikatsuura-fishing-port-1.jpg" alt="クレーンでまぐろを船から漁港に下ろしている様子" width="300" height="400" layout="responsive"></amp-img>
+![クレーンでまぐろを船から漁港に下ろしている様子][1]
 
 漁港に着いた船から、クレーンを使ってまぐろをおろします。
 
 かな～り大漁です！そのまぐろのお腹を割って内臓を取り出して、市場に並べます。
 
-<amp-img src="/img/uploads/2010/01/nachikatsuura-fishing-port-2.jpg" alt="水揚げ後市場に並べられたまぐろ" width="400" height="300" layout="responsive"></amp-img>
+![水揚げ後市場に並べられたまぐろ][2]
 
 さすが、**生まぐろ水揚げ高日本一の漁港**だけあって、見渡す限りまぐろです。壮観です。
 
@@ -37,7 +37,7 @@ tags:
 
 そうして並べられたまぐろを４人がかりで計量していきます。
 
-<amp-img src="/img/uploads/2010/01/nachikatsuura-fishing-port-3.jpg" alt="まぐろ計量" width="400" height="300" layout="responsive"></amp-img>
+![まぐろ計量][3]
 
 この台車に載せると重さが測れるみたいです。
 
@@ -47,7 +47,7 @@ tags:
 
 ぱぱぱーっとあっというまに１列、２列とまぐろが整列されていきます。
 
-<amp-img src="/img/uploads/2010/01/nachikatsuura-fishing-port-4.jpg" alt="まぐろの背びれを切り落としている様子" width="400" height="300" layout="responsive"></amp-img>
+![まぐろの背びれを切り落としている様子][4]
 
 これは、まぐろの尾びれをのこぎりで切り落としているところです。
 
@@ -63,7 +63,7 @@ tags:
 
 大きいマグロの腹をのぞいてみると…
 
-<amp-img src="/img/uploads/2010/01/nachikatsuura-fishing-port-5.jpg" alt="まぐろの腹身" width="400" height="300" layout="responsive"></amp-img>
+![まぐろの腹身][5]
 
 トロです脂がのってます！！
 
@@ -73,13 +73,13 @@ tags:
 
 どれくらい大きさに幅があるのか写真で撮ってみたので載せてみます。
 
-<amp-img src="/img/uploads/2010/01/nachikatsuura-fishing-port-6.jpg" alt="小さいまぐろ" width="400" height="300" layout="responsive"></amp-img>
+![小さいまぐろ][6]
 
 これはこの日一番ぐらいに小さいまぐろです。なんか目がマヒして豆アジに見えます…
 
 そして、下の写真はこの日一番ぐらいに大きいまぐろです。
 
-<amp-img src="/img/uploads/2010/01/nachikatsuura-fishing-port-7.jpg" alt="大きいまぐろ" width="400" height="300" layout="responsive"></amp-img>
+![大きいまぐろ][7]
 
 ぜーんぜん比べものになりません。デカすぎます。
 

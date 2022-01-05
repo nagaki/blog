@@ -15,7 +15,7 @@ tags:
 
 僕は竜田揚げを食べたことはあるのですが、刺身は初めてでした。
 
-<amp-img src="/img/uploads/2010/01/whale-sashimi.jpg" alt="くじらの刺身" width="400" height="300" layout="responsive"></amp-img>
+![くじらの刺身][2]
 
 今朝獲れたばかりのくじらだそうです。白いトコは脂でコリコリしてます。美味です。
 

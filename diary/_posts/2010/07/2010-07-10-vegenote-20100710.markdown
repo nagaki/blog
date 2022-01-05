@@ -13,21 +13,21 @@ tags:
 
 ゴーヤって強いね。ぐんぐん育って気がついたら実が生っとった。
 
-<amp-img src="/img/uploads/2010/07/vegenote-20100710-1.jpg" alt="ゴーヤ" width="600" height="450" layout="responsive"></amp-img>
+![ゴーヤ][2]
 
 太い！これはどう考えても美味やろ。美味やろ！
 
-<amp-img src="/img/uploads/2010/07/vegenote-20100710-2.jpg" alt="小さいゴーヤ" width="600" height="450" layout="responsive"></amp-img>
+![小さいゴーヤ][3]
 
 こっちは小さいの。野菜の成長は楽しい！
 
-<amp-img src="/img/uploads/2010/07/vegenote-20100710-3.jpg" alt="ゴーヤの花とゴーヤ" width="600" height="450" layout="responsive"></amp-img>
+![ゴーヤの花とゴーヤ][4]
 
 ちょうど花と実が共存してる。こんなんなってたんや！おもろいよね～野菜って。
 
 まだまだ緑のカーテンにはなってないけど楽しみ。
 
-<amp-img src="/img/uploads/2010/07/vegenote-20100710-4.jpg" alt="オクラの芽" width="600" height="450" layout="responsive"></amp-img>
+![オクラの芽][5]
 
 オクラもな～んかダメっぽかったけど徐々に成長しつつありついには赤ちゃんオクラが！！
 
@@ -35,13 +35,13 @@ tags:
 
 雨ばっかやったから放置してたら赤くなってしまったししとう。
 
-<amp-img src="/img/uploads/2010/07/vegenote-20100710-5.jpg" alt="赤いししとう" width="600" height="450" layout="responsive"></amp-img>
+![赤いししとう][6]
 
 ちなみにこいつから採れる種を植えるとししとうは生える。けど実はならん。
 
 最後に、庭の重鎮ブルーベリーが紫っぽくなってきた。
 
-<amp-img src="/img/uploads/2010/07/vegenote-20100710-6.jpg" alt="ブルーベリー" width="600" height="450" layout="responsive"></amp-img>
+![ブルーベリー][7]
 
 このブルーベリーは食べれるけどあんまり甘くないらしい。ていうかほとんど鳥に食べられるらしい。
 

@@ -16,7 +16,7 @@ tags:
 
 「2時半集合」と言われていたので、現場に行ってみたところ…
 
-<amp-img src="/img/uploads/2010/01/prepare-maguro-fes-1.jpg" alt="市場に並べられたまぐろ" width="400" height="300" layout="responsive"></amp-img>
+![市場に並べられたまぐろ][2]
 
 まぐろまだおるやん。しかも大量に。
 
@@ -24,19 +24,19 @@ tags:
 
 会場の準備ができないっぽかったので、先にステージを作りました。
 
-<amp-img src="/img/uploads/2010/01/prepare-maguro-fes-2.jpg" alt="まぐろ祭ステージ設営" width="400" height="300" layout="responsive"></amp-img>
+![まぐろ祭ステージ設営][3]
 
 明日はここで「一頭造り」や「ビンゴ大会」、あと「餅まき」が開かれる予定です。
 
 ちなみに『いせえび祭り』のときはこんな感じでした。
 
-<amp-img src="/img/uploads/2010/01/prepare-maguro-fes-3.jpg" alt="いせえび祭りの様子" width="400" height="300" layout="responsive"></amp-img>
+![いせえび祭りの様子][4]
 
 楽しみです。
 
 この準備をしてる間も、漁港のまぐろはばんばん発送準備されていました。
 
-<amp-img src="/img/uploads/2010/01/prepare-maguro-fes-4.jpg" alt="漁港の出荷作業" width="400" height="300" layout="responsive"></amp-img>
+![漁港の出荷作業][5]
 
 何回かフォークリフトにひかれかけました猛スピードで走ってます。
 
@@ -50,7 +50,7 @@ tags:
 
 で、そんなこんなしてる間に、市場のほうはスッキリしていました。
 
-<amp-img src="/img/uploads/2010/01/prepare-maguro-fes-5.jpg" alt="まぐろがいなくなった市場" width="400" height="300" layout="responsive"></amp-img>
+![まぐろがいなくなった市場][6]
 
 明日はここが「無料コーナー」とか「直売コーナー」とかで埋め尽くされます。
 

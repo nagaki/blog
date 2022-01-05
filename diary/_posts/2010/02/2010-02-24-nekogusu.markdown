@@ -10,7 +10,7 @@ tags:
 ---
 那智山の大門坂の入り口にはこんな標識があります。
 
-<amp-img src="/img/uploads/2010/02/nekogusu-1.jpg" alt="南方熊楠が三年間滞在した大阪屋旅館跡" width="450" height="300" layout="responsive"></amp-img>
+![南方熊楠が三年間滞在した大阪屋旅館跡][1]
 
 「南方熊楠が三年間滞在した大阪屋旅館跡」って書いてあります。
 
@@ -24,17 +24,17 @@ tags:
 
 ある書店で、和歌山や熊野に関する本が集められたコーナーにあった、文庫本。
 
-<amp-img src="/img/uploads/2010/02/nekogusu-2.jpg" alt="猫楠表紙" width="450" height="300" layout="responsive"></amp-img>
+![猫楠表紙][2]
 
 文庫本なら読めるかも！と思って。手にとってみてよかった…
 
-<amp-img src="/img/uploads/2010/02/nekogusu-3.jpg" alt="猫楠表紙アップ" width="450" height="300" layout="responsive"></amp-img>
+![猫楠表紙アップ][3]
 
 巨匠、水木しげる！！
 
 つまり…
 
-<amp-img src="/img/uploads/2010/02/nekogusu-4.jpg" alt="猫楠中身" width="450" height="300" layout="responsive"></amp-img>
+![猫楠中身][4]
 
 漫画！！
 

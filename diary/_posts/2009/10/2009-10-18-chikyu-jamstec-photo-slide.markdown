@@ -6,7 +6,6 @@ categories:
   - diary
 tags:
   - event
-youtube: true
 ---
 前回のブログでもお伝えしたように、今日10月17日と明日10月18日は、
 新宮港佐野第三岸壁で、地球深部探査船『ちきゅう』が一般に公開されています。
@@ -17,6 +16,6 @@ youtube: true
 
 今日撮った写真です。
 
-<amp-youtube data-videoid="TBdpENj25A8" layout="responsive" width="480" height="270"></amp-youtube>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TBdpENj25A8" frameborder="0" allowfullscreen></iframe>
 
 船のスタッフに聞いた話や詳しいレポートはまた追って紹介します。

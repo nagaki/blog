@@ -16,7 +16,7 @@ tags:
 
 那智山に向かう道の途中にその場所はあります。ここです。
 
-<amp-img src="/img/uploads/2009/12/amazing-spa-in-nachikatsuura-1.jpg" alt="那智参詣道中にある秘湯遠景" width="400" height="300" layout="responsive"></amp-img>
+![那智参詣道中にある秘湯遠景][1]
 
 おじさんとおばさんがなにか作業をしていました。
 
@@ -28,7 +28,7 @@ tags:
 
 温泉の温度は３６℃ぐらいだそうです。
 
-<amp-img src="/img/uploads/2009/12/amazing-spa-in-nachikatsuura-2.jpg" alt="那智参詣道中にある秘湯流し台" width="400" height="300" layout="responsive"></amp-img>
+![那智参詣道中にある秘湯流し台][2]
 
 小さい流し台があるだけなのですが、おじさんに「入れ！入れ！」と言われました…
 
@@ -38,13 +38,13 @@ tags:
 
 正真正銘の温泉です。下の石に湯の花が付着していたので写真撮っておきました。
 
-<amp-img src="/img/uploads/2009/12/amazing-spa-in-nachikatsuura-3.jpg" alt="湯の花" width="400" height="300" layout="responsive"></amp-img>
+![湯の花][3]
 
 この場所からさらに那智山のほうに進んだところに、もうひとつ温泉があります。
 
 ここは道沿いじゃないので秘湯感丸出しの雰囲気です。こんな細い道の先にあります。
 
-<amp-img src="/img/uploads/2009/12/amazing-spa-in-nachikatsuura-4.jpg" alt="那智参詣道中にある秘湯その２遠景" width="400" height="300" layout="responsive"></amp-img>
+![那智参詣道中にある秘湯その２遠景][4]
 
 近くの家に『私有地につき駐車・通りぬけ禁止』と書かれた看板がありました。
 
@@ -52,13 +52,13 @@ tags:
 
 そんなわけで通っても大丈夫そうな道を進んでたどり着いた温泉がここです。
 
-<amp-img src="/img/uploads/2009/12/amazing-spa-in-nachikatsuura-5.jpg" alt="那智参詣道中にある秘湯その２" width="400" height="300" layout="responsive"></amp-img>
+![那智参詣道中にある秘湯その２][5]
 
 ここも同じように、どばどば温泉が湧き出ていました。温度も同じ感じです。
 
 そして同じように少し硫黄の香りがします。
 
-<amp-img src="/img/uploads/2009/12/amazing-spa-in-nachikatsuura-6.jpg" alt="那智参詣道中にある秘湯憩いの場" width="400" height="300" layout="responsive"></amp-img>
+![那智参詣道中にある秘湯憩いの場][6]
 
 そばに何個か小さいイスが置いてあったので、
 

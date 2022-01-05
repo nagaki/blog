@@ -13,23 +13,23 @@ tags:
 
 その写真について、簡単に解説したいと思います。
 
-<amp-img class="v-img" src="/img/uploads/2009/10/chikyu-jamstec-report-1.jpg" alt="" width="900" height="1200" layout="responsive"></amp-img>
+<img src="/img/uploads/2009/10/chikyu-jamstec-report-1.jpg" width="480" />
 
 百貨店の階段みたいになってました。9階ぐらいあるそうです。
 
-<amp-img class="v-img" src="/img/uploads/2009/10/chikyu-jamstec-report-2.jpg" alt="" width="900" height="1200" layout="responsive"></amp-img>
+<img src="/img/uploads/2009/10/chikyu-jamstec-report-2.jpg" width="480" />
 
 このデリックの頂上にはあがれませんでした。
 
-<amp-img src="/img/uploads/2009/10/chikyu-jamstec-report-3.jpg" alt="ちきゅうドリル先端" width="1200" height="900" layout="responsive"></amp-img>
+![ちきゅうドリル先端][3]
 
 地底を掘るドリルの先端部分はダイヤモンドが擦り込まれているそうです。（黒い丸い部分）
 
-<amp-img src="/img/uploads/2009/10/chikyu-jamstec-report-4.jpg" alt="ちきゅうＣＴスキャン" width="1200" height="900" layout="responsive"></amp-img>
+![ちきゅうＣＴスキャン][4]
 
 採取した地底の土や岩石を分析する装置のひとつは、まさかのCTスキャンです。
 
-<amp-img src="/img/uploads/2009/10/chikyu-jamstec-report-5.jpg" alt="ちきゅう微生物写真" width="1200" height="900" layout="responsive"></amp-img>
+![ちきゅう微生物写真][5]
 
 地底で採取されたサンプルの中で発見された微生物の顕微鏡写真です。凄く小さいです。
 
@@ -43,13 +43,13 @@ tags:
 
 入船記念にピンバッチをもらいました。かっこいいです！
 
-<amp-img src="/img/uploads/2009/10/chikyu-jamstec-report-6.jpg" alt="ちきゅうピンバッチ" width="1200" height="900" layout="responsive"></amp-img>
+![ちきゅうピンバッチ][6]
 
 あと記念品を販売するテントでＴシャツを売っていたのですが、
 このＴシャツをデザインしたのはgroovisionsという有名なデザイン集団だそうです。
 すごくかわいいデザインだったので、記念に1枚買いました。
 
-<amp-img class="v-img" src="/img/uploads/2009/10/chikyu-jamstec-report-7.jpg" alt="" width="900" height="1200" layout="responsive"></amp-img>
+<img src="/img/uploads/2009/10/chikyu-jamstec-report-7.jpg" width="480" />
 
 この辺りは決して都会ではなく、不便なことも多いですが、
 こういう世界最先端の研究に触れることができるのは素晴らしいことですね。

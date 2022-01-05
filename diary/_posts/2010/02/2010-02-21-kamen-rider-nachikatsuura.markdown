@@ -6,13 +6,12 @@ categories:
   - diary
 tags:
   - culture
-youtube: true
 ---
 Youtubeをだらだら見ていました。
 
 適当にいろんな動画を見ていて、リクルートの少し前のＣＭに行きついたときのこと…
 
-<amp-youtube data-videoid="35Kc4jM2Sew" layout="responsive" width="480" height="270" data-param-start="75"></amp-youtube>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/35Kc4jM2Sew?start=75" frameborder="0" allowfullscreen></iframe>
 
 やっぱリクルートのＣＭはおもろいな～とぼ～っと見ていたら、
 1:15辺り、ショッカーが、港で船の上のドラム缶から出てきたあとに
@@ -22,12 +21,11 @@ Youtubeをだらだら見ていました。
 
 これが海に浮かぶ『ホテル中の島』。
 
-<amp-img src="/img/uploads/2010/02/kamen-rider-nachikatsuura-1.jpg" alt="ホテル中の島" width="400" height="300" layout="responsive"></amp-img>
+![ホテル中の島][1]
 
 これがYouTubeの問題のシーン。
 
-<amp-img src="/img/uploads/2010/02/kamen-rider-nachikatsuura-2.jpg" alt="ホテル中の島？" width="560" height="311" layout="responsive"></amp-img>
-
+![ホテル中の島？][2]
 
 山のかたち、建物のかたち、ほぼ間違いなく『ホテル中の島』です。
 

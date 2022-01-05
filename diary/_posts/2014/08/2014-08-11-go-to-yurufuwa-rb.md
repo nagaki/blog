@@ -15,16 +15,16 @@ tag:
 
 今回はRubyは全く関係なく、「魚の捌き方を学ぼう！」的なテーマでした。
 
-<amp-img src="/img/uploads/2014/08/horse-mackerel.jpg" alt="アジ" width="1200" height="900" layout="responsive"></amp-img>
+![アジ][aji]
 
 ゆるふわ.rbでは毎回魚を食べることができます。そして毎回、調理室で開催されます。
 美味しい魚を食べながらRubyを触ってみたり、お酒を飲みながら情報交換したり、しています。
 
-<amp-img src="/img/uploads/2014/08/salted-mackerel.jpg" alt="サバ" width="1200" height="900" layout="responsive"></amp-img>
+![サバ][saba]
 
 近くのスーパーで塩サバを買ってきて焼いているひともいて自由な感じです。
 
-<amp-img src="/img/uploads/2014/08/cooking-room.jpg" alt="調理室" width="1200" height="900" layout="responsive"></amp-img>
+![調理室][cook-room]
 
 鯛のアラを焼いていて、調理室が煙たいです。（Rubyのイベントです）
 
@@ -47,7 +47,7 @@ tag:
 ゆるふわ.rbでいろいろな人の話を聞いたり、大洲まで出掛けることからは、とても刺激を受けています。
 リフレッシュできて、モチベーションがあがる、いまの自分にとってはそういう意味があります。
 
-<amp-img src="/img/uploads/2014/08/anpanman-train.jpg" alt="アンパンマン列車" width="1200" height="900" layout="responsive"></amp-img>
+![アンパンマン列車][anpanman]
 
 これからも参加し続けたいし、色々と貢献できるように実力を高めたいです。
 

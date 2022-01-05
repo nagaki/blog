@@ -15,7 +15,7 @@ auのWIN時代にtalbyを使い出してから、ハイテクなケータイと�
 
 が、Willcomをメイン機にしてからの、持ってる意味の無さは半端なく、仕事でアプリの勉強しないといけなくなり、ていうか今の時代ケータイ常に持ってないといろいろ肩身狭いし、ちょうどsoftbankの友達おったし、なにより、iPhone4かっこいいし。
 
-<amp-img src="/img/uploads/2010/08/iphone4-1.jpg" alt="iPhone4画面画像" width="600" height="450" layout="responsive"></amp-img>
+![iPhone4画面画像][1]
 
 買う前にいろいろ調べてみるとアンテナに欠陥があるということでしたが、いきなり圏外になったり押さえたら弱くなったりみたいなまだ現象は出ていません。
 
@@ -23,17 +23,17 @@ auのWIN時代にtalbyを使い出してから、ハイテクなケータイと�
 
 まあ、しばらくWillcom使ってた僕からしたら全然使えてます。
 
-<amp-img src="/img/uploads/2010/08/iphone4-2.jpg" alt="iPhone4カメラ" width="600" height="450" layout="responsive"></amp-img>
+![iPhone4カメラ][2]
 
 あと、ネットでカメラが「青カビ」とか揶揄されてましたが、
 
-<amp-img class="v-img" src="/img/uploads/2010/08/iphone4-3.jpg" alt="iPhone4青カビ" width="430" height="576" layout="responsive"></amp-img>
+![iPhone4青カビ][3]
 
 完全に「青カビ」やん。光の具合にもよるんだろうけど。屋外だとまだ一枚もカビってはないです。
 
 動画はめちゃめちゃ綺麗に撮れます。これはホントに使える。撮影時の雰囲気が伝わりやすいと思う。
 
-<amp-img src="/img/uploads/2010/08/iphone4-4.jpg" alt="iPhone4音量ボタン付近" width="600" height="450" layout="responsive"></amp-img>
+![iPhone4音量ボタン付近][4]
 
 見た目のデザインはめっちゃ良い。この、デザイナーがゴリ押ししてる感。
 
@@ -43,7 +43,7 @@ auのWIN時代にtalbyを使い出してから、ハイテクなケータイと�
 
 ↓過去の化石ケータイ２つと比較
 
-<amp-img src="/img/uploads/2010/08/iphone4-5.jpg" alt="iPhone4とtalbyとhoney bee" width="600" height="450" layout="responsive"></amp-img>
+![iPhone4とtalbyとhoney bee][5]
 
 笑ってしまうぐらいの化石具合ですが、まあ普通に結構最近まで使ってたんですよ。
 

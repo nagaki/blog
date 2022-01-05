@@ -9,31 +9,31 @@ tags:
 ---
 色川の山を歩いて、いくつかの美しい花に出会いました。
 
-<amp-img src="/img/uploads/2009/11/flower-irogawa-hill-1.jpg" alt="山茶花" width="1200" height="900" layout="responsive"></amp-img>
+![山茶花][1]
 
 サザンカ（山茶花）です。畑のそばにありました。
 
 椿のピンクバージョンみたいな感じですね満開でした。
 
-<amp-img src="/img/uploads/2009/11/flower-irogawa-hill-2.jpg" alt="ノアザミ" width="1200" height="900" layout="responsive"></amp-img>
+![ノアザミ][2]
 
 ノアザミです。道端にたくさん咲いていました。
 
 小さいころよく「くっつき虫」と言って投げていたのを思い出しました。
 
-<amp-img src="/img/uploads/2009/11/flower-irogawa-hill-3.jpg" alt="野菊" width="1200" height="900" layout="responsive"></amp-img>
+![野菊][3]
 
 野菊です。原っぱにぽつんと咲いていました。
 
 可憐な感じが良かったです。
 
-<amp-img src="/img/uploads/2009/11/flower-irogawa-hill-4.jpg" alt="リンドウ" width="1200" height="900" layout="responsive"></amp-img>
+![リンドウ][4]
 
 リンドウです。苔がたくさん生えた山道に咲いていました。
 
 薄暗い道にあるリンドウは、青く光って見えて神秘的でした。
 
-<amp-img src="/img/uploads/2009/11/flower-irogawa-hill-5.jpg" alt="センブリ" width="1200" height="900" layout="responsive"></amp-img>
+![センブリ][5]
 
 センブリです。道のそばに生えていました。千回振っても苦いことから「千振」と言うそうです。
 

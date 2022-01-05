@@ -13,19 +13,19 @@ tags:
 
 でも、せっかく松山に住んでいるのだから買って食べようと思い、本店（大街道にもありますが）へと行ってみました。
 
-<amp-img src="/img/uploads/2010/08/roken-manto-1.jpg" alt="労研饅頭プレハブ" width="600" height="450" layout="responsive"></amp-img>
+![労研饅頭プレハブ][1]
 
 が、凄く小さなプレハブになってました。
 
 上の「労研饅頭」看板に表れている通り建物の老朽化が進んだため、店舗を取り壊し、新しく建て直しているそうです。
 
-<amp-img src="/img/uploads/2010/08/roken-manto-2.jpg" alt="労研饅頭建替中" width="600" height="450" layout="responsive"></amp-img>
+![労研饅頭建替中][2]
 
 １０月だか１１月には新しい店舗が完成するそうです。楽しみです。
 
 お店は改築中ですが、饅頭はよりどりみどり、しっかり販売されていました。
 
-<amp-img src="/img/uploads/2010/08/roken-manto-3.jpg" alt="労研饅頭包紙" width="600" height="450" layout="responsive"></amp-img>
+![労研饅頭包紙][3]
 
 こういうような紙で包んでもらえるお菓子を買うという行為は普段あまり無いため、優しい気持ちになれるし、人々にずっと愛される理由のひとつなのかもしれません。
 
@@ -33,7 +33,7 @@ tags:
 
 自分はあんこの入っていない饅頭を食べました。
 
-<amp-img src="/img/uploads/2010/08/roken-manto-4.jpg" alt="労研饅頭" width="600" height="450" layout="responsive"></amp-img>
+![労研饅頭][4]
 
 保存料を使わない昔ながらの製法だけあって、とても素朴な味がします。
 

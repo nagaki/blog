@@ -10,47 +10,47 @@ tags:
 ブログを３ヶ月も放置してしまいました。
 弁当男子デビュウを果たしましたが
 
-<amp-img src="/img/uploads/2011/05/recent-situation-1.jpg" alt="弁当" width="600" height="446" layout="responsive"></amp-img>
+![弁当][1]
 
 最近遅帰りでスーパーに寄れないのでサボってます。修正したい。
 
 あとは、コーヒー絶ちをしています。胃とカラダのために。
 
-<amp-img src="/img/uploads/2011/05/recent-situation-2.jpg" alt="ハーブティー" width="600" height="448" layout="responsive"></amp-img>
+![ハーブティー][2]
 
 カフェでもハーブティーとかを飲んでいます。でもめっちゃコーヒーりたいです。
 
 あとは、とある横浜で廻らない、廻らせていただかないほうの、御寿司を馳走になったり
 
-<amp-img src="/img/uploads/2011/05/recent-situation-3.jpg" alt="寿司" width="600" height="448" layout="responsive"></amp-img>
+![寿司][3]
 
 あの！あの蕎麦の神様！に！師事！した！と！いう！そば屋の御蕎麦を食べに行ったり
 
-<amp-img src="/img/uploads/2011/05/recent-situation-4.jpg" alt="蕎麦" width="600" height="448" layout="responsive"></amp-img>
+![蕎麦][4]
 
 松山探訪で新発見をして、ちょっと松山好き度を増したり
 
-<amp-img src="/img/uploads/2011/05/recent-situation-5.jpg" alt="石手寺奥の院" width="600" height="448" layout="responsive"></amp-img>
+![石手寺奥の院][5]
 
 福井名物ソースカツ丼どんなもんじゃーいい！を頬張ったり
 
-<amp-img src="/img/uploads/2011/05/recent-situation-6.jpg" alt="ソースカツ丼" width="600" height="448" layout="responsive"></amp-img>
+![ソースカツ丼][6]
 
 琵琶湖のほとりにある田んぼの端にぽつりとあるラーメン店のつけ麺すすったり
 
-<amp-img class="v-img" src="/img/uploads/2011/05/recent-situation-7.jpg" alt="柚子白湯" width="450" height="450" layout="responsive"></amp-img>
+![柚子白湯][7]
 
 きったねー最高素晴らしい洋食屋の夜に、ハンバーグをがっついたり
 
-<amp-img class="v-img" src="/img/uploads/2011/05/recent-situation-8.jpg" alt="スイスのハンバーグ" width="450" height="450" layout="responsive"></amp-img>
+![スイスのハンバーグ][8]
 
 徳島ラーメンつったら巽屋じゃろがーいいどんなもんじゃーいい！だったり
 
-<amp-img src="/img/uploads/2011/05/recent-situation-9.jpg" alt="徳島ラーメン" width="600" height="448" layout="responsive"></amp-img>
+![徳島ラーメン][9]
 
 やっとこさ福楽のかき揚げうどんにありつけたり
 
-<amp-img src="/img/uploads/2011/05/recent-situation-10.jpg" alt="かき揚げうどん" width="600" height="448" layout="responsive"></amp-img>
+![かき揚げうどん][10]
 
 少しグルメで少し忙しく、なかなか楽しげな毎日に、微かに不安な時間を含みつつ、
 

@@ -24,23 +24,23 @@ tags:
 
 海が開けるとやっと船だとわかりましたが、それにしてもでかいです。
 
-<amp-img src="/img/uploads/2009/10/chikyu-jamstec-coming-shingu-port-1.jpg" alt="ちきゅうその１" width="1200" height="900" layout="responsive"></amp-img>
+![ちきゅうその１][1]
 
 海面からてっぺんまでの高さは**121メートル**です。
 
 港に行く道に曲がると「ちきゅう」が真横から見えます。
 
-<amp-img src="/img/uploads/2009/10/chikyu-jamstec-coming-shingu-port-2.jpg" alt="ちきゅうその２" width="1200" height="900" layout="responsive"></amp-img>
+![ちきゅうその２][2]
 
 やっぱり工場にしか見えません。ちなみに、係留するのに４時間かかるそうです。
 
 電波塔みたいに見えるところは『デリック（掘削やぐら）』と呼ぶらしいです。
 
-<amp-img src="/img/uploads/2009/10/chikyu-jamstec-coming-shingu-port-3.jpg" alt="ちきゅうその３" width="1200" height="900" layout="responsive"></amp-img>
+![ちきゅうその３][3]
 
 てっぺんまで上がってみたいです。一般公開が待ち遠しいです。
 
-<amp-img src="/img/uploads/2009/10/chikyu-jamstec-coming-shingu-port-4.jpg" alt="ちきゅうその４" width="1200" height="900" layout="responsive"></amp-img>
+![ちきゅうその４][4]
 
 やっぱり工場にしか見えません。とにかく迫力があります。
 

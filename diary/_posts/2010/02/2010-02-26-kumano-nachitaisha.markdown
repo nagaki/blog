@@ -16,13 +16,13 @@ tags:
 
 熊野那智大社・那智山青岸渡寺へ行くには表参道へと進みます。
 
-<amp-img src="/img/uploads/2010/02/kumano-nachitaisha-1.jpg" alt="" width="400" height="300" layout="responsive"></amp-img>
+![][1]
 
 なが～い大門坂の鎌倉積みの石段を登り終えた直後に…
 
 表参道のきっちり積まれた石の階段をさらに登っていきます…体力ないとバテます。
 
-<amp-img src="/img/uploads/2010/02/kumano-nachitaisha-2.jpg" alt="" width="400" height="300" layout="responsive"></amp-img>
+![][2]
 
 鳥居をくぐれば那智大社はもうすぐです。
 
@@ -32,37 +32,37 @@ tags:
 
 かな～り登ってやっとのことで『熊野那智大社』に到着しました。
 
-<amp-img src="/img/uploads/2010/02/kumano-nachitaisha-3.jpg" alt="" width="400" height="300" layout="responsive"></amp-img>
+![][3]
 
 赤いです。
 
 熊野夫須美大神がメインの神様で、権現で言うと、千手観音だそうです。
 
-<amp-img src="/img/uploads/2010/02/kumano-nachitaisha-4.jpg" alt="" width="450" height="300" layout="responsive"></amp-img>
+![][4]
 
 けっこう高いところに建っているので眺めが良いです。
 
 遥か昔に、こんな高いところに、こんな建物建てて、めっちゃ人が参拝したなんて、すごいですよね。
 
-<amp-img src="/img/uploads/2010/02/kumano-nachitaisha-5.jpg" alt="" width="400" height="300" layout="responsive"></amp-img>
+![][5]
 
 そんな遥か昔から参拝者を見守り続けてきたこのクスノキは推定樹齢800年だそうです。
 
 ちなみに補陀洛山寺からここまでに樹齢800年の木が4本あります。これは5本目です（！）。
 
-<amp-img src="/img/uploads/2010/02/kumano-nachitaisha-6.jpg" alt="" width="400" height="300" layout="responsive"></amp-img>
+![][6]
 
 東大寺でいうところの正倉院的存在の宝物殿。有料で中に入れるみたいです。
 
 （すごくどうでもいいですが、旅館組合の献湯祭ではここから大量の餅を投げました。）
 
-<amp-img src="/img/uploads/2010/02/kumano-nachitaisha-7.jpg" alt="" width="400" height="300" layout="responsive"></amp-img>
+![][7]
 
 ここは御札売場です。売場の奥の壁に注目すると「大漁」って書いた旗と「サッカー日本代表」の旗があります。
 
 大漁は[「まぐろ」][a2]、日本代表は[「ヤタガラス」][a3]と関わりがありますね。
 
-<amp-img src="/img/uploads/2010/02/kumano-nachitaisha-8.jpg" alt="" width="400" height="300" layout="responsive"></amp-img>
+![][8]
 
 普段は入れない奥にある神様を祭っている場所です。
 

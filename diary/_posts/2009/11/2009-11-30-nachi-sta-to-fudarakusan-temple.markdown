@@ -16,7 +16,7 @@ tags:
 
 いかにも熊野那智大社を意識した感の漂う『那智駅』から出発しました。
 
-<amp-img src="/img/uploads/2009/11/nachi-sta-to-fudarakusan-temple-1.jpg" alt="那智駅" width="400" height="300" layout="responsive"></amp-img>
+![那智駅][1]
 
 タクシー運転手の方の話によると、無人駅で特急はとまらないそうです。
 
@@ -28,7 +28,7 @@ tags:
 
 世界遺産の『補陀洛山寺』は、国道を挟んですぐそばにあります。
 
-<amp-img src="/img/uploads/2009/11/nachi-sta-to-fudarakusan-temple-2.jpg" alt="補陀落山寺のクスノキ" width="400" height="300" layout="responsive"></amp-img>
+![補陀落山寺のクスノキ][2]
 
 大きなクスノキと鳥居が目印です。
 
@@ -44,7 +44,7 @@ tags:
 
 というわけで、このように神様が祀られています。
 
-<amp-img src="/img/uploads/2009/11/nachi-sta-to-fudarakusan-temple-3.jpg" alt="補陀落山寺にある熊野三所権現" width="400" height="300" layout="responsive"></amp-img>
+![補陀落山寺にある熊野三所権現][3]
 
 この神社の正式名称は『熊野三所大神社』といいます。浜の宮王子社跡に建っています。
 
@@ -56,7 +56,7 @@ tags:
 
 で、この隣にあるのが、世界遺産にも指定されている『補陀洛山寺』です。
 
-<amp-img src="/img/uploads/2009/11/nachi-sta-to-fudarakusan-temple-4.jpg" alt="補陀落山寺" width="400" height="300" layout="responsive"></amp-img>
+![補陀落山寺][4]
 
 とても読みにくい漢字です。僕も３か月前までは読めませんでした。
 
@@ -70,7 +70,7 @@ tags:
 
 ちなみに渡海船というのがこちらです。
 
-<amp-img src="/img/uploads/2009/11/nachi-sta-to-fudarakusan-temple-5.jpg" alt="補陀落渡海船" width="400" height="300" layout="responsive"></amp-img>
+![補陀落渡海船][5]
 
 このとても頑丈かつ崇高な見た目の渡海船で、補陀洛山を目指したそうなのですが、
 一体その補陀洛山というのがどこにあるのかといいますと…
@@ -89,7 +89,7 @@ tags:
 
 最後にもうひとつ重要な史跡を紹介しておきます。
 
-<amp-img src="/img/uploads/2009/11/nachi-sta-to-fudarakusan-temple-6.jpg" alt="振分石" width="400" height="300" layout="responsive"></amp-img>
+![振分石][6]
 
 この見るからにふる～～い石なのですが、『振分石』と言うそうです。
 

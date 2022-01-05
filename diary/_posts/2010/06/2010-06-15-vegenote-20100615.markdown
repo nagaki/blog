@@ -15,7 +15,7 @@ tags:
 
 ししとうがもりもり育ってます。
 
-<amp-img src="/img/uploads/2010/06/vegenote-20100615.jpg" alt="ししとう初収穫" width="600" height="450" layout="responsive"></amp-img>
+![ししとう初収穫][1]
 
 まだ梅雨が始まったばかりですが、くそ暑い夏にだるい体をシャキッとしてくれるのがししとうです。
 

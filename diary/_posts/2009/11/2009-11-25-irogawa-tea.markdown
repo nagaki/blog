@@ -21,13 +21,13 @@ tags:
 
 大台地方（三重県）に次ぐ3500から4000ミリの年間雨量が、お茶の栽培に適しているそうです。
 
-<amp-img src="/img/uploads/2009/11/irogawa-tea-1.jpg" alt="色川茶工場" width="400" height="300" layout="responsive"></amp-img>
+![色川茶工場][2]
 
 お茶の甘い香りに誘われてたどり着いたのは、少し古い工場でした。
 
 工場の入口で、淹れたてのお茶をいただいて、中に入ります。
 
-<amp-img class="v-img" src="/img/uploads/2009/11/irogawa-tea-2.jpg" alt="色川茶工場内部" width="300" height="400" layout="responsive"></amp-img>
+![色川茶工場内部][3]
 
 中の機械もかなり古いです。でもちゃんと現役で動いているそうです！
 
@@ -37,7 +37,7 @@ tags:
 
 発見！
 
-<amp-img src="/img/uploads/2009/11/irogawa-tea-3.jpg" alt="色川茶乾燥作業" width="400" height="300" layout="responsive"></amp-img>
+![色川茶乾燥作業][4]
 
 「なんだ！作ってるやん！」と思ったのですが、よく聞いてみると、
 
@@ -47,7 +47,7 @@ tags:
 
 乾燥された茶葉は、この袋に包装されてお店に出荷されるそうです。
 
-<amp-img src="/img/uploads/2009/11/irogawa-tea-4.jpg" alt="色川茶袋詰" width="400" height="300" layout="responsive"></amp-img>
+![色川茶袋詰][5]
 
 袋詰めは完全におばあちゃんの手作業です。
 
@@ -57,14 +57,14 @@ tags:
 こまめに作って出荷しているってことは、新鮮で美味しいんじゃないか？と思ったので、
 近所のスーパーで買ってきて飲んでみることにしました。
 
-<amp-img src="/img/uploads/2009/11/irogawa-tea-5.jpg" alt="スーパーで見つけた色川茶" width="400" height="300" layout="responsive"></amp-img>
+![スーパーで見つけた色川茶][6]
 
 この『ほうじ茶』で間違いないです。ちなみにこの『ほうじ茶』、
 200グラム入りで210円です！相当安いです。
 
 湯呑みも急須もないですが、気合いで淹れてみました…
 
-<amp-img src="/img/uploads/2009/11/irogawa-tea-6.jpg" alt="気合で淹れた色川茶" width="400" height="300" layout="responsive"></amp-img>
+![気合で淹れた色川茶][7]
 
 ほうじ茶独特の香ばしさが際立っていて、甘みも感じる良い味です。思った通り、香りが良いです！
 

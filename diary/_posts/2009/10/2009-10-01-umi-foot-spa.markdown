@@ -9,7 +9,7 @@ tags:
 ---
 まぐろの水揚げ港として有名な勝浦漁港のすぐそばにあるのが、『海の湯』です。
 
-<amp-img src="/img/uploads/2009/10/umi-foot-spa-1.jpg" alt="海の湯看板" width="1200" height="900" layout="responsive"></amp-img>
+![海の湯看板][1]
 
 漁港のすぐそばにあるので、目の前は海、そして係留された漁船がたくさん！
 
@@ -17,7 +17,7 @@ tags:
 
 上の写真から見ても、建物のつくりがかなりしっかりとしていますよね。
 
-<amp-img src="/img/uploads/2009/10/umi-foot-spa-2.jpg" alt="海の湯１" width="1200" height="900" layout="responsive"></amp-img>
+![海の湯１][2]
 
 このように、きれいに整備された足湯が２つあります。
 
@@ -25,7 +25,7 @@ tags:
 
 そしてもうひとつはなんと、
 
-<amp-img src="/img/uploads/2009/10/umi-foot-spa-3.jpg" alt="海の湯手湯" width="1200" height="900" layout="responsive"></amp-img>
+![海の湯手湯][3]
 
 足湯＆手湯です。
 
@@ -35,7 +35,7 @@ tags:
 
 スロープや手すりもあり、バリアフリー意識が高い施設です。
 
-<amp-img src="/img/uploads/2009/10/umi-foot-spa-4.jpg" alt="まぐろのタイル" width="1200" height="900" layout="responsive"></amp-img>
+![まぐろのタイル][4]
 
 タイルを使用したマグロもすごく美しいです！
 

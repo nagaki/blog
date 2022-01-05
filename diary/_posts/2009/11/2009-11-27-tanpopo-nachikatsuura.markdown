@@ -9,7 +9,7 @@ tags:
 ---
 那智勝浦町の国道42号線沿いにある和歌山ラーメン店『たんぽぽ』に行ってきました。
 
-<amp-img src="/img/uploads/2009/11/tanpopo-nachikatsuura-1.jpg" alt="和歌山ラーメンたんぽぽ" width="400" height="300" layout="responsive"></amp-img>
+![和歌山ラーメンたんぽぽ][1]
 
 そもそも和歌山ラーメンとは、スープが「豚骨しょうゆ」ベースのラーメンのことです。
 
@@ -27,7 +27,7 @@ tags:
 
 ガラガラ…「こんばんは～」と入ります。「いらっしゃい♪」とおばちゃんが出迎えてくれました。
 
-<amp-img src="/img/uploads/2009/11/tanpopo-nachikatsuura-1.jpg" alt="メニュー" width="400" height="300" layout="responsive"></amp-img>
+![メニュー][2]
 
 ラーメンは他の和歌山ラーメン店と同じで、
 ラーメン・ラーメン大・チャーシューメン・チャーシューメン大の４種類！
@@ -40,7 +40,7 @@ tags:
 
 そして待つこと数分…
 
-<amp-img src="/img/uploads/2009/11/tanpopo-nachikatsuura-1.jpg" alt="たんぽぽの和歌山ラーメン" width="400" height="300" layout="responsive"></amp-img>
+![たんぽぽの和歌山ラーメン][3]
 
 これです！これぞ「和歌山ラーメン」です！
 
@@ -50,16 +50,16 @@ tags:
 
 少しアップで撮ってみました。こってり感が強調されました。
 
-<amp-img src="/img/uploads/2009/11/tanpopo-nachikatsuura-1.jpg" alt="ラーメンアップ" width="400" height="300" layout="responsive"></amp-img>
+![ラーメンアップ][4]
 
 この『たんぽぽ』のチャーシューは、けっこう厚くてジューシーで美味しいです。
 
-<amp-img src="/img/uploads/2009/11/tanpopo-nachikatsuura-1.jpg" alt="たんぽぽのチャーシュー" width="400" height="300" layout="responsive"></amp-img>
+![たんぽぽのチャーシュー][5]
 
 ラーメン大ということで麺が２玉入っていてけっこうボリュームもあったのですが、
 あっという間に完食しました～。
 
-<amp-img src="/img/uploads/2009/11/tanpopo-nachikatsuura-1.jpg" alt="ラーメン完食" width="400" height="300" layout="responsive"></amp-img>
+![ラーメン完食][6]
 
 スープも全て飲み干してしまうほど、美味しかったです！ごちそうさまでした～！
 

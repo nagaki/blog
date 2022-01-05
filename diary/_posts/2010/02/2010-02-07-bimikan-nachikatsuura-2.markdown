@@ -31,14 +31,14 @@ tags:
 
 今回は1380円の、この「ラーメン・天津飯・から揚げ」セットを注文
 
-<amp-img src="/img/uploads/2010/02/bimikan-nachikatsuura-1.jpg" alt="ラーメン・天津飯・から揚げセット" width="400" height="300" layout="responsive"></amp-img>
+![ラーメン・天津飯・から揚げセット][2]
 
 このボリューム！！炭水化物！！お盆はみ出てます！！
 
 前回行った際、激辛台湾ラーメンを注文しないというチキンっぷりをさらけ出してしまったので、
 今回は…勇気を出して…「台湾ラーメン（唐辛子マーク１つ）」を選択しています。
 
-<amp-img src="/img/uploads/2010/02/bimikan-nachikatsuura-2.jpg" alt="台湾ラーメン" width="400" height="300" layout="responsive"></amp-img>
+![台湾ラーメン][3]
 
 これ、見ため、全然辛そうじゃないじゃないすか～。
 
@@ -54,7 +54,7 @@ tags:
 
 あ、あと、右に静かに佇むから揚げ、
 
-<amp-img src="/img/uploads/2010/02/bimikan-nachikatsuura-3.jpg" alt="から揚げ" width="400" height="300" layout="responsive"></amp-img>
+![から揚げ][4]
 
 甘酢（的な？）が良いです。パリパリ感もいいです。唐辛子は、もういいです…
 

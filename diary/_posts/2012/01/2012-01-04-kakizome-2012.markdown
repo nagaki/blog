@@ -15,7 +15,7 @@ tags:
 
 というわけで
 
-<amp-img class="v-img" src="/img/uploads/2012/01/nasu.jpg" alt="為す" width="300" height="300" layout="responsive"></amp-img>
+![為す][1]
 
 2011年はとにかく「為す」にこだわっていきたいと思ってます。
 

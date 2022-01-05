@@ -14,32 +14,32 @@ tags:
 
 その紀伊大島にオシャレなパン屋があるというので、先日、友人の車に乗って行ってきました。
 
-<amp-img class="v-img" src="/img/uploads/2010/02/nagi-kushimoto-1.jpg" alt="nagi看板" width="300" height="400" layout="responsive"></amp-img>
+![nagi看板][1]
 
 看板がなんかカッコいいです。島にある樫野崎灯台がデザインされています。（多分）
 
-<amp-img src="/img/uploads/2010/02/nagi-kushimoto-2.jpg" alt="nagi建物" width="400" height="300" layout="responsive"></amp-img>
+![nagi建物][2]
 
 建物もカッコいいです。木を使っていてちょっと小さいのが優しい感じです。
 
 野菜が入ったパンが（僕はパンに詳しくないので）珍しいと思いました。
 
-<amp-img src="/img/uploads/2010/02/nagi-kushimoto-3.jpg" alt="ごぼうのソテーとベーコン入り、ごぼうの香りいっぱいのパン" width="400" height="300" layout="responsive"></amp-img>
+![ごぼうのソテーとベーコン入り、ごぼうの香りいっぱいのパン][3]
 
 これは「ごぼうのソテーとベーコン入り、ごぼうの香りいっぱいのパン」ゴボウスティック。
 
-<amp-img src="/img/uploads/2010/02/nagi-kushimoto-4.jpg" alt="サクッとしたパンにほうれん草とベーコンたっぷり" width="400" height="300" layout="responsive"></amp-img>
+![サクッとしたパンにほうれん草とベーコンたっぷり][4]
 
 これは「サクッとしたパンにほうれん草とベーコンたっぷり」ほうれん草とベーコンのフガス。
 
 パンとカフェの店なので、奥には小さいですがカフェスペースが設けられていて、
 コーヒーや紅茶、あとチャイとか…いろいろありましたがコーヒーを注文しました。
 
-<amp-img src="/img/uploads/2010/02/nagi-kushimoto-5.jpg" alt="nagiカフェスペース" width="400" height="300" layout="responsive"></amp-img>
+![nagiカフェスペース][5]
 
 カフェスペースを使用すると、店員さんがパンを温めてから食べやすく切って出してくれました。
 
-<amp-img src="/img/uploads/2010/02/nagi-kushimoto-6.jpg" alt="nagiでお茶" width="400" height="300" layout="responsive"></amp-img>
+![nagiでお茶][6]
 
 食感は、サクサクモチモチ…みたいな感じで、味は！
 

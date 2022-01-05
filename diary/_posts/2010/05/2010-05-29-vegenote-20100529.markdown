@@ -13,27 +13,27 @@ tags:
 
 上の方には、かる～い野菜の土みたいなしょぼそうな土を試しに使ってるけど栄養なさそう過ぎ。みんなこんなので野菜ちゃんと育ってるんかなって思う。
 
-<amp-img src="/img/uploads/2010/05/vegenote-20100529-1.jpg" alt="ゴーヤ植え付け" width="600" height="450" layout="responsive"></amp-img>
+![ゴーヤ植え付け][1]
 
 ゴーヤにはそんなに期待してない！（が、既にネットは張った（が、既に苗がしょぼくて葉焼けぎみ））
 
-<amp-img src="/img/uploads/2010/05/vegenote-20100529-2.jpg" alt="オクラ植え付け" width="600" height="450" layout="responsive"></amp-img>
+![オクラ植え付け][2]
 
 前からあるトコにはオクラを植えた。
 
 真夏のオクラのエネルギーはものすごいからね、彼には期待している。
 
-<amp-img class="v-img" src="/img/uploads/2010/05/vegenote-20100529-3.jpg" alt="トマトの葉っぱ" width="450" height="600" layout="responsive"></amp-img>
+![トマトの葉っぱ][3]
 
 トマトはもうお化けみたいに巨大化してきてる！（が、葉っぱが大きすぎ（雨多いよね））
 
 ちゃんと身もなりつつある。なりすぎの感すらある。
 
-<amp-img src="/img/uploads/2010/05/vegenote-20100529-4.jpg" alt="トマトの青い実" width="600" height="450" layout="responsive"></amp-img>
+![トマトの青い実][4]
 
 秋口まで収穫できるようにしたい～
 
-<amp-img src="/img/uploads/2010/05/vegenote-20100529-5.jpg" alt="ししとうの花" width="600" height="450" layout="responsive"></amp-img>
+![ししとうの花][5]
 
 ししとうの花には怪しげな虫が・・・
 

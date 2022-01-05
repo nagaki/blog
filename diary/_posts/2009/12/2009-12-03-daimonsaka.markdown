@@ -13,7 +13,7 @@ tags:
 
 前回の記事の最後に触れた鳥居をくぐり橋を渡ると、大きな杉の木が見えてきます。
 
-<amp-img class="v-img" src="/img/uploads/2009/12/daimonsaka-1.jpg" alt="大門坂夫婦杉全景" width="300" height="400" layout="responsive"></amp-img>
+![大門坂夫婦杉全景][2]
 
 こんな遠くからじゃないとカメラに収まらないくらい大きな木です。
 
@@ -24,13 +24,13 @@ tags:
 大きさを伝えるために近くからも写真を撮ったのですが、なかなか伝わりそうにないので、
 観光客の方々が通るのを待っていると、記念撮影をしてたのですかさず激写しました
 
-<amp-img src="/img/uploads/2009/12/daimonsaka-2.jpg" alt="大門坂夫婦杉幹" width="400" height="300" layout="responsive"></amp-img>
+![大門坂夫婦杉幹][3]
 
 2本ともとても太いです。根っこが道を絞るように杉がそびえ立っているのがわかります。
 
 800年前と言うと、ちょうど鎌倉幕府ができた頃ですが、この石畳の作り方は「鎌倉積み」と言うそうです。
 
-<amp-img src="/img/uploads/2009/12/daimonsaka-3.jpg" alt="鎌倉積み" width="400" height="300" layout="responsive"></amp-img>
+![鎌倉積み][4]
 
 この石畳が坂の上までずっと続きます！これが意外とデコボコがあって硬いので足の裏にきます。
 
@@ -39,7 +39,7 @@ tags:
 
 そうこうしていると右側に、例の「九十九王子」の最後の一つでもある『多富気王子』を見つけました。
 
-<amp-img src="/img/uploads/2009/12/daimonsaka-4.jpg" alt="多富気王子" width="400" height="300" layout="responsive"></amp-img>
+![多富気王子][5]
 
 前々回、前回にレポートした王子跡には社殿がありましたが、ここには石碑しかありません。
 
@@ -49,7 +49,7 @@ tags:
 
 で、さらに進むと『大門坂』と車道が唯一接する場所が見えてきます。
 
-<amp-img src="/img/uploads/2009/12/daimonsaka-5.jpg" alt="大門坂中間地点" width="400" height="300" layout="responsive"></amp-img>
+![大門坂中間地点][6]
 
 ここにはバス停もあって、途中で無理だと思っても、バスで上ったり降りたりできて便利です。
 
@@ -59,7 +59,7 @@ tags:
 
 ここから先は、けっこう上りがきつくなって道の先も見えるので、少ししんどくなりました！
 
-<amp-img class="v-img" src="/img/uploads/2009/12/daimonsaka-6.jpg" alt="大門坂終盤" width="300" height="400" layout="responsive"></amp-img>
+![大門坂終盤][7]
 
 階段部分が増えると足にきます。「もうちょっとやろ～！」と気合いで上ります。
 
@@ -69,7 +69,7 @@ tags:
 
 ひたすらのぼってやっとのことで到着しました！！
 
-<amp-img src="/img/uploads/2009/12/daimonsaka-7.jpg" alt="大門坂終点" width="400" height="300" layout="responsive"></amp-img>
+![大門坂終点][8]
 
 振り向くと坂の傾斜がきつかったことに気づいて、すごく上ってきたんやなあ～という実感が湧いてきます。
 

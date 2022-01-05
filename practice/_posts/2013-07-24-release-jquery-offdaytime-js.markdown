@@ -6,7 +6,6 @@ description:
   "企業サイト等で営業時間外に表示したくないHTML要素などを手軽に非表示する為のjQueryプラグインをつくりました。その説明。"
 tags:
   - jQuery
-gist: true
 ---
 
 ## きっかけ
@@ -37,11 +36,7 @@ Javascriptで時間を判定してHTML要素を非表示にするコードを書
 
 Gistで公開しました。はじめてGistを使いましたがとても便利ですね。
 
-<amp-gist
-    data-gistid="6067735"
-    layout="fixed-height"
-    height="225">
-</amp-gist>
+<script src="https://gist.github.com/nagaki/6067735.js"></script>
 
 書き終わった後に、営業時間が日を跨ぐ場合を考慮していないことに気が付きました。
 閉店時間が閉店時間よりも小さい場合は時間の判定と曜日の取り方を変えないといけませんね。

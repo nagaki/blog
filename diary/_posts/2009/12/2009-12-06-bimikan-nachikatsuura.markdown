@@ -13,7 +13,7 @@ tags:
 
 そんな多い中華料理店の中で今回行ったのは、深夜でも開いていて暗い街の中でひと際目立っているこのお店、
 
-<amp-img src="/img/uploads/2009/12/bimikan-nachikatsuura-1.jpg" alt="美味館" width="400" height="300" layout="responsive"></amp-img>
+![美味館][1]
 
 台湾料理『美味館』に行ってきました。
 
@@ -27,7 +27,7 @@ tags:
 
 今回、初めておもての営業時間の表示を見て驚きました！
 
-<amp-img src="/img/uploads/2009/12/bimikan-nachikatsuura-2.jpg" alt="美味館営業時間" width="400" height="300" layout="responsive"></amp-img>
+![美味館営業時間][2]
 
 ほとんど開いてますしかも「年中無休」ではなく、「毎日営業」と書いてました…。恐るべし！
 
@@ -40,7 +40,7 @@ tags:
 
 が、しかし、メニューを見てみると…！
 
-<amp-img src="/img/uploads/2009/12/bimikan-nachikatsuura-3.jpg" alt="美味館メニュー" width="400" height="300" layout="responsive"></amp-img>
+![美味館メニュー][3]
 
 堂々と唐辛子マークが貼ってあります。見るからに辛そうじゃないですか…。
 
@@ -50,7 +50,7 @@ tags:
 
 だって頭上にこんな大きな唐辛子の飾りぶら下げられてたら…絶対無理です。
 
-<amp-img src="/img/uploads/2009/12/bimikan-nachikatsuura-4.jpg" alt="唐辛子の飾り" width="400" height="300" layout="responsive"></amp-img>
+![唐辛子の飾り][4]
 
 ちなみに、前の席の４人組のお客さんのうちの勇敢な戦士１人（以下客Ａ）がなんと！
 
@@ -84,13 +84,13 @@ tags:
 
 長くなりました。それでは「エビ炒飯」と「香味唐揚」の登場です。
 
-<amp-img src="/img/uploads/2009/12/bimikan-nachikatsuura-5.jpg" alt="エビチャーハン" width="400" height="300" layout="responsive"></amp-img>
+![エビチャーハン][5]
 
 見た目は、ラーメン店の濃い炒飯と違い、薄い色です。
 
 味は見た目通り、さっぱりとしていて食べやすく、中にもエビがいっぱい入っていて美味しいです。
 
-<amp-img src="/img/uploads/2009/12/bimikan-nachikatsuura-6.jpg" alt="唐揚げ" width="400" height="300" layout="responsive"></amp-img>
+![唐揚げ][6]
 
 この唐揚は大袈裟じゃなく、手の甲ぐらい大きくて５個もあったので来たときは焦りました。
 
@@ -100,13 +100,13 @@ tags:
 
 満腹感ＭＡＸですが、激辛に挑戦しなかった反省として追加でもう一品注文です。
 
-<amp-img src="/img/uploads/2009/12/bimikan-nachikatsuura-7.jpg" alt="タピオカミルク" width="400" height="300" layout="responsive"></amp-img>
+![タピオカミルク][7]
 
 本場台湾の「タピオカミルク」です！日本でもコンビニなどでタピオカティー売ってますよね。
 
 しかしさすが本場だと思ったのは、このタピオカの大きさです！！
 
-<amp-img src="/img/uploads/2009/12/bimikan-nachikatsuura-8.jpg" alt="タピオカ" width="400" height="300" layout="responsive"></amp-img>
+![タピオカ][8]
 
 めっちゃでかいです。すみません、最初レーズンかと思いました。
 

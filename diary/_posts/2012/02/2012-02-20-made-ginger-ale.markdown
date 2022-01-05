@@ -14,7 +14,7 @@ tags:
 
 今日はジンジャーシロップを作ります。
 
-<amp-img class="v-img" src="/img/uploads/2012/02/made-ginger-ale-14.jpg" alt="自家製ジンジャーエール" width="449" height="600" layout="responsive"></amp-img>
+![自家製ジンジャーエール][1]
 
 ## 参考にしたもの
 
@@ -26,43 +26,43 @@ tags:
 材料は生姜200g、グラニュー糖200g、水200cc、レモン半分。たぶんそんな感じだった。
 あといるものは煮沸消毒したびんとびんのふた。なべ、へら、シロップを漉す道具。
 
-<amp-img src="/img/uploads/2012/02/made-ginger-ale-1.jpg" alt="ジンジャーエールの材料" width="600" height="450" layout="responsive"></amp-img>
+![ジンジャーエールの材料][4]
 
 １．生姜を洗って、皮を剥いて、輪切りにしました。
 
-<amp-img src="/img/uploads/2012/02/made-ginger-ale-3.jpg" alt="生姜輪切り" width="600" height="450" layout="responsive"></amp-img>
+![生姜輪切り][5]
 
 ２．もう一回洗って、鍋に入れて、グラニュー糖を投入しました。
 
-<amp-img src="/img/uploads/2012/02/made-ginger-ale-6.jpg" alt="ジンジャーシロップ作り（グラニュー糖投入）" width="600" height="450" layout="responsive"></amp-img>
+![ジンジャーシロップ作り（グラニュー糖投入）][6]
 
 ３．そのまま二時間置いておいたらこんなになりました。（驚いた！）
 
-<amp-img src="/img/uploads/2012/02/made-ginger-ale-7.jpg" alt="グラニュー糖に二時間漬けたあとの生姜" width="600" height="450" layout="responsive"></amp-img>
+![グラニュー糖に二時間漬けたあとの生姜][7]
 
 ４．水を入れて煮詰めていきました。
 
-<amp-img src="/img/uploads/2012/02/made-ginger-ale-8.jpg" alt="水を入れます" width="600" height="450" layout="responsive"></amp-img>
+![水を入れます][8]
 
 ５．そこそこ、とろっとするまで煮詰めました。
 
-<amp-img src="/img/uploads/2012/02/made-ginger-ale-9.jpg" alt="煮詰めた生姜シロップ" width="600" height="450" layout="responsive"></amp-img>
+![煮詰めた生姜シロップ][9]
 
 ６．できました。びんに入れておきます。
 
-<amp-img src="/img/uploads/2012/02/made-ginger-ale-10.jpg" alt="ジンジャーシロップを瓶に入れる作業" width="600" height="450" layout="responsive"></amp-img>
+![ジンジャーシロップを瓶に入れる作業][10]
 
 ７．漏斗と茶こしで絞りながら瓶に入れました。
 
-<amp-img class="v-img" src="/img/uploads/2012/02/made-ginger-ale-11.jpg" alt="瓶に入れた生姜シロップ" width="450" height="600" layout="responsive"></amp-img>
+![瓶に入れた生姜シロップ][11]
 
 ８．できました。残りのしょうがを使って生姜のお菓子を作ります。
 
-<amp-img src="/img/uploads/2012/02/made-ginger-ale-12.jpg" alt="生姜スライス天日干し" width="600" height="450" layout="responsive"></amp-img>
+![生姜スライス天日干し][12]
 
 ９．ていねいに網に並べて天日で３時間くらい干しました。（トースターの網を使いました）
 
-<amp-img src="/img/uploads/2012/02/made-ginger-ale-13.jpg" alt="生姜チップス" width="600" height="450" layout="responsive"></amp-img>
+![生姜チップス][13]
 
 １０．グラニュー糖をまぶして、できました。
 

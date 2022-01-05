@@ -11,23 +11,23 @@ tags:
 
 しかもこのへん住所が「道後湯之町」ていうめっちゃ良い感じの地名。
 
-<amp-img class="v-img" src="/img/uploads/2010/07/dogo-yunomachi-1.jpg" alt="道後商店街入口" width="450" height="600" layout="responsive"></amp-img>
+![道後商店街入口][1]
 
 けっこう丈夫そうなアーケード。
 
-<amp-img src="/img/uploads/2010/07/dogo-yunomachi-2.jpg" alt="道後商店街" width="600" height="450" layout="responsive"></amp-img>
+![道後商店街][2]
 
 商店街も綺麗やし。さすが道後っていう雰囲気がとても良い。
 
 で、実家帰ってもよく道後は行ってたので結構ニュースはないと思ってたけど、新しく「今治タオル」の専門ショップみたいなんができてた。
 
-<amp-img src="/img/uploads/2010/07/dogo-yunomachi-3.jpg" alt="今治極上手巾伊織" width="600" height="450" layout="responsive"></amp-img>
+![今治極上手巾伊織][3]
 
 その名も『今治極上手巾 伊織』。建物がお洒落、人めっちゃいる。
 
 佐藤可士和氏、相変わらずやりよる・・・。
 
-<amp-img src="/img/uploads/2010/07/dogo-yunomachi-4.jpg" alt="今治タオル" width="600" height="450" layout="responsive"></amp-img>
+![今治タオル][4]
 
 ま、でも道後にタオル店はかなりあって欲しいよね。
 
@@ -39,7 +39,7 @@ tags:
 
 僕は今治製のタオル持ってきてたしクソ汗だくやったけん入れなかったけど次行ったら買います。
 
-<amp-img class="v-img" src="/img/uploads/2010/07/dogo-yunomachi-5.jpg" alt="道後湯之町の砥部焼の看板" width="450" height="600" layout="responsive"></amp-img>
+![道後湯之町の砥部焼の看板][5]
 
 あと、最近D&DEPARTMENTがやたら押してる砥部焼も道後で手に入ります。
 
@@ -47,7 +47,7 @@ tags:
 
 （僕は思いっきりうす～～い白山陶器に浮気してるよ！）
 
-<amp-img src="/img/uploads/2010/07/dogo-yunomachi-6.jpg" alt="道後椿の湯玄関" width="600" height="450" layout="responsive"></amp-img>
+![道後椿の湯玄関][6]
 
 ここがあの有名な『道後温泉』です！『道後温泉 椿の湯』です！
 
@@ -59,13 +59,13 @@ tags:
 
 みたいな？僕は大晦日にしか入ったことなくてめっちゃ人多かったからここのメリットわからんわ。
 
-<amp-img class="v-img" src="/img/uploads/2010/07/dogo-yunomachi-7.jpg" alt="道後ミュージックへの道" width="450" height="600" layout="responsive"></amp-img>
+![道後ミュージックへの道][7]
 
 まあ強いて言えば？椿の湯の横の道、この先にストリップ劇場があるってことぐらい。
 
 『道後ミュージック』って結構有名なんですよ。
 
-<amp-img src="/img/uploads/2010/07/dogo-yunomachi-8.jpg" alt="道後のどんぐり共和国" width="600" height="450" layout="responsive"></amp-img>
+![道後のどんぐり共和国][8]
 
 あとは『どんぐり共和国』とかお洒落な町家カフェとかパチ屋とかタルト売ってる店とか色々あります。城崎みたいな射的とかスマートボールみたいなんはないんよね。
 

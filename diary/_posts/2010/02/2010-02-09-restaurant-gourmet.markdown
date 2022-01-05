@@ -13,13 +13,13 @@ tags:
 
 と思っていましたが、先日、駅近くの路地（ちょと）裏で見つけたTHE洋食店。
 
-<amp-img src="/img/uploads/2010/02/restaurant-gourmet-1.jpg" alt="レストラン『グルメ』看板" width="400" height="300" layout="responsive"></amp-img>
+![レストラン『グルメ』看板][1]
 
 その名も、レストラン『グルメ』はお昼の3時までランチ800円で提供している洋食店です。
 
 お店の雰囲気はこれぞ洋食店って感じで、レトロ感が充満しています。
 
-<amp-img src="/img/uploads/2010/02/restaurant-gourmet-2.jpg" alt="古い電話" width="400" height="300" layout="responsive"></amp-img>
+![古い電話][2]
 
 この電話、たぶん普通に使ってるんですよ…トトロでしか見たことないし！！
 
@@ -31,7 +31,7 @@ tags:
 
 田舎の小さい店にしては、かなりお得な値段。（都会のランチの値段知りません、洋食店特に）
 
-<amp-img src="/img/uploads/2010/02/restaurant-gourmet-3.jpg" alt="ポークカツ" width="400" height="300" layout="responsive"></amp-img>
+![ポークカツ][3]
 
 この日の日替りは「ポークカツ」でした。（洋食店ですので！）
 
@@ -39,7 +39,7 @@ tags:
 
 デミグラスソース的な（よく知らない）のも美味しいです。
 
-<amp-img src="/img/uploads/2010/02/restaurant-gourmet-4.jpg" alt="食後の珈琲" width="400" height="300" layout="responsive"></amp-img>
+![食後の珈琲][4]
 
 食後のコーヒー。
 
