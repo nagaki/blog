@@ -17,7 +17,7 @@ HTMLで作成するのが良いと思いました。
 早速作業に取り掛かりましたが、一番最初に書き始めたのが、
 ディレクトリツリーを表すためにul, liタグをネストさせているコードだったこともあり、
 
-{% highlight html %}
+```html
 <ul>
   <li>
     ディレクトリ1
@@ -28,7 +28,7 @@ HTMLで作成するのが良いと思いました。
   </li>
   <!-- 以下延々と続く気配 -->
 </ul>
-{% endhighlight %}
+```
 
 ものの数分で厳しいなと気づきました。
 
@@ -42,11 +42,11 @@ MiddlemanでHamlを使って書くとか、JekyllでMarkdownで書くとか思�
 
 「Markdownだったらネストしているリストもこう書ける!!!」
 
-{% highlight text %}
+```md
 * ディレクトリ
     * ファイル1
     * ファイル2
-{% endhighlight %}
+```
 
 Redcarpetの使い方は知りませんが、とにかく残された道はこれしかありませんでした。
 
@@ -54,15 +54,15 @@ Redcarpetの使い方は知りませんが、とにかく残された道はこ�
 
 README.markdownを見たところ下記のようにするようです。たったこれだけ??
 
-{% highlight ruby %}
+```ruby
 markdown = Redcarpet::Markdown.new(renderer, extensions = {})
 markdown.render("This is *bongos*, indeed.")
 # => "<p>This is <em>bongos</em>, indeed.</p>"
-{% endhighlight %}
+```
 
 Markdownの読み込みとHTMLの書き込み、HTMLタグを追加すると、
 
-{% highlight ruby linenos %}
+```ruby
 # coding: utf-8
 require "rubygems"
 require "bundler/setup"
@@ -91,7 +91,7 @@ def publish_html(file_name, title)
 end
 
 publish_html("index", "ホーム")
-{% endhighlight %}
+```
 
 とりあえず、やりたかったことが実現できました。
 Redcarpet素晴らしいです。
@@ -107,7 +107,7 @@ Markdownをシンタックスハイライトする方法を調べてみると、
 Githubを見ていたところ最終更新日が3年前で、最近は[Pygments.rb][pygmentsrb]が主流？というか、
 RedcarpetのREADMEもこっちだったので修正しました。
 
-{% highlight ruby %}
+```ruby
 # シンタックスハイライト
 class HTMLwithPygments < Redcarpet::Render::HTML
   def block_code(code, language)
@@ -118,7 +118,7 @@ markdown = Redcarpet::Markdown.new(HTMLwithPygments, fenced_code_blocks: true)
 
 # CSSも出してくれて便利!!
 puts "<style>#{Pygments.css('.highlight', style: 'monokai')}</style>"
-{% endhighlight %}
+```
 
 秒速でシンタックスハイライトしてくれるPygmentsさんかっこいいですね。
 

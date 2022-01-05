@@ -28,18 +28,18 @@ EC CUBEのディレクトリ構成と同じです。
 ダウンロードしたファイルを再帰的にコピーします。
 Gitファイルもコピーする場合は`.*`もコピーしてください。
 
-{% highlight bash %}
+```bash
 $ git clone https://github.com/nagaki/eccube-bootstrap.git
 $ cp -R eccube-bootstrap/* ~/path/to/eccube/
 $ cp -R eccube-bootstrap/.* ~/path/to/eccube/ #Gitファイルコピー
-{% endhighlight %}
+```
 
 Gitで管理する場合はDBに直接レコードを追加する方法が楽です。
 MySQLコマンド等を使用してデータベーステーブル`dtb_templates`にレコードを追加します。
 
-{% highlight sql %}
+```sql
 INSERT INTO dtb_templates VALUES ("bootstrap", 10, "bootstrap", now(), now());
-{% endhighlight %}
+```
 
 管理画面のメニューにあるデザイン管理>PC>テンプレート設定ページで
 bootstrapを選択してテンプレートを変更します。
@@ -47,7 +47,7 @@ bootstrapを選択してテンプレートを変更します。
 レスポンシブデザインを利用する場合は、`data/class/SC_Display.php`
 にあるスマートフォン判定のコードを削除することで使用できます。
 
-{% highlight php %}
+```php
 <?php
 
 // data/class/SC_Display.php:141
@@ -62,7 +62,7 @@ function detectDevice() {
     return DEVICE_TYPE_PC;
   }
 }
-{% endhighlight %}
+```
 
 作ってから暫く経っているので、直したいところが結構あるので、
 こまめに直したいと思っています。GitHubのIssuesとか使ったらいいのでしょうか。

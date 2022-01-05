@@ -18,9 +18,9 @@ SVG画像はAdobe Illustratorで書き出しても作成できるのですが、
 こっちで書くほうが、少ないコードで記述できそうです。幸いpath要素に下記のような属性がありました。
 これを使うと書けそうです。
 
-{% highlight xml %}
+```xml
 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
-{% endhighlight %}
+```
 
 SVG画像はひたすら座標を指定して書いていきます。
 
@@ -32,10 +32,10 @@ SVG画像はひたすら座標を指定して書いていきます。
 **左上が基準**です。線なので端点から書くといいかと思います。
 座標は相対指定で、パスは一筆書きで書いてみます。
 
-{% highlight xml %}
+```xml
 <path fill="none" stroke="#000"
 d="m1,13 v-6 h6 v-3 a3,3,-6,0,0,-6,0 v3 h6 v6">
-{% endhighlight %}
+```
 
 1. (1, 13)が基準点
 2. 上に6
@@ -53,11 +53,11 @@ d="m1,13 v-6 h6 v-3 a3,3,-6,0,0,-6,0 v3 h6 v6">
 
 線の太さと角・端点の形状を変更してみます。
 
-{% highlight xml %}
+```xml
 <path fill="none" stroke="seagreen"
 stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
 d="m1,13 v-6 h6 v-3 a3,3,-6,0,0,-6,0 v3 h6 v6">
-{% endhighlight %}
+```
 
 思っていたものになりました。
 
@@ -66,7 +66,7 @@ d="m1,13 v-6 h6 v-3 a3,3,-6,0,0,-6,0 v3 h6 v6">
 あとは同じように書きます。同一のd属性に記述すると始点を前の文字の終点からの
 相対指定で書けるのでそうします。
 
-{% highlight xml %}
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -85,7 +85,7 @@ d="m1,13 v-6 h6 v-3 a3,3,-6,0,0,-6,0 v3 h6 v6">
       m6,0 v-12 l6,12 v-12
       m6,12 a3,3,3,0,0,3,-3 v-6 a3,3,-6,0,0,-6,0 v6 a3,3,3,0,0,3,3">
 </svg>
-{% endhighlight %}
+```
 
 xml宣言等表示に必要な全ての要素を記述しています。
 svg要素の中にはpath要素以外に、title要素で名前を記述しています。
