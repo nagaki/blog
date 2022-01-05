@@ -13,3 +13,5 @@ url: https://blog.nagaki.me
 sass:
   sass_dir: _sass
   style: :compressed
+plugins:
+  - jekyll-gist
